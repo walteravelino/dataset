@@ -1,0 +1,1261 @@
+City of Bloomington Traffic Counts,,,,,,,,,,,,,,,,,,
+Loc ID,County,Community,Functional Class,Rural Urban,On,From,To,Approach,At,Dir,Directions,Category,LRS ID,LRS Loc Pt,Latitude,Longitude,Latest,Latest Date
+p4014,Monroe,Bloomington,-,,Ralston Drive,,,,From S. Banta Ave. to S. Ford Ave.,2-WAY,EB/WB,,,,39.13850562,-86.54279629,217,4/4/2019
+p406,Monroe,Bloomington,-,,Graham Drive,,,,From S. Brown Ave. to S. Ford Ave.,2-WAY,EB/WB,,,,39.13988659,-86.54148147,510,4/4/2019
+p4137,Monroe,Bloomington,-,,Coolidge Drive,,,,From S. Brown Ave. to S. Ford Ave.,2-WAY,EB/WB,,,,39.14130065,-86.54162878,498,4/4/2019
+rcl1102,Monroe,Bloomington,-,,ADAMS HILL,MASTON,COUNTRYSIDE,BETWEEN,MASTON AND COUNTRYSIDE,2-WAY,NB/SB,,,,,,590,4/4/2019
+rcl283,Monroe,Bloomington,-,,Pinehurst Drive,,,,North of Pine Meadows Dr.,2-WAY,NB/SB,,,,39.13814182,-86.54976075,283,4/4/2019
+rcl289,Monroe,Bloomington,-,,PINEHURST,PINE MEADOWS,SOUTHERN PINES,BETWEEN,PINE MEADOWS AND SOUTHERN PINES,2-WAY,NB/SB,,,,,,467,4/4/2019
+p45186,Monroe,Bloomington,-,,Kirkwood Avenue,,,,Between Fairview and Maple,2-WAY,EB/WB,,,,39.16664883,-86.5415463,11937,3/28/2019
+rcl1104,Monroe,Bloomington,-,,Countryside Lane,,,,From S. Sunflower Dr. to W. Adams Hill Cir.,2-WAY,EB/WB,,,,39.14194647,-86.55256484,1044,3/28/2019
+rcl1212,Monroe,Bloomington,-,,Countryside Lane,,,,From S. Adams St. to S. Sunflower Dr.,2-WAY,EB/WB,,,,39.14095774,-86.55513957,1207,3/28/2019
+rcl1579,Monroe,Bloomington,-,,Countryside Lane,,,,From W. Adams Hill Cir. To S. Star View Ln.,2-WAY,EB/WB,,,,39.1424094,-86.54981464,1404,3/28/2019
+rcl271,Monroe,Bloomington,-,,Countryside Lane,,,,From S. Zona Ct. to S. Cutter Ct.,2-WAY,EB/WB,,,,39.14316403,-86.54550023,1551,3/28/2019
+u4126,Monroe,Bloomington,-,,OLCOTT,BRIGS,WINSTON,BETWEEN,BRIGS AND WINSTON,2-WAY,NB/SB,,,,,,262,10/24/2018
+u4127,Monroe,Bloomington,-,,OLCOTT,BRIGS,BRIGS,BETWEEN,BRIGS AND BRIGS,2-WAY,NB/SB,,,,,,837,10/23/2018
+r4434,Monroe,Bloomington,-,,MAXWELL,PARK,WOODLAWN,BETWEEN,PARK AND WOODLAWN,2-WAY,EB/WB,,,,,,1481,10/4/2018
+r4436,Monroe,Bloomington,-,,MAXWELL,FESS,STULL,BETWEEN,FESS AND STULL,2-WAY,EB/WB,,,,,,1488,10/4/2018
+r3949,Monroe,Bloomington,-,,ALLENDALE,WELLINGTON,TUDOR,BETWEEN,WELLINGTON AND TUDOR,2-WAY,EB/WB,,,,,,1252,9/13/2018
+r3959,Monroe,Bloomington,-,,ALLENDALE,ESSEX,DUNSTAN,BETWEEN,ESSEX AND DUNSTAN,2-WAY,EB/WB,,,,,,1223,9/13/2018
+r3979,Monroe,Bloomington,-,,ALLENDALE,ALLENDALE,BROWNING,BETWEEN,ALLENDALE AND BROWNING,2-WAY,NB/SB,,,,,,1591,9/13/2018
+r4242,Monroe,Bloomington,-,,MAXWELL,MILLER,THORNTON,BETWEEN,MILLER AND THORNTON,2-WAY,NB/SB,,,,,,829,9/13/2018
+r4244,Monroe,Bloomington,-,,MAXWELL,THORNTON,HILLSIDE,BETWEEN,THORNTON AND HILLSIDE,2-WAY,NB/SB,,,,,,892,9/13/2018
+rcl1495,Monroe,Bloomington,-,,Smith Road,,,,From E. Lorelei Way to E. Moores Pike,2-WAY,NB/SB,,,,39.1497782,-86.48044691,5219,7/26/2018
+rcl483,Monroe,Bloomington,-,,MOORES,SMITH,STATE ROAD 446,BETWEEN,SMITH AND STATE ROAD 446,2-WAY,EB/WB,,,,,,5053,7/26/2018
+rcl768,Monroe,Bloomington,-,,Moores Pike,,,,Bet. Olcott and Smith Rd.,2-WAY,EB/WB,,,,39.15021062,-86.48178345,5702,7/26/2018
+rcl1021,Monroe,Bloomington,-,,Smith Road,,,,North of Moores Pike,2-WAY,NB/SB,,,,39.15107827,-86.48048074,4953,7/25/2018
+q432,Monroe,Bloomington,-,,ALLEN,WALNUT,WASHINGTON,BETWEEN,WALNUT AND WASHINGTON,2-WAY,EB/WB,,,,,,449,6/7/2018
+q436,Monroe,Bloomington,-,,Allen Street,,,,East of Grant,2-WAY,EB/WB,,,,39.15558101,-86.52968376,444,6/7/2018
+rcl578,Monroe,Bloomington,-,,CRESCENT,VERNAL,17th,BETWEEN,VERNAL AND 17th,2-WAY,NB/SB,,,,,,4463,6/6/2018
+o4655,Monroe,Bloomington,-,,Vernal Pike,,,,S. of N. Crescent Rd.,2-WAY,EB/WB,,,,39.17424769,-86.5559325,4888,5/24/2018
+o4660,Monroe,Bloomington,-,,Vernal Pike,,,,From W. 8th St. to W. Gray St.,2-WAY,EB/WB,,,,39.171314,-86.5525339,3554,5/24/2018
+s4215,Monroe,Bloomington,-,,ARDEN,WILLIAMS,GREENFIELD,BETWEEN,WILLIAMS AND GREENFIELD,2-WAY,NB/SB,,,,,,572,5/24/2018
+q4352,Monroe,Bloomington,-,,Washington Street,,,,South of Dodds,1-WAY,SB,,,,39.15694316,-86.53244586,2176,5/3/2018
+q4454,Monroe,Bloomington,-,,Washington Street,,,,From E. 1st St. to E. 2nd St.,1-WAY,SB,,,,39.16036466,-86.53240761,2617,5/3/2018
+q492,Monroe,Bloomington,-,,Old State Road 37,,,,N. of W. Gourley Pike,2-WAY,NB/SB,,,,39.19137425,-86.53549872,820,5/3/2018
+q4116,Monroe,Bloomington,-,,HENDERSON,NORTH,MILLER,BETWEEN,NORTH AND MILLER,2-WAY,NB/SB,,,,,,8847,5/2/2018
+q4119,Monroe,Bloomington,-,,NORTH,WALNUT,HENDERSON,BETWEEN,WALNUT AND HENDERSON,2-WAY,EB/WB,,,,,,2632,5/2/2018
+p4335,Monroe,Bloomington,-,,Allen Street,,,,From S. Morton St. to S. Walnut St.,2-WAY,EB/WB,,,,39.15559709,-86.53497291,388,4/19/2018
+rcl703,Monroe,Bloomington,-,,17TH,ARLINGTON PARK,LINDBERGH,BETWEEN,ARLINGTON PARK AND LINDBERGH,2-WAY,EB/WB,,,,,,7073,4/19/2018
+r4453,Monroe,Bloomington,-,,WOODLAWN,2ND,HUNTER,BETWEEN,2ND AND HUNTER,2-WAY,NB/SB,,,,,,2040,4/12/2018
+r4566,Monroe,Bloomington,-,,HUNTER,WOODLAWN,FACULTY,BETWEEN,WOODLAWN AND FACULTY,2-WAY,EB/WB,,,,,,591,4/12/2018
+q4443,Monroe,Bloomington,-,,College Avenue,,,,From W. 1st St. to W. 2nd St.,1-WAY,SB,,,,39.16038433,-86.53496666,11671,3/7/2018
+q4446,Monroe,Bloomington,-,,Walnut Street,,,,From W. 1st St. to W. 2nd St.,1-WAY,NB,,,,39.1603685,-86.53365376,12090,3/7/2018
+q474,Monroe,Bloomington,-,,COLLEGE,14TH,15TH,BETWEEN,14TH AND 15TH,1-WAY,SB,,,,,,12314,3/7/2018
+r4251,Monroe,Bloomington,-,,Huntington Drive,,,,From E. Miller Dr. to E. Thornton Dr.,2-WAY,NB/SB,,,,39.14808113,-86.52084221,721,2/22/2018
+p4453,Monroe,Bloomington,-,,2nd Street,,,,From S. Maple St. to S. Rogers St.,2-WAY,EB/WB,,,,39.1614119,-86.54046877,15698,11/30/2017
+q4667,Monroe,Bloomington,-,,10th Street,,,,From N. Lincoln St. to N. Grant St.,2-WAY,EB/WB,,,,39.17168216,-86.53039489,10158,11/30/2017
+q4697,Monroe,Bloomington,-,,7TH,INDIANA,FESS,BETWEEN,INDIANA AND FESS,2-WAY,EB/WB,,,,,,6383,11/30/2017
+q4845,Monroe,Bloomington,-,,College Avenue,,,,From W. 17th St. to W. Vaughn Clipp Way,1-WAY,SB,,,,39.18075401,-86.53469179,9847,11/30/2017
+rcl1718,Monroe,Bloomington,-,,MOORES,SMITH,STATE ROAD 446,BETWEEN,SMITH AND STATE ROAD 446,2-WAY,EB/WB,,,,,,4856,11/29/2017
+p431,Monroe,Bloomington,-,,Rogers Street,,,,Bet. W. Hillside Dr. and W. Wilson St.,2-WAY,NB/SB,,,,39.15113071,-86.53878352,14488,11/8/2017
+p45156,Monroe,Bloomington,-,,Kirkwood Avenue,,,,From S. Fairview St. to S. Jackson St.,2-WAY,EB/WB,,,,39.16664158,-86.54038743,12744,11/8/2017
+o449,Monroe,Bloomington,-,,Adams Street,,,,South of Bloomfield Rd.,2-WAY,NB/SB,,,,39.15870465,-86.55071365,2636,10/26/2017
+q425,Monroe,Bloomington,-,,Hillside Drive,,,,From S. Lincoln St. to S. Grant St.,2-WAY,EB/WB,,,,39.15051174,-86.53083431,9091,10/26/2017
+rcl1691,Monroe,Bloomington,-,,ADAMS,ARCH HAVEN,PATTERSON,BETWEEN,ARCH HAVEN AND PATTERSON,2-WAY,NB/SB,,,,,,1689,10/26/2017
+rcl541,Monroe,Bloomington,-,,Canada Drive,,,,W. of Claybridge,2-WAY,EB/WB,,,,39.12743278,-86.50888667,452,9/13/2017
+rcl543,Monroe,Bloomington,-,,Canada Drive,,,,From S. Claybridge Dr. to S. Sare Rd.,2-WAY,EB/WB,,,,39.1270923,-86.5052575,571,9/13/2017
+rcl909,Monroe,Bloomington,-,,Canada Drive,,,,From E. Goldin Dr. to S. Claybridge Dr.,2-WAY,EB/WB,,,,39.12730777,-86.50693373,417,9/13/2017
+r4335,Monroe,Bloomington,-,,SHERIDAN,,,EAST OF,BALLANTINE,1-WAY,EB,,,,39.155872,-86.518643,363,9/10/2017
+r4342,Monroe,Bloomington,-,,SOUTHDOWNS,,,EAST OF,BALLANTINE,1-WAY,EB,,,,39.155722,-86.518654,381,9/10/2017
+s4570,Monroe,Bloomington,-,,UNION,,,SOUTH OF,3RD,2-WAY,NB/SB,,,,,,145,9/7/2017
+o4310,Monroe,Bloomington,-,,Allen Street,,,,From S. Christopher Ln. to S. Ransom Ln.,2-WAY,EB/WB,,,,39.15591427,-86.55532142,4500,8/31/2017
+rcl149,Monroe,Bloomington,-,,THE STANDS,CEDARWOOD,CEDARWOOD,BETWEEN,CEDARWOOD AND CEDARWOOD,2-WAY,NB/SB,,,,,,723,8/30/2017
+s3922,Monroe,Bloomington,-,,THE STANDS,ROLLING OAK,LINDEN HILL,BETWEEN,ROLLING OAK AND LINDEN HILL,2-WAY,NB/SB,,,,,,1259,8/30/2017
+s3925,Monroe,Bloomington,-,,THE STANDS,OAKMONT,COPPERTREE,BETWEEN,OAKMONT AND COPPERTREE,2-WAY,NB/SB,,,,,,1853,8/30/2017
+v4640,Monroe,Bloomington,-,,SMITH,GRANDVIEW,10TH,BETWEEN,GRANDVIEW AND 10TH,2-WAY,NB/SB,,,,,,9168,8/24/2017
+o4643,Monroe,Bloomington,-,,ADAMS,7th,10TH,BETWEEN,7th AND 10TH,2-WAY,NB/SB,,,,,-86.531156,7583,7/13/2017
+o489,Monroe,Bloomington,-,,Arlington Road,,,,From W. 20th St. to W. 17th St.,2-WAY,EB/WB,,,,39.18115646,-86.54933844,5182,7/13/2017
+o4927,Monroe,Bloomington,-,,ARLINGTON,GOURLEY,HICKORY,BETWEEN,GOURLEY AND HICKORY,2-WAY,EB/WB,,,,,,5199,7/13/2017
+rcl1449,Monroe,Bloomington,-,,Hawksmore Drive,,,,From E. Railway Circle to E. Melville Circle,2-WAY,NB/SB,,,,39.14378848,-86.50105486,478,6/13/2017
+s4219,Monroe,Bloomington,-,,Queens Way,,,,From S. Sussex Dr. to S. Chelsey Ct.,2-WAY,EB/WB,,,,39.14642059,-86.50626932,421,6/13/2017
+r4437,Monroe,Bloomington,-,,wylie,WOODLAWN,HAWTHORNE,BETWEEN,WOODLAWN AND HAWTHORNE,2-WAY,EB/WB,,,,,,111,4/20/2017
+r4458,Monroe,Bloomington,-,,Hawthorne Drive,,,,From E. Maxwell Ln. to E. Wylie St.,2-WAY,NB/SB,,,,39.15817257,-86.52020303,194,4/20/2017
+rcl887,Monroe,Bloomington,-,,John Hinkle Place,,,,N. of Bell Trace Dr.,2-WAY,NB/SB,,,,39.171205,-86.49085924,1357,4/20/2017
+s4535,Monroe,Bloomington,-,,CLARK,5th,7TH,BETWEEN,5th AND 7TH,2-WAY,NB/SB,,,,,,242,4/20/2017
+s4041,Monroe,Bloomington,-,,Rock Creek Drive,,,,W. of Woodbluff Ct.,2-WAY,EB/WB,,,,39.1400261,-86.50655127,562,4/12/2017
+s4131,Monroe,Bloomington,-,,Montclair Avenue,,,,S. of Sussex Dr.,2-WAY,NB/SB,,,,39.14424665,-86.50423004,268,4/11/2017
+q5016,Monroe,Bloomington,-,,Walnut Street,,,,South of Blue Ridge,2-WAY,NB/SB,,,,39.19422952,-86.53349306,15727,4/6/2017
+q4378,Monroe,Bloomington,-,,PALMER,dodds,DIXIE,BETWEEN,dodds AND DIXIE,2-WAY,NB/SB,,,,,,46,3/29/2017
+q4433,Monroe,Bloomington,-,,DODDS,PALMER,grant,BETWEEN,PALMER AND grant,2-WAY,EB/WB,,,,,,352,3/29/2017
+o4627,Monroe,Bloomington,-,,8th Street,,,,From N. Hopewell St. to W. Vernal Pike,2-WAY,EB/WB,,,,39.16960737,-86.55111232,968,3/9/2017
+l372,Monroe,Bloomington,-,,LEONARD SPRINGS,FULLERTON,HEATHERWOOD,BETWEEN,FULLERTON AND HEATHERWOOD,2-WAY,NB/SB,,,,,,3042,12/1/2016
+t4223,Monroe,Bloomington,-,,MOORES,CAPE COD,VALLEY FORGE,BETWEEN,CAPE COD AND VALLEY FORGE,2-WAY,EB/WB,,,,,,12676,11/17/2016
+p45144,Monroe,Bloomington,-,,MADISON,KIRKWOOD,6th,BETWEEN,KIRKWOOD AND 6th,2-WAY,NB/SB,,,,,,2039,11/3/2016
+p4543,Monroe,Bloomington,-,,GRANT,4th,KIRKWOOD,BETWEEN,4th AND KIRKWOOD,2-WAY,NB/SB,,,,,,2917,11/3/2016
+p4575,Monroe,Bloomington,-,,KIRKWOOD,GRANT,dunn,BETWEEN,GRANT AND dunn,2-WAY,EB/WB,,,,,,5231,11/3/2016
+q4544,Monroe,Bloomington,-,,grant,6TH,KIRKWOOD,BETWEEN,6TH AND KIRKWOOD,2-WAY,NB/SB,,,,,,3088,11/3/2016
+q4576,Monroe,Bloomington,-,,KIRKWOOD,LINCOLN ST,grant,BETWEEN,LINCOLN ST AND grant,2-WAY,EB/WB,,,,,,5480,11/3/2016
+t453,Monroe,Bloomington,-,,HILLSDALE,,,SOUTH OF,4TH,2-WAY,NB/SB,,,,,,1452,10/6/2016
+p478,Monroe,Bloomington,-,,11TH,DIAMOND,BLAIR,BETWEEN,DIAMOND AND BLAIR,2-WAY,EB/WB,,,,,,3563,9/22/2016
+s467,Monroe,Bloomington,-,,7TH,JEFFERSON,ROOSEVELT,BETWEEN,JEFFERSON AND ROOSEVELT,2-WAY,EB/WB,,,,,,1397,9/22/2016
+t462,Monroe,Bloomington,-,,7TH,HILLSDALE,OVERHILL,BETWEEN,HILLSDALE AND OVERHILL,2-WAY,EB/WB,,,,,,337,9/22/2016
+q3918,Monroe,Bloomington,-,,RIDGEVIEW,SUNNY SLOPES,brookside,BETWEEN,SUNNY SLOPES AND brookside,2-WAY,EB/WB,,,,,,196,9/1/2016
+q3920,Monroe,Bloomington,-,,BROOKSIDE,SUNNY SLOPES,ridgeview,BETWEEN,SUNNY SLOPES AND ridgeview,2-WAY,NB/SB,,,,,,137,9/1/2016
+rcl184,Monroe,Bloomington,-,,BURKS,WALNUT SPRINGS,KENNEDY,BETWEEN,WALNUT SPRINGS AND KENNEDY,2-WAY,EB/WB,,,,,,1555,9/1/2016
+rcl337,Monroe,Bloomington,-,,OLCOTT,FORRESTER,MULBERRY,BETWEEN,FORRESTER AND MULBERRY,2-WAY,EB/WB,,,,,,502,4/27/2016
+u411,Monroe,Bloomington,-,,TAPPS,DAVID,FORRESTER,BETWEEN,DAVID AND FORRESTER,2-WAY,EB/WB,,,,,,166,4/27/2016
+u4129,Monroe,Bloomington,-,,OLCOTT,ST REMY,BRIGS,BETWEEN,ST REMY AND BRIGS,2-WAY,NB/SB,,,,,,711,4/27/2016
+u4221,Monroe,Bloomington,-,,WINSTON,HEATH,TROTTERS,BETWEEN,HEATH AND TROTTERS,2-WAY,EB/WB,,,,,,297,4/27/2016
+u428,Monroe,Bloomington,-,,OLCOTT,REED,TAYLOR,BETWEEN,REED AND TAYLOR,2-WAY,NB/SB,,,,,,1439,4/27/2016
+q4323,Monroe,Bloomington,-,,GRIMES,FESS,STULL,BETWEEN,FESS AND STULL,2-WAY,EB/WB,,,,,,2021,4/21/2016
+r4310,Monroe,Bloomington,-,,STULL,WILSON,GRIMES,BETWEEN,WILSON AND GRIMES,2-WAY,NB/SB,,,,,,322,4/21/2016
+r4420,Monroe,Bloomington,-,,UNIVERSITY,FESS,PARK,BETWEEN,FESS AND PARK,2-WAY,EB/WB,,,,,,228,4/21/2016
+q4634,Monroe,Bloomington,-,,GRANT,7TH,8TH,BETWEEN,7TH AND 8TH,2-WAY,NB/SB,,,,,,1512,4/7/2016
+q4691,Monroe,Bloomington,-,,8TH,GRANT,HAROLD,BETWEEN,GRANT AND HAROLD,1-WAY,EB,,,,,,557,4/7/2016
+p45141,Monroe,Bloomington,-,,6th,ROGERS ST,MADISON,BETWEEN,ROGERS ST AND MADISON,2-WAY,EB/WB,,,,,,1790,3/23/2016
+p4625,Monroe,Bloomington,-,,ROGERS ST,7th,8th,BETWEEN,7th AND 8th,2-WAY,NB/SB,,,,,,10792,3/23/2016
+p4650,Monroe,Bloomington,-,,8th,JACKSON,ROGERS ST,BETWEEN,JACKSON AND ROGERS ST,2-WAY,EB/WB,,,,,,762,3/23/2016
+rcl1664,Monroe,Bloomington,-,,ROGERS ST,8th,10TH,BETWEEN,8th AND 10TH,2-WAY,NB/SB,,,,,,10197,3/23/2016
+l4011,Monroe,Bloomington,-,,Leonard Springs Road,,,,LEONARD SPRINGS ROAD S OF SR45,2-WAY,NB/SB,,,,39.14105624,-86.58261477,11101,1/1/2016
+o4548,Monroe,Bloomington,-,,6th Street,,,,East of Oak,2-WAY,EB/WB,,,,39.16762926,-86.54608489,385,1/1/2016
+o479,Monroe,Bloomington,-,,Oolitic Drive,,,,From W. 12th St. to W. 14th St.,2-WAY,NB/SB,,,,39.17509946,-86.55369309,286,1/1/2016
+p4111,Monroe,Bloomington,-,,Rogers Street,,,,S. of Rockport Rd.,2-WAY,NB/SB,,,,39.14460578,-86.53889875,8094,1/1/2016
+p4324,Monroe,Bloomington,-,,Rogers Street,,,,Bet. Dixie and Allen,2-WAY,NB/SB,,,,39.156079,-86.5387041,8791,1/1/2016
+p45131,Monroe,Bloomington,-,,4th Street,,,,From S. Jackson St. to S. Rogers St.,2-WAY,EB/WB,,,,39.16563144,-86.53928618,824,1/1/2016
+p45132,Monroe,Bloomington,-,,4th Street,,,,From S. Rogers St. to S. Madison St.,2-WAY,EB/WB,,,,39.16561902,-86.53806692,1746,1/1/2016
+p45134,Monroe,Bloomington,-,,Rogers Street,,,,From W. 3rd St. to W. 4th St.,2-WAY,NB/SB,,,,39.16512888,-86.53870077,11943,1/1/2016
+p45135,Monroe,Bloomington,-,,Rogers Street,,,,From W. 4th St. to W. Kirkwood Ave.,2-WAY,NB/SB,,,,39.16611982,-86.53869693,12362,1/1/2016
+p45137,Monroe,Bloomington,-,,Madison Street,,,,From W. 4th St. to W. Kirkwood Ave.,2-WAY,NB/SB,,,,39.16610745,-86.53742539,1587,1/1/2016
+p45146,Monroe,Bloomington,-,,Rogers Street,,,,From W. Kirkwood Ave. to W. 6th St.,2-WAY,NB/SB,,,,39.1671049,-86.5386812,11565,1/1/2016
+p45147,Monroe,Bloomington,-,,Rogers Street,,,,Bet. 6th St. and 7th St.,2-WAY,NB/SB,,,,39.16809302,-86.53866941,11509,1/1/2016
+p45153,Monroe,Bloomington,-,,Kirkwood Avenue,,,,At old CSX Crossing,2-WAY,EB/WB,,,,39.16659777,-86.53676242,6270,1/1/2016
+p45154,Monroe,Bloomington,-,,Kirkwood Avenue,,,,Bet. Madison St. and Rogers St.,2-WAY,EB/WB,,,,39.16660825,-86.5380551,7185,1/1/2016
+p45168,Monroe,Bloomington,-,,6th Street,,,,From S. Jackson St. to S. Rogers St.,2-WAY,EB/WB,,,,39.16759755,-86.53926193,887,1/1/2016
+p45213,Monroe,Bloomington,-,,Kirkwood Avenue,,,,Between Waldron and Maple,2-WAY,EB/WB,,,,39.16666613,-86.5445249,12411,1/1/2016
+p4635,Monroe,Bloomington,-,,7th Street,,,,From N. Rogers St. to N. Madison St.,2-WAY,EB/WB,,,,39.16858528,-86.53802849,3330,1/1/2016
+p4637,Monroe,Bloomington,-,,7th Street,,,,East of Fairview,2-WAY,EB/WB,,,,39.16861507,-86.54050004,1193,1/1/2016
+p4651,Monroe,Bloomington,-,,8th Street,,,,E. of Old Railroad,2-WAY,EB/WB,,,,39.16952802,-86.5381148,1135,1/1/2016
+p4712,Monroe,Bloomington,-,,11th Street,,,,From N. Rogers St. to N. Morton St.,2-WAY,EB/WB,,,,39.17327064,-86.53771997,3122,1/1/2016
+q4020,Monroe,Bloomington,-,,Winslow Road,,,,From S. Walnut St. Pike to S. Henderson St.,2-WAY,EB/WB,,,,39.13598821,-86.52783983,13931,1/1/2016
+q4418,Monroe,Bloomington,-,,1st Street,,,,Bet. Grant and Henderson,2-WAY,EB/WB,,,,39.15932308,-86.52851218,3116,1/1/2016
+q4470,Monroe,Bloomington,-,,Henderson Street,,,,From E. 1st St. to E. University St.,2-WAY,NB/SB,,,,39.1598543,-86.52716735,3843,1/1/2016
+q4471,Monroe,Bloomington,-,,Henderson Street,,,,S. of 1st St.,2-WAY,NB/SB,,,,39.15881223,-86.52712997,4411,1/1/2016
+q45100,Monroe,Bloomington,-,,Smith Avenue,,,,From S. Walnut St. to S. Washington St.,2-WAY,EB/WB,,,,39.16283437,-86.53301385,395,1/1/2016
+q4631,Monroe,Bloomington,-,,Grant Street,,,,From E. 9th St. to E. 10th St.,2-WAY,NB/SB,,,,39.17106494,-86.52976769,1307,1/1/2016
+q4632,Monroe,Bloomington,-,,GRANT,ALICE,9th,BETWEEN,ALICE AND 9th,2-WAY,NB/SB,,,,39.170147,-86.529779,1289,1/1/2016
+q4690,Monroe,Bloomington,-,,8th Street,,,,Bet. Lincoln St. and Grant St.,2-WAY,EB/WB,,,,39.16947842,-86.53041584,445,1/1/2016
+q4829,Monroe,Bloomington,-,,Walnut Street,19TH,OLD STATE ROAD 37,BETWEEN,19TH AND OLD STATE ROAD 37,1-WAY,NB,,,,39.18242364,-86.53396245,9922,1/1/2016
+r407,Monroe,Bloomington,-,,Winslow Road,,,,Bet. Allendale and Abby,2-WAY,EB/WB,,,,39.13600522,-86.51469771,10733,1/1/2016
+r4541,Monroe,Bloomington,-,,Jordan Avenue,,,,From E. Atwater Ave. to E. 3rd St.,2-WAY,NB/SB,,,,39.1636664,-86.51640453,6274,1/1/2016
+r4577,Monroe,Bloomington,-,,Hawthorne Drive,,,,S. of 3rd St.,2-WAY,NB/SB,,,,39.16368763,-86.52019118,1309,1/1/2016
+r4623,Monroe,Bloomington,-,,Jordan Avenue,,,,N. of IU Library Parking Lot,2-WAY,NB/SB,,,,39.17027374,-86.51609937,9112,1/1/2016
+r4626,Monroe,Bloomington,-,,Jordan Avenue,,,,From E. 10th St. to E. Law Ln.,2-WAY,NB/SB,,,,39.17250411,-86.51564671,7032,1/1/2016
+r4810,Monroe,Bloomington,-,,JORDAN,FEE,FISHER,BETWEEN,FEE AND FISHER,2-WAY,NB/SB,,,,39.183737,-86.517956,2590,1/1/2016
+rcl279,Monroe,Bloomington,-,,Daniel Street,,,,West of Brookstone,2-WAY,EB/WB,,,,39.13761356,-86.49083114,404,1/1/2016
+rcl435,Monroe,Bloomington,-,,Kinser Pike,,,,From W. Brookdale Dr. to W. Amaryllis Dr.,2-WAY,NB/SB,,,,39.18337385,-86.53772663,8845,1/1/2016
+s4421,Monroe,Bloomington,-,,High Street,,,,South of 1st St.,2-WAY,NB/SB,,,,39.15850204,-86.50846409,5346,1/1/2016
+s4422,Monroe,Bloomington,-,,High Street,,,,Bet. 1st St. and 2nd St.,2-WAY,NB/SB,,,,39.16011631,-86.50846316,5524,1/1/2016
+s4455,Monroe,Bloomington,-,,2nd Street,,,,Bet. Arbutus and Rose,2-WAY,EB/WB,,,,39.16102944,-86.51184896,4059,1/1/2016
+s4520,Monroe,Bloomington,-,,High Street,,,,North of Atwater Ave.,2-WAY,NB/SB,,,,39.16367726,-86.50847163,5135,1/1/2016
+s4522,Monroe,Bloomington,-,,Union Street,,,,From E. 4th St. to E. 5th St.,2-WAY,NB/SB,,,,39.16620182,-86.50944009,2819,1/1/2016
+s4526,Monroe,Bloomington,-,,Bryan Street,,,,From E. 3rd St. to E. 4th St.,2-WAY,NB/SB,,,,39.16492758,-86.50826953,852,1/1/2016
+s486,Monroe,Bloomington,-,,Jordan Avenue,,,,N. of 17th St.,2-WAY,NB/SB,,,,39.18092855,-86.51114352,3710,1/1/2016
+t4333,Monroe,Bloomington,-,,Covenanter Drive,,,,From E. Rechter Rd. to E. Covenanter Ct.,2-WAY,EB/WB,,,,39.15518089,-86.49905483,1587,1/1/2016
+t446,Monroe,Bloomington,-,,Woodscrest Drive,,,,North of 2nd St.,2-WAY,NB/SB,,,,39.16258776,-86.50245103,3750,1/1/2016
+t451,Monroe,Bloomington,-,,HILLSDALE,,,,North of 5th St.,2-WAY,NB/SB,,,,39.1671776,-86.50344888,1084,1/1/2016
+t4529,Monroe,Bloomington,-,,Pete Ellis Drive,,,,N. of Longview,2-WAY,NB/SB,,,,39.16766458,-86.49492905,8022,1/1/2016
+u403,Monroe,Bloomington,-,,Forrester Street,,,,300' S. of Olcott Boulevarde,2-WAY,NB/SB,,,,39.13961807,-86.49268879,438,1/1/2016
+u414,Monroe,Bloomington,-,,Forrester Street,,,,South of Kristen,2-WAY,NB/SB,,,,39.14065313,-86.49254686,347,1/1/2016
+u4536,Monroe,Bloomington,-,,Park Lane,,,,From S. Morningside Dr. to S. Meadowbrook Dr.,2-WAY,EB/WB,,,,39.16529835,-86.48669407,133,1/1/2016
+o4611,Monroe,Bloomington,-,,Cottage Grove Avenue,,,,E. of Monroe St.,2-WAY,EB/WB,,,,39.17259351,-86.54601475,110,1/1/2015
+o4622,Monroe,Bloomington,-,,Monroe Street,,,,North of W. Cottage Grove Ave.,2-WAY,NB/SB,,,,39.17241329,-86.54710565,200,1/1/2015
+p3812,Monroe,Bloomington,-,,Rogers Street,,,,From S. Hays Dr. to W. Pargrave Pl.,2-WAY,NB/SB,,,,39.12504448,-86.538955,6979,1/1/2015
+p4639,Monroe,Bloomington,-,,7th Street,,,,Waldron - East,2-WAY,EB/WB,,,,39.16862952,-86.54294394,734,1/1/2015
+q375,Monroe,Bloomington,-,,Rhorer Road,,,,Bet. S. Kennedy Dr. and S. Walnut St. Pk.,2-WAY,EB/WB,,,,39.1214474,-86.52757608,8354,1/1/2015
+q428,Monroe,Bloomington,-,,Hillside Drive,,,,From S. Henderson St. to S. Park Ave.,2-WAY,EB/WB,,,,39.15053905,-86.52534414,11465,1/1/2015
+q4467,Monroe,Bloomington,-,,Dunn Street,,,,N. of 2nd St.,1-WAY,SB,,,,39.16208451,-86.52840511,1399,1/1/2015
+q4538,Monroe,Bloomington,-,,Dunn Street,,,,North of Smith Ave.,1-WAY,SB,,,,39.16317823,-86.5284247,1447,1/1/2015
+q4662,Monroe,Bloomington,-,,10th Street,,,,From N. College Ave. to N. Walnut St.,2-WAY,EB/WB,,,,39.17166883,-86.53419885,5798,1/1/2015
+q5317,Monroe,Bloomington,-,,Old State Road 37,,,,South of Audubon,2-WAY,NB/SB,,,,39.20925688,-86.52538682,4526,1/1/2015
+q533,Monroe,Bloomington,-,,Old State Road 37,,,,From N. Stonemill Rd. to N. Hillview Dr.,2-WAY,NB/SB,,,,39.20817142,-86.53083195,4565,1/1/2015
+r408,Monroe,Bloomington,-,,Winslow Road,,,,From S. Highland Ave. to S. Allendale Dr.,2-WAY,EB/WB,,,,39.1359945,-86.51670184,9892,1/1/2015
+r4578,Monroe,Bloomington,-,,Hawthorne Drive,,,,S. of Atwater Ave.,2-WAY,NB/SB,,,,39.16265152,-86.52019068,844,1/1/2015
+rcl1499,Monroe,Bloomington,-,,Allen Street,,,,From S. Larkspur Ln. to S. Strong Dr.,2-WAY,EB/WB,,,,39.15567723,-86.5461441,4759,1/1/2015
+rcl1561,Monroe,Bloomington,-,,Sare Road,,,,From S. McCartney Ln. to E. Cathcart St.,2-WAY,NB/SB,,,,39.14699,-86.49896667,13506,1/1/2015
+rcl2,Monroe,Bloomington,-,,10th Street,,,,West of Morton St.,2-WAY,EB/WB,,,,39.17125373,-86.53728198,1556,1/1/2015
+rcl474,Monroe,Bloomington,-,,Highland Avenue,,,,From E. Winslow Rd. to E. Winslow Farm Rd.,2-WAY,NB/SB,,,,39.13688325,-86.5175711,2150,1/1/2015
+rcl478,Monroe,Bloomington,-,,Moores Pike,,,,From S. Clarizz Blvd. to S. Fenbrook Ln.,2-WAY,EB/WB,,,,39.15027681,-86.48926561,6959,1/1/2015
+s4017,Monroe,Bloomington,-,,The Stands Drive,,,,From E. Autumn Dr. to E. Coppertree Dr.,2-WAY,NB/SB,,,,39.13501661,-86.50484766,1985,1/1/2015
+s4039,Monroe,Bloomington,-,,High Street,,,,South of Meadowbrook Ct.,2-WAY,NB/SB,,,,39.14127036,-86.50825765,3441,1/1/2015
+s432,Monroe,Bloomington,-,,Mitchell Street,,,,From E. Southdowns Dr. to E. Maxwell Ln.,2-WAY,NB/SB,,,,39.15677377,-86.51374911,755,1/1/2015
+s4424,Monroe,Bloomington,-,,Anita Street,,,,From E. 2nd St. to E. Hunter Ave.,2-WAY,NB/SB,,,,39.1616119,-86.51033574,56,1/1/2015
+s445,Monroe,Bloomington,-,,Mitchell Street,,,,Bet. Maxwell and 1st St.,2-WAY,NB/SB,,,,39.15854579,-86.5138484,243,1/1/2015
+s4451,Monroe,Bloomington,-,,2nd Street,,,,From S. Swain Ave. to S. Mitchell St.,2-WAY,EB/WB,,,,39.16103308,-86.51472036,3331,1/1/2015
+s4622,Monroe,Bloomington,-,,Union Street,,,,South of 10th St.,2-WAY,NB/SB,,,,39.16989631,-86.50944825,5427,1/1/2015
+t405,Monroe,Bloomington,-,,Rogers Road,,,,From S. High St. to S. The Stands Dr.,2-WAY,EB/WB,,,,39.13632275,-86.50603274,8523,1/1/2015
+t406,Monroe,Bloomington,-,,Rogers Road,,,,E. of The Stands Dr.,2-WAY,EB/WB,,,,39.13598197,-86.50248353,7220,1/1/2015
+t429,Monroe,Bloomington,-,,Winston Street,,,,From S. Churchill Ct. to S. Atlee Ct.,2-WAY,EB/WB,,,,39.14564795,-86.49422269,1071,1/1/2015
+t4332,Monroe,Bloomington,-,,Covenanter Drive,,,,W. of Rechter/Woodbine,2-WAY,EB/WB,,,,39.15522774,-86.50136045,1046,1/1/2015
+t4527,Monroe,Bloomington,-,,Pete Ellis Drive,,,,South of Lonview Dr.,2-WAY,NB/SB,,,,39.16555999,-86.49491836,7524,1/1/2015
+t4530,Monroe,Bloomington,-,,Lonview Drive,,,,West of Kingston,2-WAY,EB/WB,,,,39.16690157,-86.49385993,3571,1/1/2015
+u4233,Monroe,Bloomington,-,,Moores Pike,,,,From S. Fenbrook Ln. to S. Olcott Blvd.,2-WAY,EB/WB,,,,39.1502043,-86.48607725,6489,1/1/2015
+v408,Monroe,Bloomington,-,,Rogers Road,,,,West of Curve,2-WAY,EB/WB,,,,39.13570878,-86.48286468,3493,1/1/2015
+v458,Monroe,Bloomington,-,,Morningside Drive,,,,West of Park Ridge,2-WAY,EB/WB,,,,39.16734861,-86.47657318,712,1/1/2015
+ccl1113,Monroe,Bloomington,-,,Woodyard Road,,,,From N. Hartstrait Rd. to W. Walcott Ln.,2-WAY,EB/WB,,,,39.20446775,-86.60409823,1004,1/1/2014
+ccl1526,Monroe,Bloomington,-,,Ison Road,,,,From S. Harmony Rd. to S. Cardwell Rd.,2-WAY,EB/WB,,,,39.10809135,-86.63371434,244,1/1/2014
+ccl1577,Monroe,Bloomington,-,,Dillman Road,,,,From S. Victor Pike to S. Dillmand Ln.,2-WAY,EB/WB,,,,39.09303572,-86.55607758,361,1/1/2014
+ccl2821,Monroe,Bloomington,-,,McNeely Street,,,,From N. Matthews Dr. to N. Chandler Dr.,2-WAY,EB/WB,,,,39.23814148,-86.62284841,833,1/1/2014
+ccl2828,Monroe,Bloomington,-,,Harbison Road,,,,From N. Hartstrait Rd. to Deadend,2-WAY,EB/WB,,,,39.22032797,-86.60906914,18,1/1/2014
+ccl588,Monroe,Bloomington,-,,Maple Grove Road,,,,W. of Matthews Dr.,2-WAY,EB/WB,,,,39.24557275,-86.6268669,604,1/1/2014
+ccl589,Monroe,Bloomington,-,,Matthews Drive,,,,S. of Maple Grove Road West,2-WAY,NB/SB,,,,39.24215761,-86.62278384,2347,1/1/2014
+ccl897,Monroe,Bloomington,-,,Brookbank Drive,,,,From W. Dunleigh Dr. to W. Harbison Rd.,2-WAY,NB/SB,,,,39.21648519,-86.60020002,31,1/1/2014
+ccl898,Monroe,Bloomington,-,,Ridgewood Drive,,,,From W. Dunleigh Dr. to W. S.R. 46,2-WAY,NB/SB,,,,39.21644869,-86.59900591,1478,1/1/2014
+l4319,Monroe,Bloomington,-,,Gifford Road,,,,West of Curry Pike,2-WAY,EB/WB,,,,39.15505518,-86.58560261,1689,1/1/2014
+m4243,Monroe,Bloomington,-,,Bloomfield Road,,,,From S. Stone Dr. to S. Weimer Rd.,2-WAY,EB/WB,,,,39.15287513,-86.56641363,20173,1/1/2014
+n4311,Monroe,Bloomington,-,,Shadeland Drive,,,,From W. Lakecrest Dr. to W. Bloomfield Rd.,2-WAY,NB/SB,,,,39.15484662,-86.56159934,148,1/1/2014
+n432,Monroe,Bloomington,-,,Bloomfield Road,,,,West of Allen St.,2-WAY,EB/WB,,,,39.15592241,-86.56172974,20166,1/1/2014
+n5110,Monroe,Bloomington,-,,Arlington Road,,,,West of W. Maple Grove Rd.,2-WAY,EB/WB,,,,39.20114745,-86.56054455,4117,1/1/2014
+n515,Monroe,Bloomington,-,,Maple Grove Road,,,,N. of Arlington Rd.,2-WAY,NB/SB,,,,39.20308431,-86.5586444,951,1/1/2014
+n535,Monroe,Bloomington,-,,Acuff Road,,,,West of S.R. 37,2-WAY,EB/WB,,,,39.2081205,-86.55668883,1025,1/1/2014
+o352,Monroe,Bloomington,-,,Victor Pike,,,,West of That Rd.,2-WAY,NB/SB,,,,39.10998551,-86.54939941,1227,1/1/2014
+o362,Monroe,Bloomington,-,,That Road,,,,From S. Roy Bailey Dr. to S. Victor Pike,2-WAY,EB/WB,,,,39.11462034,-86.54791327,1747,1/1/2014
+p4352,Monroe,Bloomington,-,,Patterson Drive,,,,From S. Fairview St. to W. Allen St.,2-WAY,NB/SB,,,,39.15453997,-86.5423684,11471,1/1/2014
+p45114,Monroe,Bloomington,-,,3rd Street,,,,From S. Fairview St. to S. Jackson St.,1-WAY,WB,,,,39.16428808,-86.54037709,546,1/1/2014
+p452,Monroe,Bloomington,-,,Howe Street,,,,West of Euclid,2-WAY,EB/WB,,,,39.16241804,-86.54447533,245,1/1/2014
+p4558,Monroe,Bloomington,-,,Howe Street,,,,From S. Fairview St. to S. Rogers St.,2-WAY,EB/WB,,,,39.16240173,-86.53981198,485,1/1/2014
+p457,Monroe,Bloomington,-,,3rd Street,,,,From S. Davisson St. to S. Buckner St.,1-WAY,WB,,,,39.16433408,-86.54512966,479,1/1/2014
+p503,Monroe,Bloomington,-,,Kinser Pike,,,,S. of W. Winding Way,2-WAY,NB/SB,,,,39.19617166,-86.54160875,3824,1/1/2014
+p545,Monroe,Bloomington,-,,Bayles Road,,,,West of N. Business 37,2-WAY,EB/WB,,,,39.21550136,-86.53950351,495,1/1/2014
+q3418,Monroe,Bloomington,-,,Walnut Street,,,,North of Fairfax Rd.,2-WAY,NB/SB,,,,39.10718917,-86.52509157,6643,1/1/2014
+q349,Monroe,Bloomington,-,,Old State Road 37,,,,From S. Rogers St. to S. Fairfax Rd.,2-WAY,NB/SB,,,,39.10265775,-86.53391971,6939,1/1/2014
+q3716,Monroe,Bloomington,-,,Gordon Pike,,,,From S. Rogers St. to S. Walnut St.,2-WAY,EB/WB,,,,39.12148225,-86.5355479,6683,1/1/2014
+q4018,Monroe,Bloomington,-,,Country Club Drive,,,,W. of Walnut St.,2-WAY,EB/WB,,,,39.13594215,-86.53297631,13753,1/1/2014
+q4331,Monroe,Bloomington,-,,Grimes Lane,,,,From S. Morton St. to S. Walnut St.,2-WAY,EB/WB,,,,39.15335844,-86.53504532,11498,1/1/2014
+q4422,Monroe,Bloomington,-,,1st Street,,,,From S. College Ave. to S. Walnut St.,2-WAY,EB/WB,,,,39.15937744,-86.53432122,3778,1/1/2014
+q4728,Monroe,Bloomington,-,,Dunn Street,,,,From E. 14th St. to E. 15th St.,2-WAY,NB/SB,,,,39.17650493,-86.52834336,2956,1/1/2014
+q4921,Monroe,Bloomington,-,,Dunn Street,,,,S. of Saville,2-WAY,NB/SB,,,,39.18873076,-86.52849797,1441,1/1/2014
+q534,Monroe,Bloomington,-,,Old State Road 37,,,,From N. Walnut St. to N. Stone Mill Rd.,2-WAY,NB/SB,,,,39.20752859,-86.53354373,4225,1/1/2014
+r371,Monroe,Bloomington,-,,Rhorer Road,,,,From S. Two Creeks Ln. to S. Sare Rd.,2-WAY,EB/WB,,,,39.12145134,-86.51433197,6802,1/1/2014
+rcl1423,Monroe,Bloomington,-,,State Road 37 Business,,,,From N. Old S.R. 37 to W. Bayles Rd.,2-WAY,NB/SB,,,,39.21185802,-86.53592436,7737,1/1/2014
+rcl38,Monroe,Bloomington,-,,College Mall Road,,,,S. of Covenanter,2-WAY,NB/SB,,,,39.15273436,-86.49766621,16914,1/1/2014
+rcl452,Monroe,Bloomington,-,,2nd Street,,,,Between S. Weimer Rd. and Allen St.,2-WAY,EB/WB,,,,39.15519005,-86.56283587,20147,1/1/2014
+rcl461,Monroe,Bloomington,-,,Rogers Street,,,,From W. That Rd. to W. Baywood Dr.,2-WAY,NB/SB,,,,39.11780527,-86.53949289,4969,1/1/2014
+rcl833,Monroe,Bloomington,-,,Headley Road,,,,From E. Treadwell Ln. to N. Hinkle Rd.,2-WAY,NB/SB,,,,39.19390109,-86.5123082,605,1/1/2014
+rcl949,Monroe,Bloomington,-,,Weimer Road,,,,From W. Sudbury Dr. to W. Bloomfield Rd.,2-WAY,NB/SB,,,,39.15177507,-86.56418563,1227,1/1/2014
+s372,Monroe,Bloomington,-,,Rhorer Road,,,,From S. Sare Rd. to S. Deerfield Dr.,2-WAY,EB/WB,,,,39.12146143,-86.50809891,2732,1/1/2014
+s4614,Monroe,Bloomington,-,,10th Street,,,,From N. Campbell St. to N. Sunrise Dr.,2-WAY,EB/WB,,,,39.17157316,-86.5132136,9851,1/1/2014
+t421,Monroe,Bloomington,-,,Montclair Avenue,,,,S. of Montclair Ct.,2-WAY,EB/WB,,,,39.14624943,-86.5036982,634,1/1/2014
+t4220,Monroe,Bloomington,-,,Moores Pike,,,,W. of Woodruff Lane,2-WAY,EB/WB,,,,39.1504524,-86.49677758,8002,1/1/2014
+t4221,Monroe,Bloomington,-,,Moores Pike,,,,From S. Renwick Blvd. to S. Sare Rd.,2-WAY,EB/WB,,,,39.15042995,-86.49998546,11063,1/1/2014
+u407,Monroe,Bloomington,-,,Rogers Road,,,,From S. Forrester St. to S. Snoody Rd.,2-WAY,EB/WB,,,,39.13586622,-86.49225297,3274,1/1/2014
+v421,Monroe,Bloomington,-,,Moores Pike,,,,West of S.R. 446,2-WAY,EB/WB,,,,39.15025418,-86.47474689,4161,1/1/2014
+v443,Monroe,Bloomington,-,,Smith Road,,,,From E. Bennington Blvd. to E. Stonegate Dr.,2-WAY,NB/SB,,,,39.16016598,-86.48072215,4813,1/1/2014
+v4512,Monroe,Bloomington,-,,Morningside Drive,,,,North of 3rd St.,2-WAY,EB/WB,,,,39.16496582,-86.47368652,405,1/1/2014
+v4518,Monroe,Bloomington,-,,Park Ridge Road,,,,South of Morningside Dr.,2-WAY,NB/SB,,,,39.16672563,-86.47538484,768,1/1/2014
+v4520,Monroe,Bloomington,-,,Park Ridge Road,,,,S. of Saratoga Dr.,2-WAY,NB/SB,,,,39.16523058,-86.47591746,1073,1/1/2014
+v455,Monroe,Bloomington,-,,Morningside Drive,,,,From S. Smith Rd. to E. Saratoga Dr.,2-WAY,EB/WB,,,,39.1662765,-86.48085639,2033,1/1/2014
+v456,Monroe,Bloomington,-,,Morningside Drive,,,,East of Saratoga,2-WAY,EB/WB,,,,39.16663855,-86.48003673,1743,1/1/2014
+l383,Monroe,Bloomington,-,,Leonard Springs Road,,,,From W. Heatherwood Ln. to W. Woodhaven Dr.,2-WAY,NB/SB,,,,39.1275323,-86.58257118,4061,1/1/2013
+l409,Monroe,Bloomington,-,,Leonard Springs Road,,,,From W. Fleener Ave. to W. Stapleton Ave.,2-WAY,NB/SB,,,,39.13780344,-86.58261389,10282,1/1/2013
+o545,Monroe,Bloomington,-,,Kinser Pike,,,,S. of Old Kinser Pike,2-WAY,NB/SB,,,,39.22081284,-86.54866058,386,1/1/2013
+p4423,Monroe,Bloomington,-,,2nd Street,,,,West of Morton St.,2-WAY,EB/WB,,,,39.16138913,-86.53686482,10610,1/1/2013
+p4439,Monroe,Bloomington,-,,Fairview Street,,,,From W. Dixie St. to W. Dodds St.,2-WAY,NB/SB,,,,39.15704727,-86.54105227,625,1/1/2013
+p4440,Monroe,Bloomington,-,,Fairview Street,,,,From W. Dodds St. to W. Wylie St.,2-WAY,NB/SB,,,,39.15795632,-86.54102453,467,1/1/2013
+p4441,Monroe,Bloomington,-,,Fairview Street,,,,From W. Wylie St. to W. 1st St.,1-WAY,SB,,,,39.1589192,-86.54104336,694,1/1/2013
+p4452,Monroe,Bloomington,-,,2nd Street,,,,From S. Maple St. to S. Rogers St.,2-WAY,EB/WB,,,,39.1614041,-86.53806628,10248,1/1/2013
+p4457,Monroe,Bloomington,-,,2nd Street,,,,West of Maple,2-WAY,EB/WB,,,,39.16142646,-86.54279219,15166,1/1/2013
+p4497,Monroe,Bloomington,-,,Walker Street,,,,South of 2nd,2-WAY,NB/SB,,,,39.16045852,-86.54606931,2205,1/1/2013
+p4527,Monroe,Bloomington,-,,Euclid Avenue,,,,South of Howe,2-WAY,NB/SB,,,,39.16192065,-86.54334675,88,1/1/2013
+q4019,Monroe,Bloomington,-,,Winslow Road,,,,From S. Walnut St. to S. Walnut St. Pk.,2-WAY,EB/WB,,,,39.13595769,-86.5299485,12069,1/1/2013
+q423,Monroe,Bloomington,-,,Hillside Drive,,,,Bet. S. Walnut St. and S. Washington St.,2-WAY,EB/WB,,,,39.15052765,-86.53310665,7622,1/1/2013
+q4325,Monroe,Bloomington,-,,Grimes Lane,,,,E. of Dunn St.,2-WAY,EB/WB,,,,39.15331115,-86.52753466,3533,1/1/2013
+q4349,Monroe,Bloomington,-,,Walnut Street,,,,North of Davis,2-WAY,NB/SB,,,,39.15491962,-86.53370296,17691,1/1/2013
+q4522,Monroe,Bloomington,-,,Indiana Avenue,,,,S. of 6th St.,1-WAY,NB,,,,39.16702955,-86.52693183,6843,1/1/2013
+q4556,Monroe,Bloomington,-,,Washington Street,,,,Bet. E. 6th Street and E. 7th St.,1-WAY,SB,,,,39.16804533,-86.53233131,2079,1/1/2013
+q456,Monroe,Bloomington,-,,Henderson Street,,,,S. of Smith St.,1-WAY,NB,,,,39.16253291,-86.52724293,3976,1/1/2013
+q464,Monroe,Bloomington,-,,College Avenue,,,,North of 8th St.,1-WAY,SB,,,,39.16997682,-86.53484885,12622,1/1/2013
+q4644,Monroe,Bloomington,-,,Indiana Avenue,,,,Bet. E. 10th St. and N. Cottage Grove Ave.,2-WAY,NB/SB,,,,39.17210925,-86.52695962,7633,1/1/2013
+q4670,Monroe,Bloomington,-,,10th Street,,,,Bet. N. Dunn St. and N. Indiana Ave.,2-WAY,EB/WB,,,,39.17166319,-86.52762135,10985,1/1/2013
+q469,Monroe,Bloomington,-,,Walnut Street,,,,Bet. 8th St. and 9th St.,1-WAY,NB,,,,39.16997672,-86.53357947,12723,1/1/2013
+q473,Monroe,Bloomington,-,,College Avenue (East Lane),,,,South of 14th St.,1-WAY,SB,,,,39.17461718,-86.53478899,11946,1/1/2013
+q4740,Monroe,Bloomington,-,,Indiana Avenue,,,,Bet. 13th St. and 14th St.,2-WAY,NB/SB,,,,39.17567529,-86.52700722,4204,1/1/2013
+q4763,Monroe,Bloomington,-,,13th Street,,,,Bet. N. Dunn St. and N. Indiana Ave.,2-WAY,EB/WB,,,,39.17525266,-86.52764814,4256,1/1/2013
+q479,Monroe,Bloomington,-,,Walnut Street,,,,South of 14th St.,1-WAY,NB,,,,39.17517848,-86.53355236,11182,1/1/2013
+q4819,Monroe,Bloomington,-,,Dunn Street,,,,Bet. E. 17th St. and E. 18th St.,2-WAY,NB/SB,,,,39.17959844,-86.5283057,6756,1/1/2013
+q4828,Monroe,Bloomington,-,,Walnut Street,,,,From E. 17th St. to E. 19th St.,1-WAY,NB,,,,39.18024854,-86.53355442,7810,1/1/2013
+q4830,Monroe,Bloomington,-,,Walnut Street,,,,South of S.R. 45/46 Bypass,1-WAY,NB,,,,39.18482916,-86.5344374,7574,1/1/2013
+q487,Monroe,Bloomington,-,,17th Street,,,,From N. Lincoln St. to N. Grant St.,2-WAY,EB/WB,,,,39.17897065,-86.5303339,8811,1/1/2013
+r4014,Monroe,Bloomington,-,,Winslow Road,,,,East of Henderson St.,2-WAY,EB/WB,,,,39.13600459,-86.52570066,11079,1/1/2013
+r4531,Monroe,Bloomington,-,,3rd Street,,,,From N. Swain Ave. to N. Mitchell St.,1-WAY,WB,,,,39.16426373,-86.51473481,10813,1/1/2013
+r4532,Monroe,Bloomington,-,,Atwater Avenue,,,,Bet. S. Swain Ave. and S. Mitchell St.,1-WAY,EB,,,,39.1630573,-86.51473298,9911,1/1/2013
+r4542,Monroe,Bloomington,-,,Jordan Avenue,,,,From E. Hunter Ave. to E. Atwater Ave.,2-WAY,NB/SB,,,,39.16262232,-86.51639411,3665,1/1/2013
+r4548,Monroe,Bloomington,-,,Jordan Avenue,,,,From E. Jones Dr. to E. Drive to IU Music School,2-WAY,NB/SB,,,,39.16587406,-86.51642759,10835,1/1/2013
+r4724,Monroe,Bloomington,-,,Jordan Avenue,,,,S. of Linglebach Ln.,2-WAY,NB/SB,,,,39.17533119,-86.51404801,6844,1/1/2013
+rcl470,Monroe,Bloomington,-,,Henderson Street,,,,From E. Sherwood Hills Dr. to E. Winslow Rd.,2-WAY,NB/SB,,,,39.13505563,-86.52689502,5979,1/1/2013
+rcl621,Monroe,Bloomington,-,,Sare Road,,,,South of Rogers Rd.,2-WAY,NB/SB,,,,39.1336177,-86.49788907,7892,1/1/2013
+rcl66,Monroe,Bloomington,-,,Wylie Farm Road,,,,Bet. Bayberry and Azalea,2-WAY,EB/WB,,,,39.14222082,-86.52482933,1277,1/1/2013
+s4247,Monroe,Bloomington,-,,High Street,,,,From E. Hillside Dr. to E. Viva Dr.,2-WAY,NB/SB,,,,39.15152641,-86.5084364,4566,1/1/2013
+s4249,Monroe,Bloomington,-,,High Street,,,,South of Moore's Pike,2-WAY,NB/SB,,,,39.14887904,-86.50840182,4727,1/1/2013
+s4550,Monroe,Bloomington,-,,3rd Street,,,,West of Rose,2-WAY,EB/WB,,,,39.16426091,-86.51155949,15071,1/1/2013
+s4617,Monroe,Bloomington,-,,10th Street,,,,Jefferson to Hilltop,2-WAY,EB/WB,,,,39.17167504,-86.50611628,9819,1/1/2013
+s481,Monroe,Bloomington,-,,17th Street,,,,E. of Fee Lane,2-WAY,EB/WB,,,,39.17891349,-86.51571938,10988,1/1/2013
+u4234,Monroe,Bloomington,-,,Moores Pike,,,,From S. Olcott Blvd. to E. Regents Cir.,2-WAY,EB/WB,,,,39.15019765,-86.48402409,6033,1/1/2013
+l4811,Monroe,Bloomington,-,,Vernal Pike,,,,From N. Curry Pike to W. Merle Ave.,2-WAY,EB/WB,,,,39.17915638,-86.58092634,3501,1/1/2012
+n4519,Monroe,Bloomington,-,,3rd Street,,,,Westbound Bet. S. Johnson Ave. and W. Benham Ln.,2-WAY,,,,,39.16449764,-86.56429848,20145,1/1/2012
+n4522,Monroe,Bloomington,-,,Muller Parkway,,,,From S. Basswood Dr. to W. 3rd St.,2-WAY,,,,,39.16256135,-86.56664825,3009,1/1/2012
+n481,Monroe,Bloomington,-,,Woodyard Road,,,,From N. Pioneer Ln. to W. Griffith Ct.,2-WAY,,,,,39.18757868,-86.57295742,1259,1/1/2012
+n487,Monroe,Bloomington,-,,Vernal Pike,,,,From W. Woodyard Rd. to N. Packinghouse Rd.,2-WAY,,,,,39.17919398,-86.56563288,4709,1/1/2012
+o4624,Monroe,Bloomington,-,,Adams Street,,,,From W. Vernal Pike to W. 10th St.,2-WAY,,,,,39.17108847,-86.54975325,3716,1/1/2012
+o4712,Monroe,Bloomington,-,,Linbergh Drive,,,,From W. 12th St. to W. 14th St.,2-WAY,,,,,39.17508426,-86.55252819,501,1/1/2012
+o4720,Monroe,Bloomington,-,,15th Street,,,,From N. Illinois St. to N. Hancock Dr.,2-WAY,,,,,39.17665406,-86.55033709,219,1/1/2012
+o4733,Monroe,Bloomington,-,,12th Street,,,,From N. Illinois St. to N. Summit St.,2-WAY,,,,,39.17424032,-86.54925935,596,1/1/2012
+o4738,Monroe,Bloomington,-,,Illinois Street,,,,From W. 13th St. to W. Illinois Ct.,2-WAY,,,,,39.17528434,-86.55170149,474,1/1/2012
+o4741,Monroe,Bloomington,-,,13th Street,,,,From N. Illinois St. to N. Summit St.,2-WAY,,,,,39.17500512,-86.54982242,288,1/1/2012
+o4742,Monroe,Bloomington,-,,Summit Street,,,,From W. 12th St. to W. 13th St.,2-WAY,,,,,39.17462818,-86.54807525,412,1/1/2012
+o4743,Monroe,Bloomington,-,,Summit Street,,,,North of 13th St.,2-WAY,,,,,39.17575449,-86.5479481,228,1/1/2012
+o4747,Monroe,Bloomington,-,,Illinois Street,,,,From W. 11th St. to W. 12th St.,2-WAY,,,,,39.17373805,-86.55045195,747,1/1/2012
+o5116,Monroe,Bloomington,-,,Valleyview Drive,,,,From W. Winding Way to W. Parkview Ct.,2-WAY,,,,,39.19822877,-86.54674013,215,1/1/2012
+p4415,Monroe,Bloomington,-,,Dodds Street,,,,From S. Madison St. to S. Morton St.,2-WAY,,,,,39.1574587,-86.5369081,1956,1/1/2012
+p45143,Monroe,Bloomington,-,,Morton Street,,,,From W. 6th St. to W. 7th St.,2-WAY,,,,,39.16806997,-86.53611631,2186,1/1/2012
+p4627,Monroe,Bloomington,-,,Morton Street,,,,North of 10th St.,2-WAY,,,,,39.17247546,-86.53605134,1799,1/1/2012
+p4629,Monroe,Bloomington,-,,Morton Street,,,,From W. 8th St. to W. 9th St.,2-WAY,,,,,39.16998515,-86.53611592,3056,1/1/2012
+q343,Monroe,Bloomington,-,,Church Lane,,,,From S. White Pine Dr. to S. College Dr.,2-WAY,,,,,39.10728496,-86.5360847,3199,1/1/2012
+q394,Monroe,Bloomington,-,,Walnut Street Pike,,,,From S. Walnut St. Pk. To E. Winslow Rd.,2-WAY,,,,,39.13476309,-86.52781891,2373,1/1/2012
+q4383,Monroe,Bloomington,-,,Dunn Street,,,,From E. Driscoll Dr. to E. Grimes Ln.,2-WAY,,,,,39.15287801,-86.52809275,228,1/1/2012
+q4456,Monroe,Bloomington,-,,Lincoln Street,,,,From E. 2nd St. to E. Smith Ave.,2-WAY,,,,,39.16209561,-86.53119487,3452,1/1/2012
+q4460,Monroe,Bloomington,-,,Lincoln Street,,,,North of Dodds St.,2-WAY,,,,,39.15786844,-86.53128634,2008,1/1/2012
+q447,Monroe,Bloomington,-,,2nd Street,,,,From S. Lincoln St. to S. Grant St.,2-WAY,,,,,39.16136019,-86.53054442,5808,1/1/2012
+q4524,Monroe,Bloomington,-,,Dunn Street,,,,North of 6th St.,2-WAY,,,,,39.16802217,-86.52825918,4627,1/1/2012
+q4527,Monroe,Bloomington,-,,Dunn Street,,,,From E. 3rd St. to E. 4th St.,2-WAY,,,,,39.16497825,-86.52822127,5451,1/1/2012
+q4569,Monroe,Bloomington,-,,6th Street,,,,From N. Walnut St. N. Washington St.,2-WAY,,,,,39.16755127,-86.53296975,1701,1/1/2012
+q4575,Monroe,Bloomington,-,,Kirkwood Avenue,,,,From S. Grant St. to N. Dunn St.,2-WAY,,,,,39.16654373,-86.52902678,5507,1/1/2012
+q4639,Monroe,Bloomington,-,,Dunn Street,,,,From E. 8th St. to E. 9th St.,2-WAY,,,,,39.16997062,-86.52826647,3115,1/1/2012
+q4693,Monroe,Bloomington,-,,8th Street,,,,From N. Dunn St. to N. Indiana Ave.,2-WAY,,,,,39.16949819,-86.52761566,348,1/1/2012
+q4924,Monroe,Bloomington,-,,Fritz Drive,,,,From E. Vernon Ave. to E. Saville Ave.,2-WAY,,,,,39.18831646,-86.53031666,107,1/1/2012
+q5226,Monroe,Bloomington,-,,Dunn Street,,,,From E. Lakewood Dr. to N. Old S.R. 37,2-WAY,,,,,39.20505951,-86.5291511,680,1/1/2012
+q5310,Monroe,Bloomington,-,,Hillview Drive,,,,From N. Old S.R. 37 to E. Woodridge Dr.,2-WAY,,,,,39.20984649,-86.53037021,379,1/1/2012
+q532,Monroe,Bloomington,-,,Old State Road 37,,,,From N. Hillview Dr. to N. Dunn St.,2-WAY,,,,,39.20812432,-86.52905902,3721,1/1/2012
+r3819,Monroe,Bloomington,-,,Heather Drive,,,,From S. Preston Ct. to S. Christa Ct.,2-WAY,,,,,39.12618609,-86.5207276,895,1/1/2012
+r385,Monroe,Bloomington,-,,Heather Drive,,,,From S. Pepper Chase to S. Pepperridge Dr.,2-WAY,,,,,39.12589354,-86.52313423,970,1/1/2012
+r4211,Monroe,Bloomington,-,,Hillside Drive,,,,From S. Olive St. to S. Highland Ave.,2-WAY,,,,,39.15054691,-86.51789925,13050,1/1/2012
+r4427,Monroe,Bloomington,-,,University Street,,,,From S. Swain Ave. to S. Mitchell St.,2-WAY,,,,,39.16015396,-86.51470108,97,1/1/2012
+r4428,Monroe,Bloomington,-,,Maxwell Lane,,,,West of Sheridan,2-WAY,,,,,39.15780298,-86.51549049,1503,1/1/2012
+r4712,Monroe,Bloomington,-,,13th Street,,,,West of Walnut Grove,2-WAY,,,,,39.17514164,-86.52173014,3019,1/1/2012
+r4713,Monroe,Bloomington,-,,13th Street,,,,From N. Walnut Grove Ave. to N. Fee Ln.,2-WAY,,,,,39.1751256,-86.52003505,3436,1/1/2012
+r4742,Monroe,Bloomington,-,,Walnut Grove Avenue,,,,North of 13th St.,2-WAY,,,,,39.17556892,-86.52104214,937,1/1/2012
+r4743,Monroe,Bloomington,-,,Walnut Grove Avenue,,,,South of 13th St.,2-WAY,,,,,39.17426704,-86.52101511,1511,1/1/2012
+r496,Monroe,Bloomington,-,,Matlock Road,,,,From E. SR 45 46 Bypass to N. Browncliff Ln.,2-WAY,,,,,39.18626161,-86.51887985,1696,1/1/2012
+rcl1211,Monroe,Bloomington,-,,Sunflower Drive,,,,From W. Petal Ct. to W. Countryside Ln.,2-WAY,,,,,39.14065508,-86.55399225,249,1/1/2012
+rcl1493,Monroe,Bloomington,-,,Rhorer Road,,,,From S. Walnut St. to S. Kennedy Dr.,2-WAY,,,,,39.12144903,-86.53037888,8808,1/1/2012
+rcl368,Monroe,Bloomington,-,,Forrester Street,,,,From E. Kensington Park Dr. to E. Daniel St.,2-WAY,,,,,39.13704073,-86.49475048,1122,1/1/2012
+rcl617,Monroe,Bloomington,-,,Southern Oaks Drive,,,,From S. Cedarwood Cir. to S. Southern Oaks Ct.,2-WAY,,,,,39.1326173,-86.50267311,1867,1/1/2012
+rcl711,Monroe,Bloomington,-,,Whitehall Crossing Boulevarde,,,,W. of Jacob,2-WAY,,,,,39.17196247,-86.57265133,1580,1/1/2012
+rcl732,Monroe,Bloomington,-,,Southern Oaks Drive,,,,From Deadend to E. Oakmont Dr.,2-WAY,,,,,39.13191941,-86.50472305,135,1/1/2012
+rcl733,Monroe,Bloomington,-,,Cedarwood Circle,,,,From S. Claybridge Dr. to S. Southern Oaks Dr.,2-WAY,,,,,39.13040809,-86.50467644,182,1/1/2012
+rcl737,Monroe,Bloomington,-,,Rogers Road,,,,From E. Saddlebrook Ln. to S. Highpoint Ln.,2-WAY,,,,,39.1357511,-86.48613961,3829,1/1/2012
+rcl923,Monroe,Bloomington,-,,Claybridge Drive,,,,From E. Caray Ct. to E. Sandberg Ct.,2-WAY,,,,,39.12842754,-86.50672681,364,1/1/2012
+s3930,Monroe,Bloomington,-,,Oakmont Drive,,,,From S. Rolling Oak Dr. to S. Southern Oaks Dr.,2-WAY,,,,,39.13253916,-86.50470551,2177,1/1/2012
+s4328,Monroe,Bloomington,-,,Nancy Street,,,,North of Marilyn,2-WAY,,,,,39.15413037,-86.51109058,655,1/1/2012
+s4441,Monroe,Bloomington,-,,1st Street,,,,W. of Eastside Dr.,2-WAY,,,,,39.15923748,-86.51340718,402,1/1/2012
+s4442,Monroe,Bloomington,-,,1st Street,,,,From S. Eastside Dr. to S. Rose Ave.,2-WAY,,,,,39.15923671,-86.51211894,350,1/1/2012
+s4456,Monroe,Bloomington,-,,2nd Street,,,,From S. Rose Ave. to S. Rose Ave.,2-WAY,,,,,39.16102484,-86.5112713,4720,1/1/2012
+s4523,Monroe,Bloomington,-,,Union Street,,,,South of 7th St.,2-WAY,,,,,39.16745662,-86.50945222,4996,1/1/2012
+s4524,Monroe,Bloomington,-,,Bryan Avenue,,,,South of 7th St.,2-WAY,,,,,39.16752156,-86.50831132,500,1/1/2012
+s4615,Monroe,Bloomington,-,,10th Street,,,,From N. Sunrise Dr. to N. Union St.,2-WAY,,,,,39.17156923,-86.5109785,11577,1/1/2012
+s4621,Monroe,Bloomington,-,,Union Street,,,,From E. 10th St. to E. Law Ln.,2-WAY,,,,,39.1719758,-86.50948414,5709,1/1/2012
+s4638,Monroe,Bloomington,-,,Sunrise Drive,,,,From E. 7th St. to E. 10th St.,2-WAY,,,,,39.17006172,-86.51246309,1371,1/1/2012
+s464,Monroe,Bloomington,-,,7th Street,,,,West of Union St.,2-WAY,,,,,39.16808665,-86.51019444,3031,1/1/2012
+s465,Monroe,Bloomington,-,,7th Street,,,,West of Bryan,2-WAY,,,,,39.16822491,-86.50888199,1945,1/1/2012
+t4029,Monroe,Bloomington,-,,Spicewood Lane,,,,From E. Hemlock Cir. to E. Roundhill Ln.,2-WAY,,,,,39.1380253,-86.49948012,1606,1/1/2012
+t4050,Monroe,Bloomington,-,,Rogers Road,,,,W. of Tapps Turn,2-WAY,,,,,39.13857194,-86.49619326,8610,1/1/2012
+t4114,Monroe,Bloomington,-,,Spicewood Lane,,,,West of Sare Rd.,2-WAY,,,,,39.14096151,-86.49814071,1345,1/1/2012
+u4235,Monroe,Bloomington,-,,Moores Pike,,,,From S. Woodruff Ln. to S. Andrew Circle,2-WAY,,,,,39.15039679,-86.49432078,10655,1/1/2012
+u4531,Monroe,Bloomington,-,,Lonview Avenue,,,,From S. Kingston Dr. to N. Glenwood Ave. W.,2-WAY,,,,,39.16722416,-86.49143347,692,1/1/2012
+u462,Monroe,Bloomington,-,,Glenwood Avenue West,,,,W. of S. Longview,2-WAY,,,,,39.16690002,-86.49009428,121,1/1/2012
+v425,Monroe,Bloomington,-,,Smith Road,,,,N. of Lorelei,2-WAY,,,,,39.14797915,-86.48042416,4224,1/1/2012
+v463,Monroe,Bloomington,-,,Sheffield Drive,,,,From E. Providence Ct. to E. Cambridge Dr.,2-WAY,,,,,39.16926292,-86.47896264,889,1/1/2012
+l413,Monroe,Bloomington,-,,Curry Pike,,,,North of Industrial Boulevarde,2-WAY,,,,,39.14422532,-86.58262177,11937,1/1/2011
+m379,Monroe,Bloomington,-,,Fullerton Pike,,,,From S. S.R. 37 to S. Rockport Rd.,2-WAY,,,,,39.1222208,-86.5677752,1732,1/1/2011
+n401,Monroe,Bloomington,-,,Weimer Road,,,,North of Tapp Rd.,2-WAY,,,,,39.14070645,-86.56208916,1156,1/1/2011
+n404,Monroe,Bloomington,-,,Tapp Road,,,,W. of Weimer Rd.,2-WAY,EB/WB,,,,39.13655468,-86.56493416,13073,1/1/2011
+o459,Monroe,Bloomington,-,,Adams Street,,,,From S. Patterson Dr. to W. Kirkwood Ave.,2-WAY,,,,,39.16517736,-86.55041822,16147,1/1/2011
+o4629,Monroe,Bloomington,-,,8th Street,,,,From N. Spring St. to N. Hay St.,2-WAY,,,,,39.16962264,-86.55416568,601,1/1/2011
+o465,Monroe,Bloomington,-,,11th Street,,,,From N. Oolitic Dr. to N. Lindbergh Dr.,2-WAY,,,,,39.17324207,-86.55307149,4025,1/1/2011
+o483,Monroe,Bloomington,-,,17th Street,,,,West of Monroe St.,2-WAY,,,,,39.17907575,-86.54995824,2843,1/1/2011
+p4053,Monroe,Bloomington,-,,Madison Street,,,,From W. Country Club Dr. to W. Watson St.,2-WAY,,,,,39.13655481,-86.53718949,495,1/1/2011
+p4059,Monroe,Bloomington,-,,Bryan Street,,,,From W. Graham Dr. to W. Coolidge Dr.,2-WAY,,,,,39.14047403,-86.53647927,98,1/1/2011
+p4128,Monroe,Bloomington,-,,Rockport Road,,,,ROCKPORT RD BET. GUY AVE/COUNTRYSIDE LN,2-WAY,,,,,39.14416087,-86.54102227,4551,1/1/2011
+p4223,Monroe,Bloomington,-,,Rogers Street,,,,North of Cherokee Dr.,2-WAY,,,,,39.14878679,-86.53882007,11602,1/1/2011
+p4327,Monroe,Bloomington,-,,Madison Street,,,,From Deadend to W. Allen St.,2-WAY,,,,,39.15479567,-86.53752674,109,1/1/2011
+p45111,Monroe,Bloomington,-,,3rd Street,,,,From S. Euclid Ave. to S. Maple St.,2-WAY,,,,,39.16431662,-86.54278923,1242,1/1/2011
+p45112,Monroe,Bloomington,-,,3rd Street,,,,From S. Maple St. to S. Fairview St.,2-WAY,,,,,39.16429978,-86.54157413,1260,1/1/2011
+p45115,Monroe,Bloomington,-,,Jackson Street,,,,From W. 3rd St. to W. 3rd St.,2-WAY,,,,,39.16446056,-86.53988846,1396,1/1/2011
+p45128,Monroe,Bloomington,-,,3rd Street,,,,From S. Jackson St. to S. Rogers St.,2-WAY,,,,,39.16463329,-86.53927574,1490,1/1/2011
+p45174,Monroe,Bloomington,-,,Maple Street,,,,From W. 3rd St. to W. 4th St.,2-WAY,,,,,39.16497879,-86.54220215,301,1/1/2011
+p45175,Monroe,Bloomington,-,,4th Street,,,,From S. Fairview St. to S. Jackson St.,2-WAY,,,,,39.1656236,-86.54039789,710,1/1/2011
+p45176,Monroe,Bloomington,-,,4th Street,,,,From S. Maple St. to S. Fairview St.,2-WAY,,,,,39.16563428,-86.54155988,448,1/1/2011
+p45177,Monroe,Bloomington,-,,4th Street,,,,From S. Waldron St. to S. Maple St.,2-WAY,,,,,39.16564788,-86.54297546,318,1/1/2011
+p45192,Monroe,Bloomington,-,,Maple Street,,,,South of Kirkwood Ave.,2-WAY,,,,,39.16614743,-86.54219274,226,1/1/2011
+p4562,Monroe,Bloomington,-,,Jackson Street,,,,From W. Prospect St. to W. 3rd St.,2-WAY,,,,,39.16401274,-86.53992556,188,1/1/2011
+p4762,Monroe,Bloomington,-,,Madison Street,,,,From W. 15th St. to W. 17th St.,2-WAY,,,,,39.17728574,-86.53773335,9033,1/1/2011
+p489,Monroe,Bloomington,-,,17th Street,,,,From N. Monroe St. to N. Willis Dr.,2-WAY,,,,,39.17903795,-86.54547375,11276,1/1/2011
+q3930,Monroe,Bloomington,-,,Walnut Street,,,,From E. Burks Dr. to W. Pinewood Dr.,2-WAY,,,,,39.12907809,-86.53139408,15507,1/1/2011
+q4012,Monroe,Bloomington,-,,Henderson Street,,,,From E. Graham Dr. to E. Wylie Farm Rd.,2-WAY,,,,,39.14068055,-86.52694057,7907,1/1/2011
+q4212,Monroe,Bloomington,-,,Vermilya Avenue,,,,From S. Walnut St. to Deadend,2-WAY,,,,,39.14894107,-86.53213614,328,1/1/2011
+q4319,Monroe,Bloomington,-,,Washington Street,,,,South of 8th St.,2-WAY,,,,,39.15418397,-86.53078061,164,1/1/2011
+q4326,Monroe,Bloomington,-,,Grimes Lane,,,,West of Palmer,2-WAY,,,,,39.1533174,-86.52864174,3622,1/1/2011
+q4374,Monroe,Bloomington,-,,Palmer Avenue,,,,South of Grimes,2-WAY,,,,,39.15288082,-86.52920428,241,1/1/2011
+q4480,Monroe,Bloomington,-,,1st Street,,,,From S. Wylie St. to S. Fairview St.,2-WAY,,,,,39.1585863,-86.52594953,2468,1/1/2011
+q4513,Monroe,Bloomington,-,,3rd Street,DUNN,INDIANA,BETWEEN,DUNN AND INDIANA,1-WAY,EB/WB,,,,39.16430922,-86.52756381,10456,1/1/2011
+q4516,Monroe,Bloomington,-,,3rd Street,,,,From S. Washington St. to S. Lincoln St.,2-WAY,,,,,39.16458858,-86.53172667,17527,1/1/2011
+q4548,Monroe,Bloomington,-,,Lincoln Street,,,,E. 4th St. to E. Kirkwood Ave.,2-WAY,,,,,39.16606652,-86.53108182,2948,1/1/2011
+q4630,Monroe,Bloomington,-,,Grant Street,,,,From E. 10th St. to E. Cottage Grove Ave.,2-WAY,,,,,39.17212797,-86.52975936,931,1/1/2011
+q4664,Monroe,Bloomington,-,,10th Street,,,,From N. Walnut St. to N. Washington St.,2-WAY,,,,,39.17165694,-86.53295106,9868,1/1/2011
+q4668,Monroe,Bloomington,-,,10th Street,,,,From N. Grant St. to N. Prow Ave.,2-WAY,,,,,39.17167291,-86.52935265,9379,1/1/2011
+q4673,Monroe,Bloomington,-,,10th Street,,,,From N. Fess Ave. to N. Park Ave.,2-WAY,,,,,39.17165033,-86.52522383,11701,1/1/2011
+q4696,Monroe,Bloomington,-,,7th Street,,,,From N. Fess Ave. to N. Park Ave.,2-WAY,,,,,39.16849696,-86.52520481,5873,1/1/2011
+q478,Monroe,Bloomington,-,,Walnut Street,,,,From E. 14th St. to E. 15th St.,2-WAY,NB/SB,,,,39.17640927,-86.53352994,9856,1/1/2011
+q483,Monroe,Bloomington,-,,17th Street,,,,From N. Fess Ave. to N. Woodlawn Ave.,2-WAY,,,,,39.17902963,-86.52480475,13780,1/1/2011
+q514,Monroe,Bloomington,-,,Blue Ridge Drive,,,,From N. Walnut St. to N. Blue Slopes Dr.,2-WAY,,,,,39.19698337,-86.53424519,990,1/1/2011
+q519,Monroe,Bloomington,-,,Walnut Street,,,,North of Blue Ridge,2-WAY,,,,,39.20196018,-86.53522491,9492,1/1/2011
+r3836,Monroe,Bloomington,-,,Bainbridge Drive,,,,South of Elliston,2-WAY,,,,,39.12825368,-86.5184302,812,1/1/2011
+r3837,Monroe,Bloomington,-,,Elliston Drive,,,,From S. Bainbridge Dr. to S. Hampshire Ln.,2-WAY,,,,,39.12920536,-86.5182438,456,1/1/2011
+r3936,Monroe,Bloomington,-,,Westminster Way,,,,From E. Commons Dr. to E. Regency Dr.,2-WAY,,,,,39.13328275,-86.52188109,682,1/1/2011
+r4043,Monroe,Bloomington,-,,Highland Ave.,,,,From E. Winlsow Farm Dr. to E. Short St.,2-WAY,,,,,39.14049939,-86.51557355,2532,1/1/2011
+r431,Monroe,Bloomington,-,,Woodlawn Avenue,,,,From E. Sheridan Dr. to E. Maxwell Ln.,2-WAY,,,,,39.15689628,-86.52263996,2703,1/1/2011
+r4338,Monroe,Bloomington,-,,Sheridan Drive,,,,From S. Woodlawn Ave. to S. Manor Rd.,2-WAY,,,,,39.15597115,-86.52217092,530,1/1/2011
+r4339,Monroe,Bloomington,-,,Southdowns Drive,,,,From S. Woodlawn Ave. to S. Manor Rd.,2-WAY,,,,,39.15579882,-86.52217024,543,1/1/2011
+r4410,Monroe,Bloomington,-,,Sheridan Drive,,,,North of 1st St.,2-WAY,,,,,39.15912568,-86.51579271,2718,1/1/2011
+r4476,Monroe,Bloomington,-,,Jordan Avenue,,,,From E. University St. to E. 2nd St.,2-WAY,,,,,39.16060182,-86.51638202,3752,1/1/2011
+r4655,Monroe,Bloomington,-,,10th Street,,,,From N. Jordan Ave. to N. Campbell St.,2-WAY,,,,,39.17158429,-86.5147955,11485,1/1/2011
+r468,Monroe,Bloomington,-,,Woodlawn Avenue,,,,North of 9th St.,2-WAY,,,,,39.17103302,-86.52351165,5690,1/1/2011
+r486,Monroe,Bloomington,-,,Fee Lane,,,,North of 17th St.,2-WAY,,,,,39.18139582,-86.51915677,4468,1/1/2011
+rcl1446,Monroe,Bloomington,-,,Adams Street,,,,From W. Arch Haven Ave. to S. Patterson Dr.,2-WAY,,,,,39.16258705,-86.55061818,2006,1/1/2011
+rcl1470,Monroe,Bloomington,-,,Renwick Boulevarde,,,,S. of Cathcart,2-WAY,,,,,39.14977286,-86.50113586,2071,1/1/2011
+rcl1498,Monroe,Bloomington,-,,Smith Road,,,,From S. Stella Dr. to S. Fenbrooke Ln.,2-WAY,,,,,39.15414738,-86.480569,4796,1/1/2011
+rcl1577,Monroe,Bloomington,-,,17th Street,,,,From N. Crescent Rd. to N. Lismore Dr.,2-WAY,,,,,39.17912101,-86.55568217,2955,1/1/2011
+rcl253,Monroe,Bloomington,-,,The Stands Drive,,,,From E. Pierson Ct. to E. Cedarwood Dr.,2-WAY,,,,,39.12876453,-86.51003052,630,1/1/2011
+rcl657,Monroe,Bloomington,-,,Patterson Drive,,,,From W. Allen St. to W. 2nd St.,2-WAY,,,,,39.15819578,-86.54584679,9075,1/1/2011
+rcl68,Monroe,Bloomington,-,,Azalea Lane,,,,From S. Summerwood Ct. to E. Erin Ct.,2-WAY,,,,,39.14331369,-86.52173096,492,1/1/2011
+rcl688,Monroe,Bloomington,-,,Tapp Road,,,,W. of Pinehurst,2-WAY,,,,,39.13644372,-86.552017,12484,1/1/2011
+rcl881,Monroe,Bloomington,-,,Patterson Drive,,,,North of 2nd St.,2-WAY,,,,,39.16124404,-86.54897908,7244,1/1/2011
+s4040,Monroe,Bloomington,-,,Rock Creek Drive,,,,From S. High St. to S. Childs Ct.,2-WAY,,,,,39.13973849,-86.50767903,684,1/1/2011
+s4123,Monroe,Bloomington,-,,Wimbleton Lane,,,,From S. High St. to S. Monclair Ave.,2-WAY,,,,,39.14388285,-86.50640065,157,1/1/2011
+s4214,Monroe,Bloomington,-,,Arden Drive,,,,From S. High St. to S. Williams Ct.,2-WAY,,,,,39.14730833,-86.50800966,601,1/1/2011
+s4218,Monroe,Bloomington,-,,Queens Way,,,,From S. High St. to S. Sussex Dr.,2-WAY,,,,,39.1464241,-86.5077402,484,1/1/2011
+s4311,Monroe,Bloomington,-,,Ruby Lane,,,,From E. Circle Dr. to S. Nancy St.,2-WAY,,,,,39.15464667,-86.51195054,814,1/1/2011
+s4429,Monroe,Bloomington,-,,Sheridan Drive,,,,North of Maxwell,2-WAY,,,,,39.15835338,-86.51487286,2356,1/1/2011
+s4432,Monroe,Bloomington,-,,Maxwell Lane,,,,From S. Sheridan Dr. to S. Mitchell St.,2-WAY,,,,,39.15779885,-86.51417529,3619,1/1/2011
+s4559,Monroe,Bloomington,-,,3rd Street,,,,From S. Roosevelt St. to S. Clark St.,2-WAY,,,,,39.16425424,-86.50548429,20280,1/1/2011
+s466,Monroe,Bloomington,-,,7th Street,,,,From N. Bryan Ave. to N. Jefferson St.,2-WAY,,,,,39.16821864,-86.50774227,2052,1/1/2011
+t4222,Monroe,Bloomington,-,,Moores Pike,,,,From S. Valley Forge Rd. to S. Winfield Rd.,2-WAY,,,,,39.15042385,-86.50209017,12990,1/1/2011
+t4227,Monroe,Bloomington,-,,Winfield Road,,,,From E. Moores Pike to S. Pickwick Place,2-WAY,,,,,39.15116497,-86.50102992,298,1/1/2011
+t4313,Monroe,Bloomington,-,,Winfield Road,,,,North of Pickwick Place,2-WAY,,,,,39.15241909,-86.50102445,248,1/1/2011
+t4328,Monroe,Bloomington,-,,Woodbine Avenue,,,,North of Covenanter,2-WAY,,,,,39.15571054,-86.49966378,478,1/1/2011
+u4539,Monroe,Bloomington,-,,Morningside Drive,,,,North of 3rd St.,2-WAY,,,,,39.16456519,-86.4892732,436,1/1/2011
+u466,Monroe,Bloomington,-,,Lexington Drive,,,,LEXINGTON DRIVE S OF LONGVIEW,2-WAY,,,,,39.16682995,-86.48882912,182,1/1/2011
+l4020,Monroe,Bloomington,-,,Tapp Road,,,,From S. Leonard Springs Rd. to S. Rayle Place,2-WAY,,,,,39.13679801,-86.5801896,7056,1/1/2010
+l406,Monroe,Bloomington,-,,Leonard Springs Road,,,,From W. Barge Ln. to W. Fairington Dr.,2-WAY,,,,,39.13544058,-86.58261355,7490,1/1/2010
+l4413,Monroe,Bloomington,-,,Curry Pike,,,,From W. Loroy Ave. to W. Belle Ave.,2-WAY,,,,,39.16199749,-86.58271205,13270,1/1/2010
+l4527,Monroe,Bloomington,-,,3rd Street Eastbound,,,,From S. Curry Pike to S. Liberty Dr.,2-WAY,,,,,39.16462971,-86.58102144,11975,1/1/2010
+l4529,Monroe,Bloomington,-,,Whitehall Pike,,,,W. of S.R. 37,2-WAY,,,,,39.16458706,-86.57766186,12834,1/1/2010
+n372,Monroe,Bloomington,-,,Rockport Road,,,,S. of Tapp Rd.,2-WAY,,,,,39.13281258,-86.55396733,2021,1/1/2010
+n403,Monroe,Bloomington,-,,Tapp Road,,,,W. of Adams St.,2-WAY,,,,,39.13652392,-86.55742234,14600,1/1/2010
+n412,Monroe,Bloomington,-,,Weimer Road,,,,South of W. 2nd St.,2-WAY,,,,,39.14618262,-86.56397061,1152,1/1/2010
+o401,Monroe,Bloomington,-,,Tapp Road,,,,From S. Pinehurst Dr. to S. Rockport Rd.,2-WAY,,,,,39.13635602,-86.54933734,11680,1/1/2010
+o403,Monroe,Bloomington,-,,Rockport Road,,,,ROCKPORT ROAD N OF TAPP,2-WAY,,,,,39.13730841,-86.5477555,3186,1/1/2010
+o438,Monroe,Bloomington,-,,Allen Street,,,,From S. Timothy Ct. to S. Peachtree Ln.,2-WAY,,,,,39.15594837,-86.55665345,3844,1/1/2010
+o455,Monroe,Bloomington,-,,3rd Street,,,,From S. Patterson Dr. to S. Walker St.,2-WAY,,,,,39.16408608,-86.55080301,1670,1/1/2010
+o4651,Monroe,Bloomington,-,,7th Street,,,,Oak St - East,2-WAY,,,,,39.16863403,-86.54607206,793,1/1/2010
+o4652,Monroe,Bloomington,-,,7th Street,,,,West of Oak St.,2-WAY,,,,,39.16864687,-86.54765398,770,1/1/2010
+o472,Monroe,Bloomington,-,,Crescent Road,,,,South of 17th St.,2-WAY,,,,,39.17848875,-86.55654334,2497,1/1/2010
+o529,Monroe,Bloomington,-,,Kinser Pike,,,,From N. Kinser Pike to W. Clubhouse Dr.,2-WAY,,,,,39.20100635,-86.54500908,3344,1/1/2010
+p4022,Monroe,Bloomington,-,,Country Club Drive,,,,From S. Banta Ave. to S. Milton Dr.,2-WAY,,,,,39.13614955,-86.54209119,12002,1/1/2010
+p4026,Monroe,Bloomington,-,,Country Club Drive,,,,From S. Rockport Rd. to S. Banta Ave.,2-WAY,,,,,39.13629879,-86.54676903,11194,1/1/2010
+p4323,Monroe,Bloomington,-,,Rogers Street,,,,S. of Allen St.,2-WAY,,,,,39.15507497,-86.53872124,8324,1/1/2010
+p4344,Monroe,Bloomington,-,,Fairview Street,,,,From W. Allen St. to W. Dixie St.,2-WAY,,,,,39.15609719,-86.54105535,844,1/1/2010
+p4561,Monroe,Bloomington,-,,Walnut Street,,,,From S. Jackson St. to S. Rogers St.,2-WAY,,,,,39.16286869,-86.53929999,13655,1/1/2010
+p4565,Monroe,Bloomington,-,,Rogers Street,,,,From W. Prospect St. to W. 3rd St.,2-WAY,,,,,39.16418218,-86.53865444,10213,1/1/2010
+p4571,Monroe,Bloomington,-,,Prospect Street,,,,From S. Jackson St. to S. Rogers St.,2-WAY,,,,,39.1637323,-86.53929228,52,1/1/2010
+p4640,Monroe,Bloomington,-,,7th Street,,,,Waldron - West,2-WAY,,,,,39.16862932,-86.54449357,900,1/1/2010
+p4740,Monroe,Bloomington,-,,Indiana Avenue,,,,From E. 13th St. to E. 14th St.,2-WAY,,,,,39.17455012,-86.54381163,4066,1/1/2010
+p4813,Monroe,Bloomington,-,,Willis Drive,,,,From W. Westfield Rd. to W. Ridge Rd.,2-WAY,,,,,39.18151741,-86.54407704,1257,1/1/2010
+p4919,Monroe,Bloomington,-,,Kinser Pike,,,,North of Gourley Pike,2-WAY,,,,,39.18574589,-86.53773251,8750,1/1/2010
+p493,Monroe,Bloomington,-,,Gourley Pike,,,,From N. Kinser Pike to N. Old SR 37,2-WAY,,,,,39.18471342,-86.53641669,1209,1/1/2010
+p497,Monroe,Bloomington,-,,Gourley Pike,,,,From N. Monroe St. to W. Gourley Pike,2-WAY,,,,,39.18640461,-86.54359814,656,1/1/2010
+p515,Monroe,Bloomington,-,,Kinser Pike,,,,From W. Winding Way to W. Clubhouse Dr.,2-WAY,,,,,39.19951944,-86.54245734,3404,1/1/2010
+q376,Monroe,Bloomington,-,,Rhorer Road,,,,W. of S. Kennedy Dr.,2-WAY,,,,,39.12144788,-86.52895776,9024,1/1/2010
+q406,Monroe,Bloomington,-,,Walnut Street,,,,South of Country Club Dr.,2-WAY,,,,,39.13397359,-86.53139342,16192,1/1/2010
+q4213,Monroe,Bloomington,-,,Miller Drive,,,,From S. Walnut St. to S. Henderson St.,2-WAY,,,,,39.14690657,-86.52980055,5159,1/1/2010
+q4416,Monroe,Bloomington,-,,1st Street,,,,From S. Henderson St. to S. Fess Ave.,2-WAY,,,,,39.15932835,-86.52654705,3563,1/1/2010
+q4421,Monroe,Bloomington,-,,1st Street,,,,From S. Walnut St. to S. Washington St.,2-WAY,,,,,39.15936546,-86.53303934,3357,1/1/2010
+q4452,Monroe,Bloomington,-,,Washington Street,,,,South of Wylie,2-WAY,,,,,39.15787386,-86.53243147,2033,1/1/2010
+q4523,Monroe,Bloomington,-,,Indiana Avenue,,,,N. of Hillside,2-WAY,,,,,39.16800952,-86.52694522,8358,1/1/2010
+q4584,Monroe,Bloomington,-,,4th Street,,,,Old Railroad Crossing,2-WAY,,,,,39.16560779,-86.5367652,4084,1/1/2010
+q4622,Monroe,Bloomington,-,,Lincoln Street,,,,North of 7th St.,2-WAY,,,,,39.16900817,-86.53105524,1171,1/1/2010
+q4645,Monroe,Bloomington,-,,Indiana Avenue,,,,From E. 9th St. to E. 10th St.,2-WAY,,,,,39.17105421,-86.52697723,5042,1/1/2010
+q4820,Monroe,Bloomington,-,,Dunn Street,,,,North of 18th St.,2-WAY,,,,,39.18059761,-86.52831377,7993,1/1/2010
+q4821,Monroe,Bloomington,-,,Dunn Street,,,,From E. 19th St. to E. 20th St.,2-WAY,,,,,39.18140064,-86.52832024,7390,1/1/2010
+q4825,Monroe,Bloomington,-,,Lincoln Street,,,,From E. 19th St. to E. 20th St.,2-WAY,,,,,39.18146534,-86.53091442,1075,1/1/2010
+q4826,Monroe,Bloomington,-,,Lincoln Street,,,,From E. 18th St. to E. 19th St.,2-WAY,,,,,39.1807472,-86.53093472,1132,1/1/2010
+q4849,Monroe,Bloomington,-,,19th Street,,,,From N. Washington St. to N. Lincoln St.,2-WAY,,,,,39.18121282,-86.53146221,1762,1/1/2010
+q4851,Monroe,Bloomington,-,,19th Street,,,,From N. Lincoln St. to N. Grant St.,2-WAY,,,,,39.18101809,-86.53028697,1314,1/1/2010
+q4852,Monroe,Bloomington,-,,19th Street,,,,From N. Grant St. to N. Dunn St.,2-WAY,,,,,39.18100726,-86.5289747,1662,1/1/2010
+q5014,Monroe,Bloomington,-,,Walnut Street,,,,South of Blue Ridge,2-WAY,,,,,39.19080195,-86.53314194,16145,1/1/2010
+r4011,Monroe,Bloomington,-,,Winslow Road,,,,From S. Henderson St. to S. Piccadilly St.,2-WAY,,,,,39.13597832,-86.5225543,12702,1/1/2010
+r433,Monroe,Bloomington,-,,Woodlawn Avenue,,,,From E. Grimes Ln. to S. Weatherstone Ln.,2-WAY,,,,,39.15368264,-86.52263619,3605,1/1/2010
+r4413,Monroe,Bloomington,-,,1st Street,,,,From S. Ballentine Rd. to S. Highland Ave.,2-WAY,,,,,39.15927635,-86.51842256,2999,1/1/2010
+r4415,Monroe,Bloomington,-,,1st Street,,,,From S. Woodlawn Ave. to S. Hawthorne Dr.,2-WAY,,,,,39.15929615,-86.52141681,3282,1/1/2010
+r4523,Monroe,Bloomington,-,,3rd Street,,,,From S. Woodlawn Ave. to S. Faculty Ave.,2-WAY,,,,,39.16425468,-86.52184284,13934,1/1/2010
+r4652,Monroe,Bloomington,-,,10th Street,,,,From N. Forrest Ave. to N. Walnut Grove Ave.,2-WAY,,,,,39.17162215,-86.52168717,12618,1/1/2010
+r466,Monroe,Bloomington,-,,Woodlawn Avenue,,,,From E. 7th St. to E. 8th St.,2-WAY,,,,,39.16897888,-86.52348696,5688,1/1/2010
+rcl1398,Monroe,Bloomington,-,,Liberty Drive,,,,From W. Constitution Ave. to Corp. Line,2-WAY,,,,,39.15647068,-86.57529818,11808,1/1/2010
+rcl1503,Monroe,Bloomington,-,,Hillside Drive,,,,From S. Dunn St. to S. Henderson St.,2-WAY,,,,,39.15054109,-86.52753012,8380,1/1/2010
+rcl432,Monroe,Bloomington,-,,Hagan Street,,,,West of Park Ridge,2-WAY,,,,,39.16295161,-86.478531,1049,1/1/2010
+rcl47,Monroe,Bloomington,-,,Hickory Stick Drive,,,,From E. Hickory Stick Ct. to S. Bent Tree Dr.,2-WAY,,,,,39.13899176,-86.52091931,664,1/1/2010
+rcl52,Monroe,Bloomington,-,,Graham Drive,,,,North of Bent Tree,2-WAY,,,,,39.1395304,-86.5220213,240,1/1/2010
+rcl65,Monroe,Bloomington,-,,Hickory Stick Drive,,,,West of Bent Tree,2-WAY,,,,,39.13832078,-86.52050118,690,1/1/2010
+rcl689,Monroe,Bloomington,-,,Adams Street,,,,North of Tapp Rd.,2-WAY,,,,,39.13707578,-86.55432309,2586,1/1/2010
+rcl715,Monroe,Bloomington,-,,Jonathan Drive,,,,From N. Curry Pike to N. Gates Dr.,2-WAY,,,,,39.16876254,-86.579746,5708,1/1/2010
+rcl717,Monroe,Bloomington,-,,Gates Drive,,,,North of S.R. 48,2-WAY,,,,,39.167622,-86.57599976,5583,1/1/2010
+rcl774,Monroe,Bloomington,-,,Gates Drive,,,,From W. Jacob Dr. to W. Runkle Way,2-WAY,,,,,39.16561885,-86.57510534,5424,1/1/2010
+rcl871,Monroe,Bloomington,-,,Park Ridge Road,,,,South of E. 3rd St.,2-WAY,,,,,39.16359179,-86.47628364,1629,1/1/2010
+rcl889,Monroe,Bloomington,-,,Runkle Way,,,,From Private Drive to N. Gates Dr.,2-WAY,,,,,39.16637072,-86.5774256,795,1/1/2010
+rcl907,Monroe,Bloomington,-,,Claybridge Drive,,,,From E. Clay Dr. to E. Canada Dr.,2-WAY,,,,,39.12658659,-86.50676165,141,1/1/2010
+rcl922,Monroe,Bloomington,-,,Claybridge Drive,,,,From E. Canada Dr. to E. Caray Ct.,2-WAY,,,,,39.12762051,-86.50632825,262,1/1/2010
+s4340,Monroe,Bloomington,-,,Covenanter Drive,,,,W. of S. Pickwick Place,2-WAY,,,,,39.15461946,-86.50563292,1233,1/1/2010
+s4341,Monroe,Bloomington,-,,Covenanter Drive,,,,From S. Pickwick Pl. to S. Nota Dr.,2-WAY,,,,,39.15530735,-86.50392709,1170,1/1/2010
+s4543,Monroe,Bloomington,-,,Atwater Avenue,,,,W. of Rose,2-WAY,,,,,39.16309857,-86.51156966,5427,1/1/2010
+t4224,Monroe,Bloomington,-,,Valley Forge Road,,,,North of Moores Pike,2-WAY,,,,,39.15079583,-86.50299381,168,1/1/2010
+t426,Monroe,Bloomington,-,,Sare Road,,,,South of Moore's Pike,2-WAY,,,,,39.14977713,-86.49887448,12474,1/1/2010
+t4322,Monroe,Bloomington,-,,Rechter Road,,,,South of Covenanter,2-WAY,,,,,39.15515356,-86.49953328,402,1/1/2010
+t4352,Monroe,Bloomington,-,,College Mall Road,,,,North of Covenanter,2-WAY,,,,,39.15665291,-86.4977692,21384,1/1/2010
+t4524,Monroe,Bloomington,-,,Williamsburg Drive,,,,From E. 3rd St. to E. Longview Dr.,2-WAY,,,,,39.16561778,-86.49660524,1788,1/1/2010
+t455,Monroe,Bloomington,-,,Overhill Drive,,,,North of 3rd St.,2-WAY,,,,,39.16471265,-86.50173156,384,1/1/2010
+u4413,Monroe,Bloomington,-,,Brownridge Road,,,,From S. Pleasant Ridge Rd. to S. Meadowbrook Dr.,2-WAY,,,,,39.15922581,-86.48802424,36,1/1/2010
+u4420,Monroe,Bloomington,-,,Pleasant Ridge Road,,,,From E. Brownridge Rd. to E. 3rd St.,2-WAY,,,,,39.16169811,-86.48894859,278,1/1/2010
+u4421,Monroe,Bloomington,-,,Pleasant Ridge Road,,,,From E. Adair Ln. to E. Brownridge Rd.,2-WAY,,,,,39.15909616,-86.4887374,190,1/1/2010
+u443,Monroe,Bloomington,-,,Meadowbrook Drive,,,,From E. Brighton Ave. to E. Brownridge Rd.,2-WAY,,,,,39.15841973,-86.48726558,221,1/1/2010
+u444,Monroe,Bloomington,-,,Meadowbrook Drive,,,,From E. Brownridge Rd. to E. Brownridge Rd.,2-WAY,,,,,39.15972831,-86.48728727,244,1/1/2010
+u446,Monroe,Bloomington,-,,Meadowbrook Drive,,,,From S. Reisner Rd. to E. Cameron Ave.,2-WAY,,,,,39.16184778,-86.48602193,108,1/1/2010
+u449,Monroe,Bloomington,-,,Brownridge Road,,,,From S. Meadowbrook Dr. to S. Ravencrest Ave.,2-WAY,,,,,39.16029585,-86.48644264,147,1/1/2010
+u4541,Monroe,Bloomington,-,,Morningside Drive,,,,From N. Concord Rd. to N. Glenwood Ave.,2-WAY,,,,,39.16624715,-86.48589283,261,1/1/2010
+u4546,Monroe,Bloomington,-,,Lonview Avenue,,,,From N. Concord Rd. to N. Glenwood Ave. E.,2-WAY,,,,,39.16718324,-86.48574728,302,1/1/2010
+u4547,Monroe,Bloomington,-,,Lonview Avenue,,,,From N. Lexington Dr. to N. Concord Rd.,2-WAY,,,,,39.16746994,-86.4879256,403,1/1/2010
+v4527,Monroe,Bloomington,-,,Smith Road,,,,S. of Morningside,2-WAY,,,,,39.16524086,-86.48127869,8778,1/1/2010
+v453,Monroe,Bloomington,-,,Morningside Drive,,,,West of Smith,2-WAY,,,,,39.16625443,-86.48202005,705,1/1/2010
+v4539,Monroe,Bloomington,-,,Smith Road,,,,N. of 3rd St.,2-WAY,,,,,39.16359974,-86.48096822,6626,1/1/2010
+k451,Monroe,Bloomington,-,,Belle Avenue,,,,From S. Parkway Dr. to S. Harvey Dr.,2-WAY,,,,,39.16328584,-86.58844203,1778,1/1/2009
+k482,Monroe,Bloomington,-,,Vernal Pike,,,,From N. Loesch Rd. to N. Curry Pike,2-WAY,,,,,39.17919803,-86.58707614,3544,1/1/2009
+l412,Monroe,Bloomington,-,,Curry Pike,,,,South of Industrial Boulevarde,2-WAY,,,,,39.14293999,-86.58261436,9756,1/1/2009
+l4418,Monroe,Bloomington,-,,Village Drive,,,,From W. Loroy Ave. to W. Highland Ct.,2-WAY,,,,,39.16118947,-86.5837816,260,1/1/2009
+l4421,Monroe,Bloomington,-,,Hickory Drive,,,,From W. Middle Ct. to W. Highland Ct.,2-WAY,,,,,39.16129047,-86.58584555,387,1/1/2009
+l4427,Monroe,Bloomington,-,,Western Drive,,,,From W. Middle Ct. to W. Belle Ave.,2-WAY,,,,,39.16155319,-86.58687782,264,1/1/2009
+l4428,Monroe,Bloomington,-,,Harvey Drive,,,,From W. Sunset Ave. to W. Belle Ave.,2-WAY,,,,,39.16224412,-86.58792182,265,1/1/2009
+l4429,Monroe,Bloomington,-,,Harvey Drive,,,,From W. Middle Ct. to W. Sunset Ave.,2-WAY,,,,,39.16035445,-86.58789901,251,1/1/2009
+n4325,Monroe,Bloomington,-,,Allen Street,,,,From S. Beechtree Ln. to S. Timothy Ct.,2-WAY,,,,,39.15599145,-86.55814301,3508,1/1/2009
+o4319,Monroe,Bloomington,-,,Allen Street,,,,From S. Adams St. to S. Larkspur Ln.,2-WAY,,,,,39.15579434,-86.54926222,4404,1/1/2009
+o4410,Monroe,Bloomington,-,,2nd Street,,,,From S. Patterson Dr. to S. Walker St.,2-WAY,,,,,39.16122489,-86.54737037,16395,1/1/2009
+o4723,Monroe,Bloomington,-,,Monroe Street,,,,South of 16th St.,2-WAY,,,,,39.178194,-86.54708941,3248,1/1/2009
+o507,Monroe,Bloomington,-,,Arlington Road,,,,From N. Prow Rd. to Corpline,2-WAY,,,,,39.19312547,-86.5533963,5761,1/1/2009
+o521,Monroe,Bloomington,-,,Kinser Pike,,,,From N. Kinser Pike to W. Rosewood Dr.,2-WAY,,,,,39.20320595,-86.54733484,2027,1/1/2009
+o534,Monroe,Bloomington,-,,Acuff Road,,,,From N. S.R. 37 to N. Prow Rd.,2-WAY,,,,,39.20839545,-86.55285255,2163,1/1/2009
+p333,Monroe,Bloomington,-,,Rogers Street,,,,W. of Old S.R. 37,2-WAY,,,,,39.10059641,-86.53866323,1193,1/1/2009
+p351,Monroe,Bloomington,-,,Church Lane,,,,West of Rogers,2-WAY,,,,,39.10739655,-86.54680371,2279,1/1/2009
+p3611,Monroe,Bloomington,-,,That Road,,,,W. of Rogers St.,2-WAY,,,,,39.11456404,-86.54345461,3868,1/1/2009
+p389,Monroe,Bloomington,-,,Rogers Street,,,,From W. Terrace Dr. to W. Lois Ln.,2-WAY,,,,,39.12861992,-86.5386901,5790,1/1/2009
+p416,Monroe,Bloomington,-,,Rogers Street,,,,From W. Coolidge Dr. to W. Joy St.,2-WAY,,,,,39.14184044,-86.53887999,6948,1/1/2009
+p4437,Monroe,Bloomington,-,,Wylie Street,,,,From S. Fairview St. to S. Rogers St.,2-WAY,,,,,39.15837088,-86.5398589,140,1/1/2009
+p4438,Monroe,Bloomington,-,,Wylie Street,,,,From W. 1st St. to S. Fairview St.,2-WAY,,,,,39.15841077,-86.54271223,302,1/1/2009
+p45110,Monroe,Bloomington,-,,3rd Street,,,,From S. Buckner St. to S. Euclid Ave.,2-WAY,,,,,39.16432431,-86.54398818,1468,1/1/2009
+p454,Monroe,Bloomington,-,,Walker Street,,,,From W. Smith Ave. to W. 3rd St.,2-WAY,,,,,39.16360442,-86.54625229,4681,1/1/2009
+p456,Monroe,Bloomington,-,,3rd Street,,,,From S. Walker St. to S. Davisson St.,2-WAY,,,,,39.16433796,-86.5459702,1170,1/1/2009
+p4626,Monroe,Bloomington,-,,Rogers Street,,,,From W. 10th St. to W. 11th St.,2-WAY,,,,,39.17233671,-86.53858895,8681,1/1/2009
+p4668,Monroe,Bloomington,-,,11th Street,,,,From N. Fairview St. to N. Rogers St.,2-WAY,,,,,39.17326585,-86.53972852,4218,1/1/2009
+p4765,Monroe,Bloomington,-,,Madison Street,,,,From N. Rogers St. to W. 14th St.,2-WAY,,,,,39.17492526,-86.53805136,7902,1/1/2009
+p487,Monroe,Bloomington,-,,17th Street,,,,From N. Maple St. to N. Jackson St.,2-WAY,,,,,39.1790222,-86.54085387,10329,1/1/2009
+p5014,Monroe,Bloomington,-,,Kinser Pike,,,,North of Skyline Dr.,2-WAY,,,,,39.19251147,-86.53790306,5763,1/1/2009
+q405,Monroe,Bloomington,-,,Walnut Street,,,,From W. Country Club Dr. to S. Walnut St. Pike,2-WAY,,,,,39.13675656,-86.53079629,18644,1/1/2009
+q408,Monroe,Bloomington,-,,Walnut Street Pike,,,,From E. Winslow Rd. to S. Walnut St.,2-WAY,,,,,39.13691218,-86.52954013,3582,1/1/2009
+q4253,Monroe,Bloomington,-,,Henderson Street,,,,From E. Hillside Dr. to E. Brenda Ln.,2-WAY,,,,,39.15118455,-86.52695847,6246,1/1/2009
+q4410,Monroe,Bloomington,-,,2nd Street,,,,W. of Park,2-WAY,,,,,39.16134333,-86.52656319,4214,1/1/2009
+q4438,Monroe,Bloomington,-,,Dodds Street,,,,From S. College Ave. to S. Walnut St.,2-WAY,,,,,39.15742065,-86.53402724,958,1/1/2009
+q4483,Monroe,Bloomington,-,,Fess Avenue,,,,N. of University St.,2-WAY,,,,,39.16086003,-86.52592307,492,1/1/2009
+q452,Monroe,Bloomington,-,,Hunter Avenue,,,,From S. Henderson St. to S. Fess Ave.,2-WAY,,,,,39.16225311,-86.52657515,434,1/1/2009
+q4531,Monroe,Bloomington,-,,Dunn Street,,,,From E. Atwater Ave. to E. 3rd St.,2-WAY,,,,,39.16407702,-86.52819513,12336,1/1/2009
+q4564,Monroe,Bloomington,-,,College Avenue,,,,From W. 4th St. to W. Kirkwood Ave.,2-WAY,,,,,39.16609166,-86.53488143,15609,1/1/2009
+q4585,Monroe,Bloomington,-,,4th Street,,,,From S. College Ave. to S. Walnut St.,2-WAY,,,,,39.16558919,-86.53425842,4055,1/1/2009
+q4586,Monroe,Bloomington,-,,4th Street,,,,From S. Walnut St. to S. Washington St.,2-WAY,,,,,39.16558169,-86.53299067,4655,1/1/2009
+q459,Monroe,Bloomington,-,,Fess Avenue,,,,From E. Hunter Ave. to E. Atwater Ave.,2-WAY,,,,,39.16269389,-86.5259017,1020,1/1/2009
+q468,Monroe,Bloomington,-,,Walnut Street,,,,From E. 7th St. to E. 8th St.,2-WAY,,,,,39.16902155,-86.53358321,15298,1/1/2009
+q4725,Monroe,Bloomington,-,,Dunn Street,,,,From E. 16th St. to E. 17th St.,2-WAY,,,,,39.17839397,-86.528356,3418,1/1/2009
+q4742,Monroe,Bloomington,-,,Indiana Avenue,,,,From E. 15th St. to E. 17th St.,2-WAY,,,,,39.17799406,-86.52704323,3980,1/1/2009
+q4810,Monroe,Bloomington,-,,17th Street,,,,From N. College Ave. to N. Walnut St.,2-WAY,,,,,39.17899137,-86.5340985,11369,1/1/2009
+q4842,Monroe,Bloomington,-,,College Avenue (West Lane),,,,S. of Bypass,2-WAY,,,,,39.18485652,-86.53458166,8772,1/1/2009
+r4345,Monroe,Bloomington,-,,Southdowns Drive,,,,From S. Jordan Ave. to S. Mitchell St.,2-WAY,,,,,39.15546054,-86.51457731,469,1/1/2009
+r441,Monroe,Bloomington,-,,2nd Street,,,,From S. Fess Ave. to S. Park Ave.,2-WAY,,,,,39.16132903,-86.52496571,3648,1/1/2009
+r4568,Monroe,Bloomington,-,,Hunter Avenue,,,,From S. Fess Ave. to S. Park Ave.,2-WAY,,,,,39.16223923,-86.52496745,684,1/1/2009
+r4569,Monroe,Bloomington,-,,Park Street,,,,South of Atwater Ave.,2-WAY,,,,,39.16267803,-86.52402106,799,1/1/2009
+r4618,Monroe,Bloomington,-,,Fee Lane,,,,From E. 10th St. to E. 11th St.,2-WAY,,,,,39.17243883,-86.51895756,8644,1/1/2009
+r4654,Monroe,Bloomington,-,,10th Street,,,,From N. Fee Ln. to N. Jordan Ave.,2-WAY,EB/WB,,,,39.17160182,-86.51733576,16051,1/1/2009
+r469,Monroe,Bloomington,-,,Woodlawn Avenue,,,,From E. 10th St. to E. Cottage Grove Ave.,2-WAY,,,,,39.17208305,-86.52350926,2486,1/1/2009
+r4718,Monroe,Bloomington,-,,Law Lane,,,,West of Jordan Ave.,2-WAY,,,,,39.17380365,-86.51778861,4953,1/1/2009
+r4726,Monroe,Bloomington,-,,Fee Lane,,,,From E. Law Ln. to E. 13th St.,2-WAY,,,,,39.1745575,-86.51898739,9647,1/1/2009
+r4727,Monroe,Bloomington,-,,Fee Lane,,,,South of 17th St.,2-WAY,,,,,39.17773447,-86.51883308,7604,1/1/2009
+rcl1309,Monroe,Bloomington,-,,Kerr Creek Road,,,,From E. S.R. 46 to N. Getty's Creek Rd. 1.5 mi. North of 46,2-WAY,,,,,39.11319766,-86.47846903,130,1/1/2009
+rcl1407,Monroe,Bloomington,-,,Arlington Road,,,,From Corpline to N. Prow Rd.,2-WAY,,,,,39.19128529,-86.55200683,4954,1/1/2009
+rcl1448,Monroe,Bloomington,-,,Melville Cirlce,,,,From S. Hawksmoore Dr. to E. Rock Creek Dr.,2-WAY,,,,,39.14406791,-86.49966336,48,1/1/2009
+rcl1452,Monroe,Bloomington,-,,Hawksmore Drive,,,,S. of Nora Hill Dr.,2-WAY,,,,,39.14470248,-86.5018063,343,1/1/2009
+rcl1453,Monroe,Bloomington,-,,Ramsey Drive,,,,S. of Nora Hill Dr.,2-WAY,,,,,39.14501486,-86.50319985,239,1/1/2009
+rcl1463,Monroe,Bloomington,-,,Renwick Boulevarde,,,,N. of Seminary Dr.,2-WAY,,,,,39.1468805,-86.50119153,816,1/1/2009
+rcl1464,Monroe,Bloomington,-,,Ramsey Drive,,,,W. of Springhouse,2-WAY,,,,,39.14681917,-86.50274303,209,1/1/2009
+rcl1494,Monroe,Bloomington,-,,Gordon Pike,,,,From S. Rogers St. to S. Walnut St.,2-WAY,,,,,39.12145736,-86.53242122,9289,1/1/2009
+rcl471,Monroe,Bloomington,-,,4th Street,,,,From S. Gentry St. to S. College Ave.,2-WAY,,,,,39.16559749,-86.53524691,2955,1/1/2009
+rcl487,Monroe,Bloomington,-,,College Avenue,,,,From S. Walnut St. to W. Dodds St.,2-WAY,,,,,39.15717981,-86.53386933,9860,1/1/2009
+rcl911,Monroe,Bloomington,-,,Liberty Drive,,,,S. of SR 48,2-WAY,,,,,39.16325439,-86.5791594,10802,1/1/2009
+rcl915,Monroe,Bloomington,-,,Patterson Drive,,,,From S. Madison St. to S. Morton St.,2-WAY,,,,,39.1534159,-86.53699236,12098,1/1/2009
+s4216,Monroe,Bloomington,-,,Arden Drive,,,,From S. Greenfield Ct. to S. Sycamore Ct.,2-WAY,,,,,39.14730018,-86.50602696,397,1/1/2009
+s4266,Monroe,Bloomington,-,,Sussex Drive,,,,From S. Montclair Ave. to E. Queens Way,2-WAY,,,,,39.1448041,-86.5062826,104,1/1/2009
+s435,Monroe,Bloomington,-,,Mitchell Street,,,,From E. Ruby Ln. to E. Southdowns Dr.,2-WAY,,,,,39.15525639,-86.51392107,1054,1/1/2009
+s4390,Monroe,Bloomington,-,,Southdowns Drive,,,,From S. Mitchell St. to E. Circle Dr.,2-WAY,,,,,39.15591062,-86.51360993,190,1/1/2009
+s4423,Monroe,Bloomington,-,,High Street,,,,From E. 2nd St. to E. Hunter Ave.,2-WAY,,,,,39.16161386,-86.50846132,7450,1/1/2009
+s4554,Monroe,Bloomington,-,,3rd Street,,,,From N. Union St. to N. Union St.,2-WAY,,,,,39.16426414,-86.50924873,15431,1/1/2009
+t4043,Monroe,Bloomington,-,,Sare Road,,,,SARE ROAD JUST NORTH OF ROGERS RD,2-WAY,,,,,39.13727242,-86.49656978,10132,1/1/2009
+t407,Monroe,Bloomington,-,,Rogers Road,,,,From S. Spicewood Ln. to S. Sare Rd.,2-WAY,,,,,39.13597359,-86.49925472,6938,1/1/2009
+t408,Monroe,Bloomington,-,,Rogers Road,,,,W. of Sare Rd.,2-WAY,,,,,39.13591101,-86.4971601,6337,1/1/2009
+t409,Monroe,Bloomington,-,,Rogers Road,,,,From S. Sare Rd. to S. Forrester St.,2-WAY,,,,,39.13589185,-86.4955842,4528,1/1/2009
+t412,Monroe,Bloomington,-,,Montclair Avenue,,,,From E. Edgehill Ct. to E. Montclair Ct.,2-WAY,,,,,39.14244316,-86.50432211,176,1/1/2009
+t414,Monroe,Bloomington,-,,Rock Creek Drive,,,,From S. Montclair Ave. to S. Fairmont St.,2-WAY,,,,,39.14095442,-86.50329151,351,1/1/2009
+t416,Monroe,Bloomington,-,,Rock Creek Drive,,,,From S. Belhaven Ct. to E. Rock Creek Ct.,2-WAY,,,,,39.14224576,-86.50044712,290,1/1/2009
+t417,Monroe,Bloomington,-,,Rock Creek Drive,,,,From E. Rock Creek Ct. to S. Hawksmoore Dr.,2-WAY,,,,,39.14308406,-86.50022651,298,1/1/2009
+t4336,Monroe,Bloomington,-,,Covenanter Drive,,,,From S. College Mall Rd. to S. Auto Mall Rd.,2-WAY,,,,,39.15509873,-86.49688886,8497,1/1/2009
+t4358,Monroe,Bloomington,-,,Auto Mall Road,,,,From E. Covenanter Dr. to E. Buick Cadillac Blvd.,2-WAY,,,,,39.15667004,-86.49609854,3041,1/1/2009
+t4518,Monroe,Bloomington,-,,Eastland Plaza Drive,,,,West of College Mall Rd.,2-WAY,,,,,39.16422954,-86.49999648,21192,1/1/2009
+u4428,Monroe,Bloomington,-,,Clarizz Boulevarde,,,,From E. Buick Cadillac Blvd. to E. 3rd St.,2-WAY,,,,,39.16044281,-86.490704,7606,1/1/2009
+u4530,Monroe,Bloomington,-,,Kingston Drive,,,,South of Lonview Dr.,2-WAY,,,,,39.16550694,-86.49275106,2588,1/1/2009
+i4011,Monroe,Bloomington,-,,Kirby Road *Fair week*,,,,Between Airport Rd. and Gifford,2-WAY,,,,,39.14542686,-86.61027821,3864,1/1/2008
+j387,Monroe,Bloomington,-,,Bunger Road *Fair week*,,,,North of W. S.R. 45,2-WAY,,,,,39.13300098,-86.6053809,2166,1/1/2008
+j403,Monroe,Bloomington,-,,Airport Road *Fair week*,,,,West of S.R. 45,2-WAY,,,,,39.13679442,-86.60121629,6227,1/1/2008
+k4322,Monroe,Bloomington,-,,Park Square Drive,,,,South of W. Woodside Dr.,2-WAY,,,,,39.1556044,-86.59173904,1589,1/1/2008
+k4323,Monroe,Bloomington,-,,Park Square Drive,,,,North of W. Woodside Dr.,2-WAY,,,,,39.15903817,-86.59178837,2198,1/1/2008
+k4328,Monroe,Bloomington,-,,Woodside Drive,,,,East of S. Park Square Dr.,2-WAY,,,,,39.15686991,-86.59149066,904,1/1/2008
+n4516,Monroe,Bloomington,-,,3rd Street,,,,W. of Johnson,2-WAY,,,,,39.16450987,-86.56603035,11149,1/1/2008
+n454,Monroe,Bloomington,-,,Johnson Ave.,,,,North of W. 3rd St.,2-WAY,,,,,39.16475033,-86.56499653,1070,1/1/2008
+o454,Monroe,Bloomington,-,,3rd Street,,,,Bet. S. Westplex Ave. and S. Patterson Dr.,2-WAY,,,,,39.16439535,-86.55292061,19743,1/1/2008
+o4544,Monroe,Bloomington,-,,6th Street,,,,Bet. N. Pine St. and N. Oak St.,2-WAY,,,,,39.16763756,-86.54766874,520,1/1/2008
+o456,Monroe,Bloomington,-,,Patterson Drive,,,,Bet. W. 3rd St. and S. Adams St.,2-WAY,,,,,39.16389586,-86.55165565,10210,1/1/2008
+o4613,Monroe,Bloomington,-,,Cottage Grove Avenue,,,,West of Summit St.,2-WAY,,,,,39.17223993,-86.54874261,107,1/1/2008
+o4614,Monroe,Bloomington,-,,10th Street,,,,West of Summit St.,2-WAY,,,,,39.17126131,-86.54873072,221,1/1/2008
+o4615,Monroe,Bloomington,-,,10th Street,,,,West of Monroe St.,2-WAY,,,,,39.17128153,-86.54764448,184,1/1/2008
+o4619,Monroe,Bloomington,-,,Summit St.,,,,North of W. 10th St.,2-WAY,,,,,39.17174991,-86.54822463,61,1/1/2008
+o4620,Monroe,Bloomington,-,,Summit St.,,,,North of W. Cottage Grove Ave.,2-WAY,,,,,39.17248773,-86.54821971,116,1/1/2008
+o4621,Monroe,Bloomington,-,,Monroe Street,,,,South of W. Cottage Grove Ave.,2-WAY,,,,,39.17180429,-86.54708953,197,1/1/2008
+o4653,Monroe,Bloomington,-,,7th Street,,,,W. of Pine,2-WAY,,,,,39.16865227,-86.54903311,1069,1/1/2008
+o473,Monroe,Bloomington,-,,Vernal Pike,,,,East of N. Lemon Lane,2-WAY,,,,,39.17616602,-86.55765853,7390,1/1/2008
+p4225,Monroe,Bloomington,-,,Hillside Drive,,,,From S. Rogers St. to S. Madison St.,2-WAY,,,,,39.15058189,-86.53823214,241,1/1/2008
+p432,Monroe,Bloomington,-,,Rogers Street,,,,From W. Wilson St. to W. Driscoll Dr.,2-WAY,,,,,39.15209793,-86.53877081,10695,1/1/2008
+p4348,Monroe,Bloomington,-,,Patterson Drive,,,,West of Rogers,2-WAY,,,,,39.15381727,-86.53991682,11895,1/1/2008
+p4449,Monroe,Bloomington,-,,Rogers Street,,,,From W. 1st St. to W. 2nd St.,2-WAY,,,,,39.16041464,-86.53866363,8380,1/1/2008
+p45129,Monroe,Bloomington,-,,3rd Street,,,,Westbound from S. Rogers St. to S. Madison St.,2-WAY,,,,,39.16462609,-86.53805402,4284,1/1/2008
+p45217,Monroe,Bloomington,-,,6th Street,,,,East of Elm,2-WAY,,,,,39.16762954,-86.54450644,626,1/1/2008
+q3519,Monroe,Bloomington,-,,Old State Road 37,,,,South of Orchard Lane,2-WAY,,,,,39.11242777,-86.5311235,11161,1/1/2008
+q3611,Monroe,Bloomington,-,,Walnut Street Pike,,,,South of Rhorer Rd.,2-WAY,,,,,39.11969371,-86.52663344,4506,1/1/2008
+q378,Monroe,Bloomington,-,,Walnut Street Pike,,,,Bet. E. Rhorer Rd. and E. Heather Dr.,2-WAY,,,,,39.12272023,-86.52667168,6118,1/1/2008
+q387,Monroe,Bloomington,-,,Walnut Street Pike,,,,Bet. E. Burks Dr. and E. Allendale Dr.,2-WAY,,,,,39.1282,-86.52678103,7048,1/1/2008
+q404,Monroe,Bloomington,-,,Walnut Street,,,,Bet. S. Walnut St. Pk. and E. South Dr.,2-WAY,,,,,39.1397408,-86.53067086,20414,1/1/2008
+q4117,Monroe,Bloomington,-,,Henderson Street,,,,Bet. E. South Dr. and E. Summit View Pl.,2-WAY,NB/SB,,,,39.14323564,-86.5269575,7866,1/1/2008
+q4345,Monroe,Bloomington,-,,Walnut Street,,,,Bet. E. Wilson St. and S. Monon Dr.,2-WAY,,,,,39.15183042,-86.53373251,27052,1/1/2008
+q4389,Monroe,Bloomington,-,,Henderson Street,,,,Southbound Just South of E. Allen St.,2-WAY,,,,,39.15487713,-86.52700153,6095,1/1/2008
+q439,Monroe,Bloomington,-,,Allen Street,,,,West of S. Henderson St.,2-WAY,,,,,39.15556619,-86.52755152,243,1/1/2008
+q4390,Monroe,Bloomington,-,,Henderson Street,,,,North of E. Allen St.,2-WAY,,,,,39.15601323,-86.52703775,5996,1/1/2008
+q444,Monroe,Bloomington,-,,2nd Street,,,,West of Walnut St.,2-WAY,,,,,39.16137365,-86.53429112,12432,1/1/2008
+q4445,Monroe,Bloomington,-,,Walnut Street,,,,Bet. E. 2nd St. and E. Smith Ave.,2-WAY,,,,,39.16210281,-86.53364488,13518,1/1/2008
+q4515,Monroe,Bloomington,-,,3rd Street,,,,From Lincoln St. to Grant St.,2-WAY,,,,,39.1645826,-86.53046516,18482,1/1/2008
+q4517,Monroe,Bloomington,-,,3rd Street,,,,Bet. Walnut St. and Washington St.,2-WAY,,,,,39.16459459,-86.53299694,17067,1/1/2008
+q4518,Monroe,Bloomington,-,,3rd Street,,,,West of Walnut,2-WAY,,,,,39.16460056,-86.53426282,14577,1/1/2008
+q4532,Monroe,Bloomington,-,,Dunn Street,,,,W. of E. Atwater Ave.,2-WAY,,,,,39.16362581,-86.52829457,1954,1/1/2008
+q455,Monroe,Bloomington,-,,Henderson Street,,,,South of Atwater Ave.,2-WAY,,,,,39.16297901,-86.52725515,4700,1/1/2008
+q4552,Monroe,Bloomington,-,,Washington Street,,,,N. of Kirkwood,2-WAY,,,,,39.16371063,-86.53237767,2894,1/1/2008
+q4558,Monroe,Bloomington,-,,Walnut Street,,,,Bet. E. Kirkwood Ave. and E. 6th St.,2-WAY,,,,,39.16706619,-86.53360795,15744,1/1/2008
+q4562,Monroe,Bloomington,-,,College Avenue,,,,Bet. W. Smith Ave. and W. 3rd St.,2-WAY,,,,,39.16372431,-86.53490368,13556,1/1/2008
+q4566,Monroe,Bloomington,-,,College Avenue,,,,Bet. W. 6th St. and W. 7th St.,2-WAY,,,,,39.16805798,-86.53486099,13462,1/1/2008
+q461,Monroe,Bloomington,-,,College Avenue,,,,Bet. W. 10th St. and W. 11th St.,2-WAY,,,,,39.17247542,-86.53482013,10703,1/1/2008
+q4927,Monroe,Bloomington,-,,Barbara Drive,,,,From E. Saville Ave. to E. Glendora Dr.,2-WAY,,,,,39.19041384,-86.52957232,42,1/1/2008
+q5017,Monroe,Bloomington,-,,Dunn Street,,,,N. of Tammarrack,2-WAY,,,,,39.19400943,-86.52854428,1814,1/1/2008
+q506,Monroe,Bloomington,-,,Glendora Drive,,,,West of Dunn St.,2-WAY,,,,,39.19131541,-86.52907985,371,1/1/2008
+q507,Monroe,Bloomington,-,,Glendora Drive,,,,From N. Fritz Dr. to N. Barbara Dr.,2-WAY,,,,,39.19115806,-86.53043492,382,1/1/2008
+r3718,Monroe,Bloomington,-,,Jamie Lane,,,,Bet. E. Rhorer Rd. and E. Benson Ct.,2-WAY,,,,,39.12262198,-86.51711636,507,1/1/2008
+r378,Monroe,Bloomington,-,,Rhorer Road,,,,From S. Walnut St. Pk. to S. Nimit Dr.,2-WAY,,,,,39.12143697,-86.52522628,8450,1/1/2008
+r3838,Monroe,Bloomington,-,,Bainbridge Drive,,,,South of E. Allendale Dr.,2-WAY,,,,,39.1298864,-86.5196293,1129,1/1/2008
+r3957,Monroe,Bloomington,-,,Allendale Dr.,,,,East of S. Bainbridge Dr.,2-WAY,,,,,39.13073736,-86.51912317,1343,1/1/2008
+r4226,Monroe,Bloomington,-,,Thornton Drive,,,,From S. Huntington Dr. to S. Olive St.,2-WAY,,,,,39.14938809,-86.51982202,140,1/1/2008
+r4246,Monroe,Bloomington,-,,Olive Street,,,,From E. Thornton Dr. to E. Thornton Dr.,2-WAY,,,,,39.14889468,-86.51881558,148,1/1/2008
+r4248,Monroe,Bloomington,-,,Olive Street,,,,From E. Miller Dr. to E. Thornton Dr.,2-WAY,,,,,39.14757025,-86.51879579,149,1/1/2008
+rcl1334,Monroe,Bloomington,-,,Kirby Road *Fair week*,,,,Bet. W. Airport Rd. and W. Foster Curry Rd.,2-WAY,,,,,39.13816115,-86.61024817,3319,1/1/2008
+rcl1413,Monroe,Bloomington,-,,Cory Lane,,,,South of W. 3rd St.,2-WAY,,,,,39.16355069,-86.56010248,1510,1/1/2008
+rcl1508,Monroe,Bloomington,-,,3rd Street,,,,Westbound Bet. S. Kimble Dr. and S. Opportunity Ln.,2-WAY,,,,,39.16452099,-86.56752468,11752,1/1/2008
+rcl466,Monroe,Bloomington,-,,Rogers Street,,,,From W. Prospect St. to W. 3rd St.,2-WAY,,,,,39.16329794,-86.53866384,9710,1/1/2008
+rcl619,Monroe,Bloomington,-,,Sare Road,,,,SARE RD. S. OF E. CANADA DR.,2-WAY,,,,,39.1257974,-86.50518575,6373,1/1/2008
+rcl722,Monroe,Bloomington,-,,Gates Drive,,,,Northbound,2-WAY,,,,,39.16508451,-86.57605049,13135,1/1/2008
+s4211,Monroe,Bloomington,-,,Arden Drive,,,,Bet. S. Oxford Dr. and S. Wilton Dr.,2-WAY,,,,,39.14764573,-86.51268268,285,1/1/2008
+s4212,Monroe,Bloomington,-,,Arden Drive,,,,Bet. S. Wilton Dr. and S. Windsor Dr.,2-WAY,,,,,39.14762956,-86.51063044,192,1/1/2008
+s4213,Monroe,Bloomington,-,,Arden Drive,,,,Bet. S. Windsor Dr. and S. High St.,2-WAY,,,,,39.1472859,-86.50886335,394,1/1/2008
+s4222,Monroe,Bloomington,-,,Windsor Drive,,,,From S. Oxford Dr. to S. Wilton Dr.,2-WAY,,,,,39.14674587,-86.51238065,182,1/1/2008
+s4224,Monroe,Bloomington,-,,Windsor Drive,,,,From S. Wilton Dr. to E. Arden Dr.,2-WAY,,,,,39.14666951,-86.51030972,150,1/1/2008
+s4228,Monroe,Bloomington,-,,Wilton Drive,,,,From S. Olive St. to S. Highland Ave.,2-WAY,,,,,39.1470738,-86.51167679,49,1/1/2008
+s4229,Monroe,Bloomington,-,,Wilton Drive,,,,From E. Wilton Ct. to E. Windsor Dr.,2-WAY,,,,,39.14607573,-86.51050208,350,1/1/2008
+s4238,Monroe,Bloomington,-,,Oxford Drive,,,,Bet. E. Thornton Rd. and E. Arden Dr.,2-WAY,,,,,39.14804432,-86.5134181,502,1/1/2008
+s424,Monroe,Bloomington,-,,Hillside Drive,,,,Between Nancy and High,2-WAY,,,,,39.15049817,-86.51030651,11926,1/1/2008
+s4461,Monroe,Bloomington,-,,2nd Street,,,,West of Woodcrest,2-WAY,,,,,39.16095109,-86.50414823,10321,1/1/2008
+s453,Monroe,Bloomington,-,,Mitchell Street,,,,Bet. E. Atwater Ave. and E. 3rd St.,2-WAY,,,,,39.16365926,-86.51420247,6919,1/1/2008
+s4560,Monroe,Bloomington,-,,3rd Street,,,,Bet. S. Clark St. and S. Hillsdale Dr.,2-WAY,,,,,39.16424886,-86.50379246,21334,1/1/2008
+t362,Monroe,Bloomington,-,,Harrell Road,,,,South of Rhorer Rd.,2-WAY,,,,,39.11840608,-86.49868232,1912,1/1/2008
+t4429,Monroe,Bloomington,-,,College Mall Road,,,,Bet. E. 2nd St. and E. Drive to College Mall,2-WAY,,,,,39.16195873,-86.49784873,17471,1/1/2008
+t448,Monroe,Bloomington,-,,2nd Street,,,,East of Woodcrest,2-WAY,,,,,39.16092751,-86.50008799,9415,1/1/2008
+u379,Monroe,Bloomington,-,,Snoddy Road,,,,From E. Bryn Mawr Dr. to E. Bluebird Ln.,2-WAY,,,,,39.13089407,-86.48957382,1970,1/1/2008
+u4613,Monroe,Bloomington,-,,10th Street,,,,West of Smith Rd.,2-WAY,,,,,39.17200174,-86.48498146,9100,1/1/2008
+ccl677,Monroe,Bloomington,-,,Matthews Drive,,,,130' S. of Vine St.,2-WAY,,,,,39.23513651,-86.62597665,1534,1/1/2007
+ccl681,Monroe,Bloomington,-,,Matthews Drive,,,,80' N. of Vine St.,2-WAY,,,,,39.23569941,-86.62529939,1886,1/1/2007
+ccl685,Monroe,Bloomington,-,,Matthews Drive,,,,175' S. of McNeely St.,2-WAY,,,,,39.23699693,-86.62426009,3147,1/1/2007
+ccl686,Monroe,Bloomington,-,,Sale Street,,,,N. of Thomas Rd.,2-WAY,,,,,39.23149536,-86.62940376,4826,1/1/2007
+ccl849,Monroe,Bloomington,-,,Chandler Drive,,,,500' S. of McNeely,2-WAY,,,,,39.2361682,-86.61378597,499,1/1/2007
+ccl851,Monroe,Bloomington,-,,Meadowlands Drive,,,,E. of Paddington Way,2-WAY,,,,,39.23301367,-86.61157339,694,1/1/2007
+ccl853,Monroe,Bloomington,-,,Meadowlands Drive,,,,750' W. of Daisy Dr.,2-WAY,,,,,39.23097863,-86.60888905,492,1/1/2007
+ccl854,Monroe,Bloomington,-,,Clover Drive,,,,E. of Meadowlands Dr.,2-WAY,,,,,39.23262042,-86.60856801,363,1/1/2007
+ccl858,Monroe,Bloomington,-,,Daisy Drive,,,,625' S. of Meadowlands Dr.,2-WAY,,,,,39.23026734,-86.60586449,1134,1/1/2007
+p391,Monroe,Bloomington,-,,Rogers Street,,,,S. of Country Club,2-WAY,,,,,39.13509866,-86.53831319,7018,1/1/2007
+p4045,Monroe,Bloomington,-,,Rogers Street,,,,N. oc Country Club,2-WAY,,,,,39.13657831,-86.53830523,6493,1/1/2007
+p4048,Monroe,Bloomington,-,,Rogers Street,,,,S. of Ralston Dr.,2-WAY,,,,,39.13776152,-86.53843553,6533,1/1/2007
+p4130,Monroe,Bloomington,-,,Rockport Road,,,,100' SW of Rogers,2-WAY,,,,,39.14596846,-86.53919771,3796,1/1/2007
+p4220,Monroe,Bloomington,-,,Rogers Street,,,,N. or Rockport Rd.,2-WAY,,,,,39.14621505,-86.53888119,10524,1/1/2007
+p444,Monroe,Bloomington,-,,Morton Street,,,,N. of Dodds St.,2-WAY,,,,,39.15842553,-86.53631367,369,1/1/2007
+p4636,Monroe,Bloomington,-,,7th Street,,,,W. of Rogers St.,2-WAY,,,,,39.16859825,-86.53924507,1947,1/1/2007
+p4638,Monroe,Bloomington,-,,7th Street,,,,West of Fairview,2-WAY,,,,,39.1686263,-86.541668,1445,1/1/2007
+p513,Monroe,Bloomington,-,,Clubhouse Drive,,,,W. of N. Old SR 37,2-WAY,,,,,39.1995426,-86.5379727,810,1/1/2007
+q4380,Monroe,Bloomington,-,,Dunn Street,,,,N. of Allen,2-WAY,,,,,39.15601923,-86.52808319,55,1/1/2007
+q4836,Monroe,Bloomington,-,,Old State Road 37,,,,S. of W. Gourley Pike,2-WAY,,,,,39.18411664,-86.53522373,888,1/1/2007
+r484,Monroe,Bloomington,-,,17th Street,,,,W. of Fee Lane,2-WAY,,,,,39.17902871,-86.52003865,13733,1/1/2007
+rcl806,Monroe,Bloomington,-,,Bell Trace Drive,,,,E. of John Hinkle Pl.,2-WAY,,,,,39.17080516,-86.4904849,1092,1/1/2007
+s4038,Monroe,Bloomington,-,,High Street,,,,S. of Childs School,2-WAY,,,,,39.13839618,-86.50818143,7108,1/1/2007
+s472,Monroe,Bloomington,-,,Jordan Avenue,,,,S. of 17th St.,2-WAY,,,,,39.1779993,-86.5124528,6619,1/1/2007
+s482,Monroe,Bloomington,-,,17th Street,,,,Between Jordan and Jordan,2-WAY,,,,,39.17881634,-86.51169914,9469,1/1/2007
+s483,Monroe,Bloomington,-,,17th Street,,,,Between Jordan and Lingleback,2-WAY,,,,,39.17899938,-86.50966469,6715,1/1/2007
+t4619,Monroe,Bloomington,-,,10th Street,,,,E. of Bypass,2-WAY,,,,,39.17153896,-86.49883722,15614,1/1/2007
+u4620,Monroe,Bloomington,-,,John Hinkle Place,,,,S. of Bell Trace Dr.,2-WAY,,,,,39.16991779,-86.49318499,1407,1/1/2007
+ccl1046,Monroe,Bloomington,-,,Lost Man's Lane,,,,East of Union Valley Rd.,2-WAY,,,,,39.22287054,-86.59050126,506,1/1/2006
+ccl1068,Monroe,Bloomington,-,,Meadowvale Drive,,,,W. of Lakeside Ct.,2-WAY,,,,,39.22769572,-86.59104247,410,1/1/2006
+ccl1076,Monroe,Bloomington,-,,Maple Grove Road,,,,200' W. of Union Valley Rd.,2-WAY,,,,,39.24482909,-86.60023544,915,1/1/2006
+ccl1077,Monroe,Bloomington,-,,McNeely Street,,,,W. of Union Valley Rd.,2-WAY,,,,,39.23754014,-86.59750475,1416,1/1/2006
+ccl1080,Monroe,Bloomington,-,,Maple Grove Road,,,,Between Union Valley and Maple Grove Road North,2-WAY,,,,,39.24445292,-86.57379831,871,1/1/2006
+ccl1081,Monroe,Bloomington,-,,Maple Grove Road,,,,1000' S. of Maple Grove Road West,2-WAY,,,,,39.23803844,-86.56608869,588,1/1/2006
+ccl1084,Monroe,Bloomington,-,,Maple Grove Road,,,,N. of Lost Mans Lane,2-WAY,,,,,39.22958226,-86.57235078,576,1/1/2006
+ccl1093,Monroe,Bloomington,-,,Ratliff Road,,,,100' E. of Louden Rd.,2-WAY,,,,,39.21651479,-86.63513906,980,1/1/2006
+ccl1100,Monroe,Bloomington,-,,Ratliff Road,,,,East of Thomas Rd.,2-WAY,,,,,39.21171045,-86.62286425,1570,1/1/2006
+ccl1107,Monroe,Bloomington,-,,Hartstrait Road,,,,Between Ratliff and SR 46,2-WAY,,,,,39.21008104,-86.61138972,3171,1/1/2006
+ccl1150,Monroe,Bloomington,-,,Happy Hollow Road,,,,North of Bethal Lane,2-WAY,,,,,39.21546217,-86.47399404,143,1/1/2006
+ccl1280,Monroe,Bloomington,-,,Hartstrait Road,,,,North of Vernal Pike,2-WAY,,,,,39.19404396,-86.61128201,3463,1/1/2006
+ccl1786,Monroe,Bloomington,-,,Old State Road 37,,,,S. of Ketchum Rd. Runaround,2-WAY,,,,,39.06812086,-86.54314547,6109,1/1/2006
+ccl2058,Monroe,Bloomington,-,,Old State Road 37,,,,N. of Ingram Rd.,2-WAY,,,,,38.998796,-86.5453462,4200,1/1/2006
+ccl2371,Monroe,Bloomington,-,,Sycamore Drive,,,,N. of Reeves Rd.,2-WAY,,,,,39.23290526,-86.64001983,1509,1/1/2006
+ccl2691,Monroe,Bloomington,-,,Campbell Park Road,,,,E. of Park St.,2-WAY,,,,,39.22761135,-86.61784253,1364,1/1/2006
+ccl2709,Monroe,Bloomington,-,,Prominence Point,,,,300' W. of Thomas Rd.,2-WAY,,,,,39.22183823,-86.63159426,395,1/1/2006
+ccl526,Monroe,Bloomington,-,,Matthews Drive,,,,100' N. of Maple Grove Road W.,2-WAY,,,,,39.2494878,-86.62149652,1561,1/1/2006
+ccl528,Monroe,Bloomington,-,,Red Hill Road,,,,.5 mile N. of State Road 46,2-WAY,,,,,39.25219721,-86.63532827,801,1/1/2006
+ccl535,Monroe,Bloomington,-,,Flatwoods Road,,,,East of Starnes Rd.,2-WAY,,,,,39.25237298,-86.65657497,341,1/1/2006
+ccl555,Monroe,Bloomington,-,,Starnes Road,,,,South of Flatwoods,2-WAY,,,,,39.2467977,-86.65907692,277,1/1/2006
+ccl558,Monroe,Bloomington,-,,Reeves Road,,,,West of Starnes Rd.,2-WAY,,,,,39.23159741,-86.66515551,1014,1/1/2006
+ccl571,Monroe,Bloomington,-,,Reeves Road,,,,500' W. of Louden Rd.,2-WAY,,,,,39.22392132,-86.63991984,2548,1/1/2006
+ccl597,Monroe,Bloomington,-,,Beechwood Drive,,,,500' N. of Ridge Springs Ln.,2-WAY,,,,,39.24035695,-86.63634187,528,1/1/2006
+ccl620,Monroe,Bloomington,-,,Cedar Drive,,,,200' W. of Hickory Dr.,2-WAY,,,,,39.23737144,-86.63728774,337,1/1/2006
+ccl625,Monroe,Bloomington,-,,Poplar Drive,,,,S. of Cedar Dr.,2-WAY,,,,,39.23698598,-86.63885313,369,1/1/2006
+ccl682,Monroe,Bloomington,-,,Sale Street,,,,S. of West S.R. 46,2-WAY,,,,,39.23463248,-86.62373909,5003,1/1/2006
+ccl691,Monroe,Bloomington,-,,Oak Street,,,,300' E. of Sale St.,2-WAY,,,,,39.23217937,-86.62578078,171,1/1/2006
+ccl706,Monroe,Bloomington,-,,Association Street,,,,E. of 2nd St.,2-WAY,,,,,39.23101939,-86.62247769,198,1/1/2006
+ccl714,Monroe,Bloomington,-,,Second Street,,,,S. of Temperance St.-Ellettsville,2-WAY,,,,,39.2316523,-86.62253699,462,1/1/2006
+ccl727,Monroe,Bloomington,-,,Reeves Road,,,,500' E. of Edgewood Dr.,2-WAY,,,,,39.23123252,-86.63762783,4368,1/1/2006
+ccl789,Monroe,Bloomington,-,,Apache Dr.,,,,500' E. of Thomas Rd.,2-WAY,,,,,39.22168981,-86.62979374,555,1/1/2006
+ccl795,Monroe,Bloomington,-,,Park Street,,,,S. of Campbell Park,2-WAY,,,,,39.22814645,-86.61919586,1953,1/1/2006
+ccl827,Monroe,Bloomington,-,,Chandler Drive,,,,500' N. of Kelli Dr.,2-WAY,,,,,39.23486908,-86.61838324,1039,1/1/2006
+ccl870,Monroe,Bloomington,-,,Ridgeway Drive,,,,500' N. of McNeely Rd.,2-WAY,,,,,39.23882568,-86.60688423,492,1/1/2006
+ccl880,Monroe,Bloomington,-,,Limestone Drive,,,,N. of Redbud Dr.,2-WAY,,,,,39.24302704,-86.61450342,168,1/1/2006
+ccl884,Monroe,Bloomington,-,,Limestone Drive,,,,N. of McNeely St.,2-WAY,,,,,39.23829643,-86.60887117,322,1/1/2006
+ccl887,Monroe,Bloomington,-,,Maple Grove Road,,,,E. of Matthews Dr.,2-WAY,,,,,39.24523394,-86.61729103,659,1/1/2006
+ccl888,Monroe,Bloomington,-,,Lakeview Drive,,,,North of S.R. 46,2-WAY,,,,,39.22493695,-86.60507085,1466,1/1/2006
+ccl967,Monroe,Bloomington,-,,Smith Pike,,,,North of Woodyard Rd.,2-WAY,,,,,39.20053775,-86.58312454,7506,1/1/2006
+i459,Monroe,Bloomington,-,,Hartstrait Road,,,,5000' S. of Vernal Pike,2-WAY,,,,,39.17364769,-86.61116807,2872,1/1/2006
+k483,Monroe,Bloomington,-,,Loesch Road,,,,1000' N. of Vernal Pike,2-WAY,,,,,39.1824862,-86.59250013,170,1/1/2006
+k4910,Monroe,Bloomington,-,,Loesch Road,,,,South of Woodyard,2-WAY,,,,,39.19031761,-86.59263166,277,1/1/2006
+l392,Monroe,Bloomington,-,,Leonard Springs Road,,,,Between Maybury Mall Rd. and Barge Ln.,2-WAY,,,,,39.13324519,-86.58260428,5514,1/1/2006
+l502,Monroe,Bloomington,-,,Smith Pike,,,,S. of S.R. 46,2-WAY,,,,,39.19491356,-86.5831212,8626,1/1/2006
+m3711,Monroe,Bloomington,-,,Fullerton Pike,,,,East of Leonard Springs Rd.,2-WAY,,,,,39.12342234,-86.58036269,3334,1/1/2006
+m377,Monroe,Bloomington,-,,Fullerton Pike,,,,275' W. of SR 37,2-WAY,,,,,39.12223213,-86.57130984,4880,1/1/2006
+n547,Monroe,Bloomington,-,,Maple Grove Road,,,,1000' S. of Lost Mans Ln.,2-WAY,,,,,39.21906849,-86.56464325,656,1/1/2006
+p3711,Monroe,Bloomington,-,,Gordon Pike,,,,W. of Rogers St.,2-WAY,,,,,39.12165967,-86.54160757,3610,1/1/2006
+p3810,Monroe,Bloomington,-,,Rogers Street,,,,Bet. San Juan and Terrace,2-WAY,,,,,39.12685521,-86.53882274,5795,1/1/2006
+p4136,Monroe,Bloomington,-,,Coolidge Drive,,,,West of Milton,2-WAY,,,,,39.14127485,-86.54052089,568,1/1/2006
+p45140,Monroe,Bloomington,-,,6th Street,,,,Old Railroad Crossing,2-WAY,,,,,39.16758049,-86.53626959,2583,1/1/2006
+p453,Monroe,Bloomington,-,,Walker Street,,,,North of 2nd,2-WAY,,,,,39.16193498,-86.5461692,897,1/1/2006
+p4634,Monroe,Bloomington,-,,7th Street,,,,Old Railroad Crossing,2-WAY,,,,,39.16856747,-86.53656929,3891,1/1/2006
+p4713,Monroe,Bloomington,-,,11th Street,,,,East of Morton St.,2-WAY,,,,,39.17327515,-86.5354327,3830,1/1/2006
+p4758,Monroe,Bloomington,-,,Jackson Street,,,,N. of 15th St.,2-WAY,,,,,39.17716451,-86.53968686,425,1/1/2006
+p4770,Monroe,Bloomington,-,,Woodburn Avenue,,,,South of 15th St.,2-WAY,,,,,39.17640999,-86.53598996,132,1/1/2006
+p4771,Monroe,Bloomington,-,,Woodburn Avenue,,,,North of 15th St.,2-WAY,,,,,39.17729144,-86.53597181,509,1/1/2006
+p5012,Monroe,Bloomington,-,,Kinser Pike,,,,South of Briarcliff,2-WAY,,,,,39.19358486,-86.54053454,5471,1/1/2006
+q4337,Monroe,Bloomington,-,,Brenda Lane,,,,East of Henderson St.,2-WAY,,,,,39.15181384,-86.52644682,334,1/1/2006
+q4529,Monroe,Bloomington,-,,Atwater Avenue,,,,W. of Henderson,2-WAY,,,,,39.163425,-86.52723297,795,1/1/2006
+q454,Monroe,Bloomington,-,,Atwater Avenue,,,,E. of Henderson St.,2-WAY,EB/WB,,,,39.16314214,-86.5265747,14360,1/1/2006
+q4568,Monroe,Bloomington,-,,6th Street,,,,Between Walnut and College W. of Alley,2-WAY,,,,,39.16755222,-86.53423666,3060,1/1/2006
+q4573,Monroe,Bloomington,-,,6th Street,,,,W. of Indiana,2-WAY,,,,,39.16752325,-86.52759886,995,1/1/2006
+q4727,Monroe,Bloomington,-,,15th Street,,,,W. of Woodburn,2-WAY,,,,,39.17692856,-86.52834773,648,1/1/2006
+q4777,Monroe,Bloomington,-,,15th Street,,,,E. of Woodburn,2-WAY,,,,,39.17685462,-86.53536293,855,1/1/2006
+r4558,Monroe,Bloomington,-,,Atwater Avenue,,,,E. of Park,2-WAY,,,,,39.16314106,-86.52332767,13735,1/1/2006
+rcl12,Monroe,Bloomington,-,,Olcott Boulevarde,,,,W. of Daniel,2-WAY,,,,,39.13994404,-86.48978595,474,1/1/2006
+u406,Monroe,Bloomington,-,,David Drive,,,,350' W. of Forrester,2-WAY,,,,,39.13851434,-86.49459604,557,1/1/2006
+v4526,Monroe,Bloomington,-,,Smith Road,,,,Bet. Grandview and Morningside,2-WAY,,,,,39.16700252,-86.48131009,8928,1/1/2006
+ccl107,Monroe,Bloomington,-,,Main Street,,,,"Bet. North St. and Columbia Ave., Stinesville",2-WAY,,,,,39.29958764,-86.64969079,490,1/1/2005
+ccl1127,Monroe,Bloomington,-,,Old State Road 37,,,,Bet. Old Meyers Rd. and Mel Currie Rd.,2-WAY,,,,,39.23436809,-86.50404476,2488,1/1/2005
+ccl1153,Monroe,Bloomington,-,,Bethel Lane,,,,Between Boltinghouse Rd. and Robs Ln.,2-WAY,,,,,39.2148833,-86.4709484,2381,1/1/2005
+ccl1318,Monroe,Bloomington,-,,Brock Road,,,,East of Brummetts Creek Rd.,2-WAY,,,,,39.18377009,-86.39359577,157,1/1/2005
+ccl1499,Monroe,Bloomington,-,,Hinds Road,,,,W. of SR 45,2-WAY,,,,,39.09380031,-86.65659101,133,1/1/2005
+ccl1538,Monroe,Bloomington,-,,Dunlap Road,,,,North of Ison Rd.,2-WAY,,,,,39.11406575,-86.61965606,195,1/1/2005
+ccl1540,Monroe,Bloomington,-,,Tower Ridge Road,,,,East of S. Ison Rd.,2-WAY,,,,,39.10794359,-86.60808806,94,1/1/2005
+ccl1554,Monroe,Bloomington,-,,Stinesville Road,,,,S. of Main St.,2-WAY,,,,,39.10005011,-86.57929531,948,1/1/2005
+ccl1565,Monroe,Bloomington,-,,Tramway Road,,,,East of Rockport Rd.,2-WAY,,,,,39.08594571,-86.58106835,320,1/1/2005
+ccl1574,Monroe,Bloomington,-,,Victor Pike,,,,South of Bolin,2-WAY,,,,,39.09727613,-86.55846731,1013,1/1/2005
+ccl1694,Monroe,Bloomington,-,,Eldridge Road,,,,West of Gilmore Ridge Rd.,2-WAY,,,,,39.11590163,-86.38576038,15,1/1/2005
+ccl1702,Monroe,Bloomington,-,,Gilmore Ridge Road,,,,North of Deckard Ridge Rd.,2-WAY,,,,,39.10638616,-86.37363892,125,1/1/2005
+ccl1703,Monroe,Bloomington,-,,Deckard Ridge Road,,,,South of Gilmore Ridge Rd.,2-WAY,,,,,39.09784802,-86.3731172,81,1/1/2005
+ccl1828,Monroe,Bloomington,-,,Wampler Road,,,,West of Brighton,2-WAY,,,,,39.07109219,-86.51361377,1708,1/1/2005
+ccl1830,Monroe,Bloomington,-,,Fairfax Road,,,,North of Strain Ridge Rd.,2-WAY,,,,,39.07491557,-86.50663601,3406,1/1/2005
+ccl1833,Monroe,Bloomington,-,,Strain Ridge Road,,,,Bet. Smithville Rd. and Fairfax Rd.,2-WAY,,,,,39.07269138,-86.50627951,1611,1/1/2005
+ccl1834,Monroe,Bloomington,-,,Fairfax Road,,,,N. of Smithville Rd. (4th of July Weekend),2-WAY,,,,,39.07350122,-86.50463635,4123,1/1/2005
+ccl1835,Monroe,Bloomington,-,,Smithville Road,,,,West of Fairfax Rd.,2-WAY,,,,,39.07114759,-86.50370548,1439,1/1/2005
+ccl1838,Monroe,Bloomington,-,,Fairfax Road,,,,S. of Smithville Rd.,2-WAY,,,,,39.07070583,-86.50316162,3441,1/1/2005
+ccl1873,Monroe,Bloomington,-,,Ramp Creek Road,,,,E. of Fairfax Rd.,2-WAY,,,,,39.07113941,-86.50087131,958,1/1/2005
+ccl1965,Monroe,Bloomington,-,,Allens Creek,,,,Between SR 446 and Roberts Rd. on July 4th weekend,2-WAY,,,,,39.03107384,-86.42265441,520,1/1/2005
+ccl1993,Monroe,Bloomington,-,,Thacker Road,,,,E. of Weaver,2-WAY,,,,,39.00693969,-86.65610309,94,1/1/2005
+ccl1994,Monroe,Bloomington,-,,Thacker Road,,,,W. of Weaver,2-WAY,,,,,39.00702366,-86.67214736,52,1/1/2005
+ccl2096,Monroe,Bloomington,-,,Monroe Dam Road,,,,Between SR 37 and Valley Mission Rd.,2-WAY,,,,,39.02046357,-86.5331188,3667,1/1/2005
+ccl2103,Monroe,Bloomington,-,,Strain Ridge Road,,,,N. of Monroe Dam,2-WAY,,,,,39.02339926,-86.52168227,2222,1/1/2005
+ccl2153,Monroe,Bloomington,-,,Guthrie Road,,,,West of E. Stewart Rd.,2-WAY,,,,,38.99862419,-86.45886789,413,1/1/2005
+ccl2212,Monroe,Bloomington,-,,Tower Ridge Road,,,,East of S.R. 446,2-WAY,,,,,39.02308574,-86.36229763,163,1/1/2005
+ccl2234,Monroe,Bloomington,-,,Hunters Creek Road,,,,South of Hunters Creek,2-WAY,,,,,38.9986292,-86.34554687,32,1/1/2005
+ccl2243,Monroe,Bloomington,-,,Tower Ridge Road,,,,East of Jackson Co. Line,2-WAY,,,,,39.03454173,-86.31797804,23,1/1/2005
+ccl2244,Monroe,Bloomington,-,,Jackson County Line Road,,,,200' S. of Tower Ridge Rd.,2-WAY,,,,,39.03268649,-86.31792457,86,1/1/2005
+ccl2255,Monroe,Bloomington,-,,Chapel Hill Road,,,,W. of SR 446,2-WAY,,,,,39.01881311,-86.41773553,1231,1/1/2005
+ccl2443,Monroe,Bloomington,-,,Texas Ridge Road,,,,S. of Moon Rd.,2-WAY,,,,,39.3013156,-86.6522618,441,1/1/2005
+ccl2583,Monroe,Bloomington,-,,Pointe Road,,,,Bet. Strain Ridge Rd. and Fairfax Rd.,2-WAY,,,,,39.0348645,-86.51432703,2026,1/1/2005
+ccl2853,Monroe,Bloomington,-,,S.R. 46,,,,Eastbound West of Curry Pike,2-WAY,,,,,39.20072121,-86.57549498,23390,1/1/2005
+ccl30,Monroe,Bloomington,-,,Wampler Road,,,,N. of Burma Dr.,2-WAY,,,,,39.33709649,-86.58200844,220,1/1/2005
+ccl490,Monroe,Bloomington,-,,Barr Road,,,,E. of Mt. Tabor,2-WAY,,,,,39.27395053,-86.61666807,124,1/1/2005
+ccl500,Monroe,Bloomington,-,,Old Dutch Church Road,,,,South of Mt. Tabor Rd.,2-WAY,,,,,39.27273231,-86.63020943,115,1/1/2005
+ccl562,Monroe,Bloomington,-,,Gilmore Road,,,,West of Fenceline Rd.,2-WAY,,,,,39.23168087,-86.67892533,148,1/1/2005
+i454,Monroe,Bloomington,-,,Hartstrait Road,,,,Between SR 48 and Majestic Woods,2-WAY,,,,,39.16500122,-86.61556748,3959,1/1/2005
+j395,Monroe,Bloomington,-,,S.R. 45,,,,Bet. Bunger Rd. and Duncan Rd.,2-WAY,,,,,39.13210678,-86.60031014,18085,1/1/2005
+l4414,Monroe,Bloomington,-,,Curry Pike,,,,South of S.R. 48,2-WAY,,,,,39.15936743,-86.58267842,13487,1/1/2005
+l482,Monroe,Bloomington,-,,Curry Pike,,,,North of Vernal Pike,2-WAY,,,,,39.18480388,-86.58309539,10202,1/1/2005
+m4226,Monroe,Bloomington,-,,Oakdale Drive,,,,West of Bloomfield Rd.,2-WAY,,,,,39.14856481,-86.57040369,2270,1/1/2005
+m4231,Monroe,Bloomington,-,,Basswood Drive,,,,North of Bloomfield Rd.,2-WAY,,,,,39.14980973,-86.57020057,3865,1/1/2005
+m482,Monroe,Bloomington,-,,Vernal Pike,,,,Bet. Logan and Enterprise,2-WAY,,,,,39.1792334,-86.57116099,4310,1/1/2005
+n4328,Monroe,Bloomington,-,,Allen Street,,,,S. of 2nd St.,2-WAY,,,,,39.15606497,-86.56088487,2842,1/1/2005
+o322,Monroe,Bloomington,-,,Dillman Road,,,,West of S.R. 37,2-WAY,,,,,39.09298327,-86.54947545,1288,1/1/2005
+o451,Monroe,Bloomington,-,,Adams Street,,,,South of Arch Haven Dr.,2-WAY,,,,,39.16073992,-86.55081333,2024,1/1/2005
+o4522,Monroe,Bloomington,-,,Adams Street,,,,Bet. 6th St. and 7th St. *Detour Route*,2-WAY,,,,,39.16815157,-86.54963173,3294,1/1/2005
+o4612,Monroe,Bloomington,-,,Cottage Grove Avenue,,,,East of Summit St.,2-WAY,,,,,39.17223749,-86.54766302,148,1/1/2005
+p3215,Monroe,Bloomington,-,,Dillman Road,,,,Between Old SR 37 and SR 37,2-WAY,,,,,39.09298241,-86.54496611,1849,1/1/2005
+p4353,Monroe,Bloomington,-,,Allen Street,,,,West of Patterson Dr.,2-WAY,,,,,39.15564532,-86.5438118,5119,1/1/2005
+p549,Monroe,Bloomington,-,,Business 37 North,,,,North of Bayles Rd.,2-WAY,,,,,39.22006458,-86.53840671,10356,1/1/2005
+q4510,Monroe,Bloomington,-,,Fess Avenue,,,,South of Atwater Ave.,2-WAY,,,,,39.16370837,-86.52588058,1692,1/1/2005
+q4539,Monroe,Bloomington,-,,3rd Street,,,,W. of Dunn,2-WAY,,,,,39.16457076,-86.52868446,19174,1/1/2005
+q4929,Monroe,Bloomington,-,,Saville Avenue,,,,W. of Dunn St.,2-WAY,,,,,39.1895507,-86.52902993,130,1/1/2005
+q502,Monroe,Bloomington,-,,Dunn Street,,,,South of Tammarrack,2-WAY,,,,,39.19168753,-86.52853249,1751,1/1/2005
+r384,Monroe,Bloomington,-,,Heather Drive,,,,West of Pepperchase,2-WAY,,,,,39.1253106,-86.52392564,1112,1/1/2005
+r422,Monroe,Bloomington,-,,Woodlawn Avenue,,,,North of Hillside Dr.,2-WAY,,,,,39.15097772,-86.52262728,2366,1/1/2005
+r428,Monroe,Bloomington,-,,Hillside Drive,,,,West of Woodlawn,2-WAY,,,,,39.15053075,-86.52318334,11802,1/1/2005
+r429,Monroe,Bloomington,-,,Hillside Drive,,,,East of Woodlawn,2-WAY,,,,,39.15053145,-86.52172604,12696,1/1/2005
+r4349,Monroe,Bloomington,-,,Grimes Lane,,,,West of Woodlawn,2-WAY,,,,,39.15328767,-86.52318805,1156,1/1/2005
+r4524,Monroe,Bloomington,-,,3rd Street,,,,W. of Hawthorne,2-WAY,EB/WB,,,,39.16425951,-86.52056895,19781,1/1/2005
+r4547,Monroe,Bloomington,-,,Jordan Avenue,,,,N. of 3rd St.,2-WAY,,,,,39.16483953,-86.51643594,11414,1/1/2005
+r4572,Monroe,Bloomington,-,,Woodlawn Avenue,,,,South of Atwater Ave,2-WAY,,,,,39.16268265,-86.52263016,2576,1/1/2005
+r4574,Monroe,Bloomington,-,,Faculty Avenue,,,,Bet. Atwater Ave. and Hunter,2-WAY,,,,,39.16368407,-86.52105765,184,1/1/2005
+r4640,Monroe,Bloomington,-,,7th Street,,,,Between Park and Woodlawn,2-WAY,EB/WB,,,,39.16848862,-86.52405715,6907,1/1/2005
+r505,Monroe,Bloomington,-,,Tamarack Trail,,,,East of Dunn St.,2-WAY,,,,,39.19238609,-86.52580914,450,1/1/2005
+rcl1210,Monroe,Bloomington,-,,Curry Pike,,,,North of Woodyard Rd.,2-WAY,,,,,39.1929363,-86.5734417,3269,1/1/2005
+rcl262,Monroe,Bloomington,-,,Thompson Park Drive,,,,E. of Quarry,2-WAY,,,,,39.14454421,-86.54419979,202,1/1/2005
+rcl818,Monroe,Bloomington,-,,Curry Court,,,,West of Curry Pike,2-WAY,,,,,39.15405739,-86.58387328,379,1/1/2005
+s4030,Monroe,Bloomington,-,,Kensington Place,,,,West of Stratford,2-WAY,,,,,39.13803971,-86.51078459,44,1/1/2005
+s4033,Monroe,Bloomington,-,,Stratford Drive,,,,North of Kensington,2-WAY,,,,,39.13853124,-86.50952713,188,1/1/2005
+s4034,Monroe,Bloomington,-,,Stratford Drive,,,,South of Kensington,2-WAY,,,,,39.13755087,-86.5095224,213,1/1/2005
+s4327,Monroe,Bloomington,-,,Nancy Street,,,,South of Marilyn Dr.,2-WAY,,,,,39.15328623,-86.51108751,800,1/1/2005
+s4338,Monroe,Bloomington,-,,Marilyn Drive,,,,Between High St. and Nancy St.,2-WAY,,,,,39.15361499,-86.50976718,262,1/1/2005
+s4519,Monroe,Bloomington,-,,High Street,,,,South of Atwater Ave.,2-WAY,,,,,39.16265299,-86.50847224,7721,1/1/2005
+s4521,Monroe,Bloomington,-,,Union Street,,,,North of 10th St.,2-WAY,,,,,39.16492612,-86.50941135,3623,1/1/2005
+s491,Monroe,Bloomington,-,,Headley Road,,,,South of Maplecrest Dr.,2-WAY,,,,,39.18766382,-86.51447048,870,1/1/2005
+u4545,Monroe,Bloomington,-,,Glenwood Avenue,,,,North of Morningside Dr.,2-WAY,,,,,39.16670891,-86.48422535,357,1/1/2005
+v4311,Monroe,Bloomington,-,,Gentry Boulevarde,,,,East of Graywell Dr.,2-WAY,,,,,39.15495904,-86.47483693,229,1/1/2005
+v4312,Monroe,Bloomington,-,,Graywell Drive,,,,North of Gentry Blvd,2-WAY,,,,,39.15586218,-86.47541392,377,1/1/2005
+v4313,Monroe,Bloomington,-,,Graywell Drive,,,,South of Gentry Blvd,2-WAY,,,,,39.15424967,-86.47538136,195,1/1/2005
+v4425,Monroe,Bloomington,-,,Graywell Drive,,,,South of Bill Mallory,2-WAY,,,,,39.15864196,-86.47552456,558,1/1/2005
+w496,Monroe,Bloomington,-,,Mt. Gilead Road,,,,East of S.R. 45,2-WAY,,,,,39.19014114,-86.45317018,431,1/1/2005
+ccl1047,Monroe,Bloomington,-,,Lost Man's Lane,,,,East of Union Valley Rd.,2-WAY,,,,,39.22283452,-86.58660984,779,1/1/2004
+ccl1079,Monroe,Bloomington,-,,Union Valley Road,,,,North of McNeely,2-WAY,,,,,39.24109097,-86.59280265,2676,1/1/2004
+ccl1143,Monroe,Bloomington,-,,Baugh Road,,,,South of Bethal Ln.,2-WAY,,,,,39.20994997,-86.48678016,115,1/1/2004
+ccl1170,Monroe,Bloomington,-,,Hartstrait Road,,,,Between Ratliff and Harbison,2-WAY,,,,,39.23421296,-86.45895496,3536,1/1/2004
+ccl1180,Monroe,Bloomington,-,,Earl Young Road,,,,North of East S.R. 45,2-WAY,,,,,39.22063993,-86.45436937,348,1/1/2004
+ccl1192,Monroe,Bloomington,-,,Viking Ridge Road,,,,South of E. S.R. 45,2-WAY,,,,,39.21662221,-86.43945869,118,1/1/2004
+ccl1200,Monroe,Bloomington,-,,Tunnel Road,,,,North of S.R. 45,2-WAY,,,,,39.23268045,-86.43320875,1294,1/1/2004
+ccl1256,Monroe,Bloomington,-,,Howard Road,,,,West of Vernal Pike,2-WAY,,,,,39.18803977,-86.65022714,285,1/1/2004
+ccl1259,Monroe,Bloomington,-,,Thomas Road,,,,S. of Ratliff Rd.,2-WAY,,,,,39.20136862,-86.63026809,1535,1/1/2004
+ccl1266,Monroe,Bloomington,-,,Vernal Pike,,,,North of S.R. 48,2-WAY,,,,,39.17399592,-86.65006994,319,1/1/2004
+ccl1277,Monroe,Bloomington,-,,Vernal Pike,,,,West of Hartstrait,2-WAY,,,,,39.18698416,-86.62097382,1571,1/1/2004
+ccl1306,Monroe,Bloomington,-,,Collins Lane,,,,East of Mt. Gilead Rd.,2-WAY,,,,,39.1876883,-86.43630756,38,1/1/2004
+ccl1338,Monroe,Bloomington,-,,Sewell Road,,,,9000' N. of S.R. 46,2-WAY,,,,,39.16748138,-86.37967632,59,1/1/2004
+ccl1339,Monroe,Bloomington,-,,Garrison Chapel Road,,,,South of S.R. 48,2-WAY,,,,,39.16108749,-86.64907468,910,1/1/2004
+ccl1361,Monroe,Bloomington,-,,Hoff Lane,,,,West of Garrison Chapel Rd.,2-WAY,,,,,39.13704908,-86.64656786,85,1/1/2004
+ccl1459,Monroe,Bloomington,-,,Garrison Chapel Road,,,,North of S.R. 45,2-WAY,,,,,39.11173182,-86.63818783,755,1/1/2004
+ccl1485,Monroe,Bloomington,-,,Harmony Road,,,,South of S.R. 45,2-WAY,,,,,39.10984046,-86.63821235,1684,1/1/2004
+ccl1627,Monroe,Bloomington,-,,Swartz Ridge Road,,,,West of S.R. 446,2-WAY,,,,,39.11631341,-86.45060219,467,1/1/2004
+ccl1717,Monroe,Bloomington,-,,Evans Lane,,,,South of Evans Rd.,2-WAY,,,,,39.07543239,-86.64754102,62,1/1/2004
+ccl1726,Monroe,Bloomington,-,,Carter Road,,,,West of Breeden Rd.,2-WAY,,,,,39.04347031,-86.67354016,128,1/1/2004
+ccl174,Monroe,Bloomington,-,,Stinesville Road,,,,North of S.R. 46,2-WAY,,,,,39.2896446,-86.66320507,1139,1/1/2004
+ccl1780,Monroe,Bloomington,-,,Old State Road 37,,,,North of Ketchum Runaround,2-WAY,,,,,39.07913087,-86.54144869,3586,1/1/2004
+ccl1789,Monroe,Bloomington,-,,Rogers Road,,,,West of S. Old S.R. 37,2-WAY,,,,,39.06391321,-86.54746127,119,1/1/2004
+ccl1803,Monroe,Bloomington,-,,Cedar Bluff Road,,,,West of S. Old S.R. 37,2-WAY,,,,,39.04221318,-86.55145714,136,1/1/2004
+ccl1867,Monroe,Bloomington,-,,Walnut Street,,,,South of Smithville Rd.,2-WAY,,,,,39.07052479,-86.50591599,51,1/1/2004
+ccl1925,Monroe,Bloomington,-,,Cleve Butcher Road,,,,Cleve Butcher Rd.,2-WAY,,,,,39.04591212,-86.4856802,137,1/1/2004
+ccl1930,Monroe,Bloomington,-,,Fairfax Road,,,,South of Cleve Butcher Rd.,2-WAY,,,,,39.03999611,-86.49199989,2045,1/1/2004
+ccl2031,Monroe,Bloomington,-,,Popcorn Road,,,,East of Ketchum Rd.,2-WAY,,,,,39.01174028,-86.55794617,1036,1/1/2004
+ccl2123,Monroe,Bloomington,-,,Valley Mission Road,,,,South of Monroe Dam Rd.,2-WAY,,,,,38.99791535,-86.50665402,604,1/1/2004
+ccl2131,Monroe,Bloomington,-,,Mt. Ebal Road,,,,West of Fairfax Rd.,2-WAY,,,,,39.03316145,-86.49295323,69,1/1/2004
+ccl2133,Monroe,Bloomington,-,,Stewart Road,,,,W. of Hanson Cemetary Rd.,2-WAY,,,,,38.99176778,-86.49936743,102,1/1/2004
+ccl2134,Monroe,Bloomington,-,,Stewart Road,,,,E. of Hanson Cemetary Rd.,2-WAY,,,,,38.99400287,-86.49281085,15,1/1/2004
+ccl2323,Monroe,Bloomington,-,,Gross Road,,,,East of Knightridge,2-WAY,,,,,39.1294989,-86.43417443,282,1/1/2004
+ccl2376,Monroe,Bloomington,-,,Chester Drive,,,,North of Tecusah,2-WAY,,,,,39.2250578,-86.62211228,887,1/1/2004
+ccl2432,Monroe,Bloomington,-,,Delap Road,,,,East of Cowden Rd.,2-WAY,,,,,39.2547658,-86.5887381,671,1/1/2004
+ccl2697,Monroe,Bloomington,-,,Main Street,,,,Bet. Temperance and Depot,2-WAY,,,,,39.22971676,-86.61777142,12212,1/1/2004
+ccl314,Monroe,Bloomington,-,,Newt Fulford Road,,,,East of N. Old S.R. 37,2-WAY,,,,,39.28120634,-86.4947416,35,1/1/2004
+ccl321,Monroe,Bloomington,-,,Lydy Road,,,,North of Anderson Rd.,2-WAY,,,,,39.2771519,-86.48087109,160,1/1/2004
+ccl445,Monroe,Bloomington,-,,Lawson Road,,,,South of Simpson Chapel Rd.,2-WAY,,,,,39.26367074,-86.53999711,67,1/1/2004
+ccl468,Monroe,Bloomington,-,,Woodall Road,,,,South of Woodland,2-WAY,,,,,39.27343463,-86.58080254,128,1/1/2004
+ccl494,Monroe,Bloomington,-,,Mt. Tabor Road,,,,South of Woodland,2-WAY,,,,,39.28111767,-86.62413637,1246,1/1/2004
+ccl570,Monroe,Bloomington,-,,Reeves Road,,,,East of Starnes Rd.,2-WAY,,,,,39.23147987,-86.65150394,1560,1/1/2004
+ccl655,Monroe,Bloomington,-,,"Temperance Street, Ellettsville",,,,Bet. Sharp and Walnut,2-WAY,,,,,39.23566736,-86.62752034,9559,1/1/2004
+ccl77,Monroe,Bloomington,-,,Tabor Hill Road,,,,East of Stinesville Cl.,2-WAY,,,,,39.30409646,-86.63834221,313,1/1/2004
+ccl799,Monroe,Bloomington,-,,Turtleback Drive,,,,South of Park St.,2-WAY,,,,,39.22699623,-86.61953038,1260,1/1/2004
+ccl927,Monroe,Bloomington,-,,Outback Road,,,,South of S.R. 46,2-WAY,,,,,39.21374558,-86.59256359,580,1/1/2004
+ccl932,Monroe,Bloomington,-,,Craig Drive,,,,West of Beech,2-WAY,,,,,39.20972001,-86.59294732,245,1/1/2004
+ccl933,Monroe,Bloomington,-,,Craig Drive,,,,East of Beech,2-WAY,,,,,39.20966282,-86.59121251,122,1/1/2004
+ccl939,Monroe,Bloomington,-,,Forrest Park Drive,,,,Bet. Craig and Smith Pike,2-WAY,,,,,39.20816412,-86.58740207,830,1/1/2004
+ccl941,Monroe,Bloomington,-,,Beech Lane,,,,South of Craig,2-WAY,,,,,39.20892819,-86.59215354,193,1/1/2004
+i3716,Monroe,Bloomington,-,,Leonard Springs Road,,,,LEONARD SPRINGS ROAD 1000' E OF SR45,2-WAY,,,,,39.1222885,-86.61347508,1476,1/1/2004
+i374,Monroe,Bloomington,-,,Eller Road,,,,West of S.R. 45,2-WAY,,,,,39.12253814,-86.61502075,1175,1/1/2004
+i401,Monroe,Bloomington,-,,Airport Road,,,,W. of Kirby Rd.,2-WAY,,,,,39.13697688,-86.61957807,1448,1/1/2004
+j455,Monroe,Bloomington,-,,Knapp Road,,,,North of Lacrosse,2-WAY,,,,,39.16563911,-86.60169214,91,1/1/2004
+m342,Monroe,Bloomington,-,,Rockport Road,,,,ROCKPORT ROAD BET. BOLIN & STANSIFER,2-WAY,,,,,39.10546354,-86.57603494,2230,1/1/2004
+n4518,Monroe,Bloomington,-,,3rd Street,,,,West of Cory,2-WAY,,,,,39.16447496,-86.5614214,22780,1/1/2004
+n519,Monroe,Bloomington,-,,Arlington Road,,,,East of W. Maple Grove Rd.,2-WAY,,,,,39.19897599,-86.55923136,4448,1/1/2004
+n595,Monroe,Bloomington,-,,Maple Grove Road,,,,E. of Maple Grove Road North,2-WAY,,,,,39.24547058,-86.55691989,686,1/1/2004
+o4523,Monroe,Bloomington,-,,Kirkwood Avenue,,,,Between Pine and Adams,2-WAY,,,,,39.16670248,-86.54901903,13924,1/1/2004
+o4524,Monroe,Bloomington,-,,Kirkwood Avenue,,,,Bet. Oak and Pine,2-WAY,,,,,39.16669183,-86.54763683,14347,1/1/2004
+o453,Monroe,Bloomington,-,,3rd Street,,,,East of Cory,2-WAY,,,,,39.16444252,-86.55823307,22777,1/1/2004
+p45117,Monroe,Bloomington,-,,Jackson Street,,,,South of Kirkwood Ave.,2-WAY,,,,,39.16612262,-86.53986833,155,1/1/2004
+p45155,Monroe,Bloomington,-,,Kirkwood Avenue,,,,Bet. Roger St. and Jackson,2-WAY,,,,,39.16661881,-86.53927964,13304,1/1/2004
+p45157,Monroe,Bloomington,-,,Jackson Street,,,,North of Kirkwood Ave.,2-WAY,,,,,39.1671191,-86.53985824,177,1/1/2004
+p45187,Monroe,Bloomington,-,,Kirkwood Avenue,,,,Between Maple and Waldron,2-WAY,,,,,39.1666547,-86.54296512,14340,1/1/2004
+p45188,Monroe,Bloomington,-,,Fairview Street,,,,South of Kirkwood Ave.,2-WAY,,,,,39.16613581,-86.54092385,158,1/1/2004
+p45189,Monroe,Bloomington,-,,Fairview Street,,,,North of Kirkwood Ave.,2-WAY,,,,,39.16713004,-86.54090572,240,1/1/2004
+p45193,Monroe,Bloomington,-,,Maple Street,,,,North of Kirkwood Ave.,2-WAY,,,,,39.16713854,-86.54218321,265,1/1/2004
+p45203,Monroe,Bloomington,-,,Waldron Street,,,,South of Kirkwood Ave.,2-WAY,,,,,39.1661581,-86.54375206,99,1/1/2004
+p45204,Monroe,Bloomington,-,,Waldron Street,,,,North of Kirkwood Ave.,2-WAY,,,,,39.16714282,-86.54373771,469,1/1/2004
+p45214,Monroe,Bloomington,-,,Kirkwood Avenue,,,,Between Elm and Oak,2-WAY,,,,,39.16666995,-86.54607961,14392,1/1/2004
+p4528,Monroe,Bloomington,-,,Howe Street,,,,East of Euclid,2-WAY,,,,,39.16241081,-86.54278922,494,1/1/2004
+p4648,Monroe,Bloomington,-,,8th Street,,,,West of Fairview,2-WAY,,,,,39.16955304,-86.54165225,416,1/1/2004
+p4741,Monroe,Bloomington,-,,Blair Avenue,,,,N. of 11th St.,2-WAY,,,,,39.17370904,-86.54379759,987,1/1/2004
+p492,Monroe,Bloomington,-,,Gourley Pike,,,,West of Kinser Pike,2-WAY,,,,,39.18507851,-86.53965998,3013,1/1/2004
+p4920,Monroe,Bloomington,-,,Kinser Pike,,,,South of Gourley Pike,2-WAY,,,,,39.18479507,-86.53771965,8517,1/1/2004
+p5717,Monroe,Bloomington,-,,Bottom Road,,,,North of Kinser Pike,2-WAY,,,,,39.24114286,-86.54363571,904,1/1/2004
+q3421,Monroe,Bloomington,-,,Walnut Street,,,,North of Fairfax Rd.,2-WAY,,,,,39.11028465,-86.52650261,4165,1/1/2004
+q4364,Monroe,Bloomington,-,,Lincoln Street,,,,Bet. Allen St. and Dixie,2-WAY,,,,,39.15604025,-86.53131056,1086,1/1/2004
+q4365,Monroe,Bloomington,-,,Lincoln Street,,,,South of Dodds St.,2-WAY,,,,,39.1569357,-86.5312988,1264,1/1/2004
+q4442,Monroe,Bloomington,-,,College Avenue,,,,Between 1st St. and Dodds St.,2-WAY,,,,,39.15865146,-86.53499039,11852,1/1/2004
+q4448,Monroe,Bloomington,-,,Walnut Street,,,,Bet. College and 2nd St.,2-WAY,,,,,39.15789193,-86.53366103,12916,1/1/2004
+q4561,Monroe,Bloomington,-,,Walnut Street,,,,Bet. 2nd St. and 3rd St.,2-WAY,,,,,39.16371833,-86.53363311,15916,1/1/2004
+r502,Monroe,Bloomington,-,,Hinkle Road,,,,South of Bethal Ln.,2-WAY,,,,,39.2042392,-86.50865613,504,1/1/2004
+r5411,Monroe,Bloomington,-,,Bethel Lane,,,,East of N. Old S.R. 37,2-WAY,,,,,39.21535948,-86.52026846,2006,1/1/2004
+rcl142,Monroe,Bloomington,-,,Landmark Avenue,,,,Between 2nd St. and 3rd St.,2-WAY,,,,,39.16224252,-86.55583603,4270,1/1/2004
+rcl191,Monroe,Bloomington,-,,Tulip Avenue,,,,South of Weeping Willow,2-WAY,,,,,39.12693231,-86.54240395,333,1/1/2004
+rcl462,Monroe,Bloomington,-,,Gordon Pike,,,,East of Falcon Dr.,2-WAY,,,,,39.12175011,-86.54553732,2619,1/1/2004
+rcl527,Monroe,Bloomington,-,,Fieldstone Boulevarde,,,,Southof S.R. 48,2-WAY,,,,,39.16389634,-86.60557043,1841,1/1/2004
+rcl675,Monroe,Bloomington,-,,Patterson Drive,,,,1100' N. of Allen St.,2-WAY,,,,,39.1220662,-86.54604951,9091,1/1/2004
+rcl778,Monroe,Bloomington,-,,Euclid Avenue,,,,North of Howe,2-WAY,,,,,39.16263905,-86.54335291,168,1/1/2004
+rcl934,Monroe,Bloomington,-,,Fieldstone Boulevarde,,,,East of Kirby Rd.,2-WAY,,,,,39.15800724,-86.60539197,357,1/1/2004
+t3310,Monroe,Bloomington,-,,Harrell Road,,,,N. of Moffett,2-WAY,,,,,39.10334082,-86.49850457,1241,1/1/2004
+t365,Monroe,Bloomington,-,,Forest Ridge Drive,,,,East of Harrell Rd.,2-WAY,,,,,39.11334156,-86.49673944,344,1/1/2004
+t435,Monroe,Bloomington,-,,Valley Forge,,,,North of Pickwick Place,2-WAY,,,,,39.15243672,-86.50300058,111,1/1/2004
+u325,Monroe,Bloomington,-,,Handy Road,,,,North of Shields Ridge Rd.,2-WAY,,,,,39.0940351,-86.49062294,1082,1/1/2004
+v4535,Monroe,Bloomington,-,,Park Ridge Road,,,,N. of E. 3rd St.,2-WAY,,,,,39.16426081,-86.47289403,15045,1/1/2004
+W445,Monroe,Bloomington,-,,S.R. 446,,,,South of S.R. 46,2-WAY,,,,,39.16353894,-86.47173207,6715,1/1/2004
+ccl1129,Monroe,Bloomington,-,,Old State Road 37,,,,North of Wisnand Rd.,2-WAY,,,,,39.22750622,-86.5122554,2508,1/1/2003
+ccl1209,Monroe,Bloomington,-,,Robinson Road,,,,Bet. N. Old S.R. 37 and N. Tunnel Rd.,2-WAY,,,,,39.24059257,-86.43823186,1066,1/1/2003
+ccl1233,Monroe,Bloomington,-,,Shuffle Creek Road,,,,North of S.R. 45,2-WAY,,,,,39.23983426,-86.4080221,958,1/1/2003
+ccl1234,Monroe,Bloomington,-,,Mt. Gilead Road,,,,S. of SR 45,2-WAY,,,,,39.21902649,-86.4253642,214,1/1/2003
+ccl1237,Monroe,Bloomington,-,,Brummetts Creek Road,,,,S. of SR 45,2-WAY,,,,,39.22065993,-86.41155231,562,1/1/2003
+ccl1310,Monroe,Bloomington,-,,Gettys Creek Road,,,,N. of SR 46,2-WAY,,,,,39.16716627,-86.41667371,118,1/1/2003
+ccl1384,Monroe,Bloomington,-,,Brummetts Creek Road,,,,N. of SR 46,2-WAY,,,,,39.15446525,-86.39128631,208,1/1/2003
+ccl1503,Monroe,Bloomington,-,,Hinds Road,,,,East of S.R. 45,2-WAY,,,,,39.08979691,-86.6657529,454,1/1/2003
+ccl1506,Monroe,Bloomington,-,,Burch Road,,,,Bet. S.R. 45 and Center St.,2-WAY,,,,,39.08938421,-86.66639918,405,1/1/2003
+ccl1514,Monroe,Bloomington,-,,Breeden Road,,,,South of S.R. 45,2-WAY,,,,,39.08194892,-86.67542228,857,1/1/2003
+ccl1620,Monroe,Bloomington,-,,Stipp Road,,,,East of Handy Rd.,2-WAY,,,,,39.10000039,-86.47504755,274,1/1/2003
+ccl1743,Monroe,Bloomington,-,,Stinesville Road,,,,North of Rockport Rd.,2-WAY,,,,,39.06014139,-86.61724413,298,1/1/2003
+ccl1763,Monroe,Bloomington,-,,Victor Pike,,,,South of Fluckmill,2-WAY,,,,,39.0687824,-86.57581167,650,1/1/2003
+ccl1766,Monroe,Bloomington,-,,Fluck Mill Road,,,,West of Ketchum Rd.,2-WAY,,,,,39.07120334,-86.56365673,345,1/1/2003
+ccl1767,Monroe,Bloomington,-,,Ketcham Road,,,,East of Fluck Mill Rd.,2-WAY,,,,,39.0711535,-86.55135008,834,1/1/2003
+ccl190,Monroe,Bloomington,-,,Burma Road,,,,West of Spradling,2-WAY,,,,,39.33226804,-86.53121266,128,1/1/2003
+ccl1978,Monroe,Bloomington,-,,Carmichael Road,,,,West of Rockeast,2-WAY,,,,,39.02957914,-86.67595696,205,1/1/2003
+ccl1982,Monroe,Bloomington,-,,Rockeast Road,,,,E. of Snow,2-WAY,,,,,39.03467557,-86.64733152,218,1/1/2003
+ccl1984,Monroe,Bloomington,-,,Snow Road,,,,South of Rockest Rd.,2-WAY,,,,,39.02492604,-86.65536794,254,1/1/2003
+ccl2016,Monroe,Bloomington,-,,Popcorn Road,,,,West of Springville Rd.,2-WAY,,,,,39.00138923,-86.6083531,219,1/1/2003
+ccl2019,Monroe,Bloomington,-,,Springville Road,,,,South of Popcorn Rd.,2-WAY,,,,,38.99490838,-86.59301671,329,1/1/2003
+ccl2063,Monroe,Bloomington,-,,Rockport Road,,,,S. of Rockeast Rd.,2-WAY,,,,,39.02125714,-86.59822486,305,1/1/2003
+ccl239,Monroe,Bloomington,-,,Low Gap Road,,,,North of Northshore Dr.,2-WAY,,,,,39.29848228,-86.40229779,222,1/1/2003
+ccl2444,Monroe,Bloomington,-,,North Shore Drive,,,,East of Spillway Rd.,2-WAY,,,,,39.27119926,-86.40498074,430,1/1/2003
+ccl2574,Monroe,Bloomington,-,,South Shore Drive,,,,West of Shuffle Creek Rd.,2-WAY,,,,,39.25143163,-86.40545236,510,1/1/2003
+ccl26,Monroe,Bloomington,-,,Wampler Road,,,,West of Stafford,2-WAY,,,,,39.33534446,-86.59994031,201,1/1/2003
+ccl2651,Monroe,Bloomington,-,,Sample Road,,,,West of S.R. 37,2-WAY,,,,,39.26597984,-86.52537273,517,1/1/2003
+ccl268,Monroe,Bloomington,-,,Chambers Pike,,,,East of S.R. 37,2-WAY,,,,,39.30990896,-86.50300587,402,1/1/2003
+ccl28,Monroe,Bloomington,-,,Wampler Road,,,,West of Bowman,2-WAY,,,,,39.33473569,-86.59059445,202,1/1/2003
+ccl31,Monroe,Bloomington,-,,Bowman Road,,,,South of Wampler,2-WAY,,,,,39.32581754,-86.59111126,56,1/1/2003
+ccl361,Monroe,Bloomington,-,,Sample Road,,,,East of S.R. 37,2-WAY,,,,,39.26038455,-86.51279045,873,1/1/2003
+ccl374,Monroe,Bloomington,-,,Anderson Road,,,,East of N. Old S.R. 37,2-WAY,,,,,39.26424359,-86.49606424,1181,1/1/2003
+ccl418,Monroe,Bloomington,-,,Dittemore Road,,,,West of S.R. 37,2-WAY,,,,,39.29826587,-86.54170533,426,1/1/2003
+ccl428,Monroe,Bloomington,-,,Bottom Road,,,,North of Woodall Rd.,2-WAY,,,,,39.29254962,-86.57766637,448,1/1/2003
+ccl444,Monroe,Bloomington,-,,Simpson Chapel Road,,,,West of Lawson Rd.,2-WAY,,,,,39.27253271,-86.54098595,413,1/1/2003
+ccl480,Monroe,Bloomington,-,,Woodland Road,,,,1.5 miles East of Mt. Tabor Rd.,2-WAY,,,,,39.28123685,-86.59492511,69,1/1/2003
+ccl513,Monroe,Bloomington,-,,Cowden Road,,,,Bet. Delap and Biscayne,2-WAY,,,,,39.25850307,-86.60097902,280,1/1/2003
+ccl7,Monroe,Bloomington,-,,Texas Ridge Road,,,,6336' N. of Stinesville,2-WAY,,,,,39.32064436,-86.66129434,342,1/1/2003
+ccl75,Monroe,Bloomington,-,,Bottom Road,,,,West of Liberty Hollow,2-WAY,,,,,39.31414559,-86.61867178,177,1/1/2003
+i3717,Monroe,Bloomington,-,,Leonard Springs Road,,,,LEONARD SPRINGS ROAD E OF SR45,2-WAY,,,,,39.12227607,-86.60918121,1448,1/1/2003
+i373,Monroe,Bloomington,-,,Eller Road,,,,West of S.R. 45,2-WAY,,,,,39.12228297,-86.6172801,1266,1/1/2003
+i442,Monroe,Bloomington,-,,Kirby Road,,,,South of S.R. 48,2-WAY,,,,,39.16142098,-86.61051672,2636,1/1/2003
+j375,Monroe,Bloomington,-,,Ison Road,,,,Between SR 45 and Leonard Springs Rd.,2-WAY,,,,,39.12531848,-86.60572056,639,1/1/2003
+l416,Monroe,Bloomington,-,,Curry Pike,,,,North of Industrial Boulevarde,2-WAY,,,,,39.14652642,-86.5826141,10435,1/1/2003
+l462,Monroe,Bloomington,-,,Curry Pike,,,,North of Profile Parkway,2-WAY,,,,,39.17487304,-86.58302343,13662,1/1/2003
+m3611,Monroe,Bloomington,-,,That Road,,,,W. of Rockport Rd.,2-WAY,,,,,39.11846948,-86.5734336,652,1/1/2003
+n431,Monroe,Bloomington,-,,Bloomfield Road,,,,West of Cory,2-WAY,,,,,39.15663718,-86.56056248,10012,1/1/2003
+n4424,Monroe,Bloomington,-,,Cory Lane,,,,South of W. 3rd St.,2-WAY,,,,,39.16229989,-86.5600435,1627,1/1/2003
+n4427,Monroe,Bloomington,-,,Cory Lane,,,,North of Bloomfield Rd.,2-WAY,,,,,39.15761956,-86.55981803,1772,1/1/2003
+n4429,Monroe,Bloomington,-,,Bloomfield Road,,,,East of Cory,2-WAY,,,,,39.15758769,-86.55866175,10883,1/1/2003
+p45185,Monroe,Bloomington,-,,6th Street,,,,West of Maple,2-WAY,,,,,39.16762494,-86.5429548,736,1/1/2003
+p562,Monroe,Bloomington,-,,Whisnand Road,,,,East of Business 37 N.,2-WAY,,,,,39.22265529,-86.52844927,231,1/1/2003
+q367,Monroe,Bloomington,-,,Walnut Street,,,,Bet. Cardinal and Crestline,2-WAY,,,,,39.11483288,-86.52656803,4492,1/1/2003
+q427,Monroe,Bloomington,-,,Hillside Drive,,,,West of Henderson,2-WAY,,,,,39.15052807,-86.52867651,8269,1/1/2003
+q434,Monroe,Bloomington,-,,Allen Street,,,,West of Grant,2-WAY,,,,,39.15558905,-86.53076179,285,1/1/2003
+q4453,Monroe,Bloomington,-,,Washington Street,,,,North of Wylie,2-WAY,,,,,39.15885935,-86.53242377,2598,1/1/2003
+r4311,Monroe,Bloomington,-,,Brenda Lane,,,,S. of Wilson,2-WAY,,,,,39.15125402,-86.52486725,184,1/1/2003
+r4332,Monroe,Bloomington,-,,Sheridan Drive,,,,South of Maxwell,2-WAY,,,,,39.15676415,-86.51484607,2467,1/1/2003
+r449,Monroe,Bloomington,-,,1st Street,,,,East of Sheridan,2-WAY,,,,,39.15918989,-86.51476851,502,1/1/2003
+r543,Monroe,Bloomington,-,,Old State Road 37,,,,South of Bethal Ln.,2-WAY,,,,,39.21475302,-86.52198417,4641,1/1/2003
+rcl1,Monroe,Bloomington,-,,Rogers Street,,,,South of 10th St.,2-WAY,,,,,39.17120129,-86.53860741,10011,1/1/2003
+rcl502,Monroe,Bloomington,-,,Melrose Avenue,,,,West of Henderson,2-WAY,,,,,39.14928592,-86.52917127,1278,1/1/2003
+rcl539,Monroe,Bloomington,-,,The Stands Drive,,,,S. of Pierson Ct.,2-WAY,,,,,39.12804427,-86.51008817,661,1/1/2003
+rcl713,Monroe,Bloomington,-,,Jacob Drive,,,,South of Whitehall Crossing,2-WAY,,,,,39.17098519,-86.57200679,3408,1/1/2003
+rcl723,Monroe,Bloomington,-,,Whitehall Crossing Boulevarde,,,,S.R. 37 on ramp,2-WAY,,,,,39.17184231,-86.57114519,1192,1/1/2003
+rcl830,Monroe,Bloomington,-,,Weatherstone Lane,,,,East of Woodlawn,2-WAY,,,,,39.1538279,-86.51971051,828,1/1/2003
+rcl834,Monroe,Bloomington,-,,Whitehall Crossing Boulevarde,,,,S.R. 37 off ramp,2-WAY,,,,,39.17197282,-86.5699926,2361,1/1/2003
+rcl957,Monroe,Bloomington,-,,Woodlawn Avenue,,,,Bet. Weatherstone and Southdowns,2-WAY,,,,,39.15494637,-86.52264976,3831,1/1/2003
+s4558,Monroe,Bloomington,-,,3rd Street,,,,Bet. Jefferson and Roosevelt,2-WAY,,,,,39.16426202,-86.50657744,22385,1/1/2003
+s4627,Monroe,Bloomington,-,,Bryan Avenue,,,,North of 7th St.,2-WAY,,,,,39.16852897,-86.50830992,10,1/1/2003
+t4510,Monroe,Bloomington,-,,5th Street,,,,West of Hillsdale,2-WAY,,,,,39.16675301,-86.50421123,451,1/1/2003
+t4511,Monroe,Bloomington,-,,5th Street,,,,East of Hillsdale,2-WAY,,,,,39.16632043,-86.50266718,319,1/1/2003
+t452,Monroe,Bloomington,-,,Hillside Drive,,,,South of 5th St.,2-WAY,,,,,39.16624,-86.50343927,2310,1/1/2003
+v475,Monroe,Bloomington,-,,Russell Road,,,,North of 10th St.,2-WAY,,,,,39.17634137,-86.48150374,1906,1/1/2003
+w303,Monroe,Bloomington,-,,Shields Ridge Road,,,,Norht of Ramp Creek Rd.,2-WAY,,,,,39.08641082,-86.47531806,791,1/1/2003
+ccl1095,Monroe,Bloomington,-,,Thomas Road,,,,S. of Ratliff Rd.,2-WAY,,,,,39.21442959,-86.63040722,1901,1/1/2002
+ccl1097,Monroe,Bloomington,-,,Ratliff Road,,,,East of Thomas Rd.,2-WAY,,,,,39.21485059,-86.62951252,2369,1/1/2002
+ccl1108,Monroe,Bloomington,-,,Ratliff Road,,,,West of Hartstrait,2-WAY,,,,,39.21132825,-86.62122423,2493,1/1/2002
+ccl1109,Monroe,Bloomington,-,,Hartstrait Road,,,,Bet. Ratliff Rd. and Woodyard Rd.,2-WAY,,,,,39.20884292,-86.61138413,5987,1/1/2002
+ccl1274,Monroe,Bloomington,-,,Vernal Pike,,,,West of Thomas Rd.,2-WAY,,,,,39.18836579,-86.63299082,991,1/1/2002
+ccl1308,Monroe,Bloomington,-,,North Shore Drive,,,,East of Spillway Rd.,2-WAY,,,,,39.27163128,-86.41274696,380,1/1/2002
+ccl192,Monroe,Bloomington,-,,Burma Road,,,,West of S.R. 37,2-WAY,,,,,39.32158984,-86.51461091,290,1/1/2002
+ccl1980,Monroe,Bloomington,-,,Rockeast Road,,,,E. of Snow,2-WAY,,,,,39.03168713,-86.65884385,217,1/1/2002
+ccl2427,Monroe,Bloomington,-,,S.R. 46,,,,East of Owen County Line,2-WAY,,,,,39.28112424,-86.68223776,11639,1/1/2002
+ccl260,Monroe,Bloomington,-,,Farr Road,,,,West of Fish Rd.,2-WAY,,,,,39.30681025,-86.48039722,214,1/1/2002
+j385,Monroe,Bloomington,-,,S.R. 45,,,,W. of Bunger Rd.,2-WAY,,,,,39.12851949,-86.60548354,18569,1/1/2002
+l4112,Monroe,Bloomington,-,,Industrial Boulevard,,,,East of Curry Pike,2-WAY,,,,,39.14393551,-86.58179199,1592,1/1/2002
+m4112,Monroe,Bloomington,-,,Liberty Drive,,,,South of Constitution,2-WAY,,,,,39.14780616,-86.5770862,7414,1/1/2002
+m421,Monroe,Bloomington,-,,Constitution Avenue,,,,W. of Lberty Dr.,2-WAY,,,,,39.15120496,-86.57833453,3018,1/1/2002
+m4525,Monroe,Bloomington,-,,Kimble Drive,,,,North of 3rd St.,2-WAY,,,,,39.16481162,-86.56798484,814,1/1/2002
+p331,Monroe,Bloomington,-,,Old State Road 37,,,,South of Rogers,2-WAY,,,,,39.09751609,-86.5403287,8505,1/1/2002
+p3811,Monroe,Bloomington,-,,Rogers Street,,,,S. of San Juan Dr.,2-WAY,,,,,39.12597073,-86.53888583,5890,1/1/2002
+p4614,Monroe,Bloomington,-,,Fairview Street,,,,South of 8th St.,2-WAY,,,,,39.16908619,-86.54115599,582,1/1/2002
+p4615,Monroe,Bloomington,-,,Fairview Street,,,,North of 8th St.,2-WAY,,,,,39.16999724,-86.5411394,683,1/1/2002
+p4649,Monroe,Bloomington,-,,8th Street,,,,East of Fairview,2-WAY,,,,,39.16953698,-86.54048882,684,1/1/2002
+p4922,Monroe,Bloomington,-,,S.R. 45/46 Bypass,,,,East of Overwalk,2-WAY,,,,,39.18666365,-86.54220172,22450,1/1/2002
+p566,Monroe,Bloomington,-,,Business 37 North,,,,North of Whisnand Rd.,2-WAY,,,,,39.22838787,-86.54074,9019,1/1/2002
+q382,Monroe,Bloomington,-,,Walnut Street,,,,North of Rhorer Rd.,2-WAY,,,,,39.12404697,-86.53136972,14301,1/1/2002
+q4210,Monroe,Bloomington,-,,Southern Drive,,,,West of Grant St.,2-WAY,,,,,39.1497592,-86.53258564,81,1/1/2002
+q4240,Monroe,Bloomington,-,,Walnut Street,,,,South of Hillside,2-WAY,,,,,39.15015297,-86.53358207,23726,1/1/2002
+q4367,Monroe,Bloomington,-,,Grant Street,,,,North of Allen St,2-WAY,,,,,39.15603374,-86.53021038,77,1/1/2002
+q4368,Monroe,Bloomington,-,,Grant Street,,,,South of Allen St.,2-WAY,,,,,39.1548822,-86.53022013,142,1/1/2002
+q4371,Monroe,Bloomington,-,,Grant Street,,,,South of Driscoll,2-WAY,,,,,39.15196826,-86.53028308,257,1/1/2002
+q46103,Monroe,Bloomington,-,,7th Street,,,,Bet. College Ave. and Walnut St.,2-WAY,,,,,39.1685556,-86.5342207,5583,1/1/2002
+q4933,Monroe,Bloomington,-,,Vernon Avenue,,,,West of Dunn,2-WAY,,,,,39.18764738,-86.52928983,68,1/1/2002
+r331,Monroe,Bloomington,-,,Fairfax Road,,,,South of Schact Rd.,2-WAY,,,,,39.10258523,-86.51999229,7117,1/1/2002
+r3968,Monroe,Bloomington,-,,Elliston Drive,,,,East of Hampshire,2-WAY,,,,,39.13005601,-86.51622389,279,1/1/2002
+r4012,Monroe,Bloomington,-,,Winslow Road,,,,Bet. Winslow Ct. and Burberry,2-WAY,,,,,39.13598381,-86.52352286,13394,1/1/2002
+r4210,Monroe,Bloomington,-,,Hillside Drive,,,,East of Carlisle,2-WAY,,,,,39.15054083,-86.51983246,11628,1/1/2002
+r4651,Monroe,Bloomington,-,,10th Street,,,,West of Forrest,2-WAY,,,,,39.17163166,-86.52294149,12626,1/1/2002
+rcl565,Monroe,Bloomington,-,,Bloomfield Road,,,,W. of Landmark,2-WAY,,,,,39.15966046,-86.55458294,20195,1/1/2002
+rcl618,Monroe,Bloomington,-,,Sare Road,,,,SARE ROAD NORTH OF RHORER RD/JUST NORTH OF SCHOOL,2-WAY,,,,,39.12291571,-86.51047811,4311,1/1/2002
+rcl829,Monroe,Bloomington,-,,Weatherstone Lane,,,,North of Hillside Dr.,2-WAY,,,,,39.15131909,-86.51940936,563,1/1/2002
+s373,Monroe,Bloomington,-,,Rhorer Road,,,,100' W. of Harrell Rd.,2-WAY,,,,,39.12146714,-86.50166137,2609,1/1/2002
+s4436,Monroe,Bloomington,-,,Maxwell Lane,,,,East of Rose,2-WAY,,,,,39.15778305,-86.51065143,3009,1/1/2002
+t3311,Monroe,Bloomington,-,,Moffett Lane,,,,West of Harrell Rd.,2-WAY,,,,,39.09972705,-86.49615791,2342,1/1/2002
+t337,Monroe,Bloomington,-,,Moffett Lane,,,,East of Harrell Rd.,2-WAY,,,,,39.09970545,-86.50095572,2011,1/1/2002
+t377,Monroe,Bloomington,-,,Rhorer Road,,,,East of Harrell Rd.,2-WAY,,,,,39.1214723,-86.49765049,2924,1/1/2002
+t4023,Monroe,Bloomington,-,,Sare Road,,,,N. of Rogers Rd.,2-WAY,,,,,39.13662228,-86.50228073,8018,1/1/2002
+t4122,Monroe,Bloomington,-,,Winston Street,,,,East of Sare Rd.,2-WAY,,,,,39.14514809,-86.49652381,1007,1/1/2002
+t4128,Monroe,Bloomington,-,,Sare Road,,,,SARE ROAD BET SPICEWOOD/WINSTON,2-WAY,,,,,39.14326492,-86.49662747,9041,1/1/2002
+t445,Monroe,Bloomington,-,,Woodcrest Drive,,,,South of 2nd St.,2-WAY,,,,,39.15848056,-86.50225375,862,1/1/2002
+t471,Monroe,Bloomington,-,,S.R. 45/46 Bypass,,,,South of 17th St.,2-WAY,,,,,39.17342321,-86.50325543,26893,1/1/2002
+u281,Monroe,Bloomington,-,,Ramp Creek Road,,,,East of Fairfax Rd.,2-WAY,,,,,39.06967517,-86.48975269,310,1/1/2002
+v449,Monroe,Bloomington,-,,Brighton Avenue,,,,East of Christopher Dr.,2-WAY,,,,,39.15756461,-86.48159766,575,1/1/2002
+x455,Monroe,Bloomington,-,,S.R. 46,,,,East of Kerr Creek,2-WAY,,,,,39.16679967,-86.4588386,8816,1/1/2002
+ccl1078,Monroe,Bloomington,-,,Union Valley Road,,,,Bet. S.R. 46 and W. Maple Grove Rd.,2-WAY,,,,,39.23434989,-86.59278248,2195,1/1/2001
+ccl2236,Monroe,Bloomington,-,,Hunters Creek Road,,,,Bet. S.R. 446 and Tower Ridge Rd.,2-WAY,,,,,39.017252,-86.32784099,52,1/1/2001
+ccl432,Monroe,Bloomington,-,,Bottom Road,,,,.45 miles from Simpson Chapel Rd.,2-WAY,,,,,39.27209744,-86.5571656,392,1/1/2001
+p512,Monroe,Bloomington,-,,Old State Road 37,,,,N. of Clubhouse Dr.,2-WAY,,,,,39.20269515,-86.53570848,1603,1/1/2001
+r4912,Monroe,Bloomington,-,,Browncliff Street,,,,North of Matlock Rd.,2-WAY,,,,,39.18982789,-86.51779452,268,1/1/2001
+r498,Monroe,Bloomington,-,,Matlock Road,,,,E. of Matlock,2-WAY,,,,,39.18624197,-86.51616204,1261,1/1/2001
+r545,Monroe,Bloomington,-,,Old State Road 37,,,,South of Wisnand,2-WAY,,,,,39.21875105,-86.51925633,3438,1/1/2001
+rcl129,Monroe,Bloomington,-,,Tamarron Drive,,,,Bet. N. Callery Dr. and N. Keystone Ct.,2-WAY,,,,,39.17487098,-86.48387077,485,1/1/2001
+rcl387,Monroe,Bloomington,-,,Somersbe Place,,,,East of Rogers Street,2-WAY,,,,,39.12589981,-86.5374723,290,1/1/2001
+u4534,Monroe,Bloomington,-,,Lexington Drive,,,,Between E. Longview and E. Morningside,2-WAY,,,,,39.16587677,-86.4888417,169,1/1/2001
+u464,Monroe,Bloomington,-,,Longview Drive,,,,From N. Glenwood Ave. to N. Lexington Dr.,2-WAY,,,,,39.16771925,-86.48936088,749,1/1/2001
+v471,Monroe,Bloomington,-,,S.R. 45,,,,W. of Mt. Gilead Rd.,2-WAY,,,,,39.17796897,-86.47645538,6277,1/1/2001
+w412,Monroe,Bloomington,-,,S.R. 446,,,,South of Moore's Pike,2-WAY,,,,,39.14674913,-86.46995396,4879,1/1/2001
+l384,Monroe,Bloomington,-,,Leonard Springs Road,,,,Between Maybury Mall Rd. and Sims Rd.,2-WAY,,,,,39.12932663,-86.58258773,4911,1/1/2000
+l4010,Monroe,Bloomington,-,,Leonard Springs Road,,,,Bet. Walnutleaf and Stapleton,2-WAY,,,,,39.13921713,-86.58261587,9601,1/1/2000
+o4617,Monroe,Bloomington,-,,Adams Street,,,,Between Vernal Pike and 11th St.,2-WAY,,,,,39.17274373,-86.54980161,1838,1/1/2000
+p354,Monroe,Bloomington,-,,Church Lane,,,,Between Rogers St. and S. College Ave.,2-WAY,,,,,39.10732747,-86.53961601,2900,1/1/2000
+p3715,Monroe,Bloomington,-,,Rogers Street,,,,Bet. Hays Dr. and Gordon Pike,2-WAY,,,,,39.12252841,-86.53911386,5185,1/1/2000
+p45116,Monroe,Bloomington,-,,Jackson Street,,,,Bet. 3rd St. and 4th St.,2-WAY,,,,,39.16512554,-86.53987301,239,1/1/2000
+p477,Monroe,Bloomington,-,,11th Street,,,,Bet. Orris Dr. and Blair Ave.,2-WAY,,,,,39.17326163,-86.54451199,4147,1/1/2000
+q4431,Monroe,Bloomington,-,,Dodds Street,,,,Bet. S. Palmer Ave. and S. Henderson St.,2-WAY,,,,,39.15736231,-86.52759489,416,1/1/2000
+q4447,Monroe,Bloomington,-,,Walnut Street,,,,Bet. E. Wylie St. and E. 1st St.,2-WAY,,,,,39.15886937,-86.53366274,13487,1/1/2000
+q4514,Monroe,Bloomington,-,,3rd Street,,,,Between Grant and Dunn,2-WAY,,,,,39.16457716,-86.52951827,8716,1/1/2000
+q4519,Monroe,Bloomington,-,,3rd Street,,,,Between S. Madison and College Ave.,2-WAY,,,,,39.16462668,-86.53615268,7733,1/1/2000
+q5116,Monroe,Bloomington,-,,Dunn Street,,,,Bet. E. Clover Ln. and E. Kenwood Pl.,2-WAY,,,,,39.19722836,-86.5285351,1486,1/1/2000
+q5119,Monroe,Bloomington,-,,Dunn Street,,,,Bet. E. Kenwood Pl. and E. Lakewood Dr.,2-WAY,,,,,39.20028637,-86.52873451,1103,1/1/2000
+r4475,Monroe,Bloomington,-,,Jordan Avenue,,,,Between Sheridan and University,2-WAY,,,,,39.15970844,-86.51637722,4419,1/1/2000
+r4533,Monroe,Bloomington,-,,Atwater Avenue,,,,Between Jordan and Mitchell,2-WAY,,,,,39.16305903,-86.51583125,11593,1/1/2000
+s4024,Monroe,Bloomington,-,,Winslow Road,,,,West of High St.,2-WAY,,,,,39.13600861,-86.5102284,10018,1/1/2000
+s4037,Monroe,Bloomington,-,,High Street,,,,North of Winslow Rd.,2-WAY,,,,,39.13676968,-86.50814379,5205,1/1/2000
+s4541,Monroe,Bloomington,-,,Atwater Avenue,,,,West of High St.,2-WAY,,,,,39.16309212,-86.50908952,5517,1/1/2000
+s4548,Monroe,Bloomington,-,,3rd Street,,,,Bet. Arbutus and Mitchell,2-WAY,,,,,39.16425819,-86.51371542,20815,1/1/2000
+t4026,Monroe,Bloomington,-,,Spicewood Lane,,,,North of East Rogers Rd.,2-WAY,,,,,39.13622426,-86.50087878,603,1/1/2000
+t4315,Monroe,Bloomington,-,,Winfield Road,,,,South of E. Rechter Rd.,2-WAY,,,,,39.15365577,-86.50194059,366,1/1/2000
+t4318,Monroe,Bloomington,-,,Rechter Road,,,,Bet. Winfield and Rechter Ct.,2-WAY,,,,,39.1543409,-86.5025745,351,1/1/2000
+t4330,Monroe,Bloomington,-,,Woodcrest Drive,,,,Bet. Wynwood and Woodbine,2-WAY,,,,,39.15735347,-86.5000283,660,1/1/2000
+t4428,Monroe,Bloomington,-,,College Mall Road,,,,Bet. Buick Cadillac and 2nd St.,2-WAY,,,,,39.1595232,-86.49779144,23393,1/1/2000
+t4442,Monroe,Bloomington,-,,Buick Cadillac Drive,,,,Buike Cadillac Dr.,2-WAY,,,,,39.15922561,-86.49345142,5622,1/1/2000
+u4313,Monroe,Bloomington,-,,Covenanter Drive,,,,Between Auto Mall and Clarizz,2-WAY,,,,,39.15520173,-86.49522646,3809,1/1/2000
+u4517,Monroe,Bloomington,-,,Clarizz Boulevarde,,,,S. of E. 3rd St.,2-WAY,,,,,39.16383222,-86.49070656,4940,1/1/2000
+p4481,Monroe,Bloomington,-,,1st Street,,,,Bet. Rogers and Fairview,2-WAY,,,,,39.15943121,-86.53967696,3880,1/1/1999
+p4628,Monroe,Bloomington,-,,Morton Street,,,,South of 10th St.,2-WAY,,,,,39.17106923,-86.53610041,2010,1/1/1999
+p4655,Monroe,Bloomington,-,,10th Street,,,,East of Morton St.,2-WAY,,,,,39.17167766,-86.5354542,2465,1/1/1999
+p484,Monroe,Bloomington,-,,17th Steet,,,,Bet. Kinser Pike and Woodburn Ave.,2-WAY,,,,,39.1790061,-86.53684015,15679,1/1/1999
+q4363,Monroe,Bloomington,-,,Lincoln Street,,,,Between Grimes and Allen,2-WAY,,,,,39.15489451,-86.53131826,2513,1/1/1999
+q4435,Monroe,Bloomington,-,,Dodds Street,,,,E. of S. Lincoln St.,2-WAY,,,,,39.15736923,-86.53078877,431,1/1/1999
+q4436,Monroe,Bloomington,-,,Dodds Street,,,,W. of S. Lincoln St.,2-WAY,,,,,39.15739095,-86.53186668,531,1/1/1999
+q4444,Monroe,Bloomington,-,,College Avenue,,,,Between 3rd St. and 2nd St. (All Lanes),2-WAY,,,,,39.16211116,-86.53491241,16127,1/1/1999
+q4547,Monroe,Bloomington,-,,Lincoln Street,,,,East of 6th St.,2-WAY,,,,,39.16704988,-86.53107413,3153,1/1/1999
+q4563,Monroe,Bloomington,-,,College Avenue,,,,Bet. 3rd St. and 4th St.,2-WAY,,,,,39.16509862,-86.53489449,16449,1/1/1999
+q4565,Monroe,Bloomington,-,,College Avenue,,,,Bet. Kirkwood Ave. and 6th St.,2-WAY,,,,,39.16707278,-86.53486917,16678,1/1/1999
+q4570,Monroe,Bloomington,-,,6th Street,,,,West of N. Lincoln St.,2-WAY,,,,,39.16754816,-86.53170093,1555,1/1/1999
+q4591,Monroe,Bloomington,-,,Smith Avenue,,,,E. of Dunn St.,2-WAY,,,,,39.16281272,-86.52783098,652,1/1/1999
+q46100,Monroe,Bloomington,-,,7th Street,,,,Bet. Lincoln St. and Grant St.,2-WAY,,,,,39.16853335,-86.53042509,4271,1/1/1999
+q46102,Monroe,Bloomington,-,,7th Street,,,,Bet. Walnut St. and Washington St.,2-WAY,,,,,39.1685439,-86.53295862,4784,1/1/1999
+q4681,Monroe,Bloomington,-,,9th Street,,,,Bet. Lincoln and Grant St.,2-WAY,,,,,39.17045514,-86.53040635,660,1/1/1999
+q4683,Monroe,Bloomington,-,,9th Street,,,,Bet. Walnut St. and Washington St.,2-WAY,,,,,39.17045999,-86.53294923,711,1/1/1999
+q4684,Monroe,Bloomington,-,,9th Street,,,,Bet. College Ave. and Walnut St.,2-WAY,,,,,39.17046004,-86.53421123,1236,1/1/1999
+q4687,Monroe,Bloomington,-,,8th Street,,,,Bet. College Ave. and Walnut St.,2-WAY,,,,,39.16949351,-86.5342171,1018,1/1/1999
+q4688,Monroe,Bloomington,-,,8th Street,,,,Bet. Walnut St. and Washington St.,2-WAY,,,,,39.16948612,-86.53295497,856,1/1/1999
+q4774,Monroe,Bloomington,-,,14th Street,,,,East of Walnut St.,2-WAY,,,,,39.17596473,-86.53289254,2362,1/1/1999
+q4775,Monroe,Bloomington,-,,14th Street,,,,Bet. College Ave. and Walnut St.,2-WAY,,,,,39.17596162,-86.53414955,2238,1/1/1999
+q503,Monroe,Bloomington,-,,Dunn Street,,,,Bet. Glendora Dr. and Saville Ave.,2-WAY,,,,,39.19050944,-86.52852519,1899,1/1/1999
+r4315,Monroe,Bloomington,-,,Hawthorne Drive,,,,Bet. Maxwell St. and Southdowns,2-WAY,,,,,39.15688744,-86.52031964,191,1/1/1999
+r4321,Monroe,Bloomington,-,,Highland Avenue,,,,Bet. Sheridan and Maxwell Ln.,2-WAY,,,,,39.15686176,-86.51784935,133,1/1/1999
+r4329,Monroe,Bloomington,-,,Jordan Avenue,,,,Bet. Maxwell and Sheridan,2-WAY,,,,,39.15686075,-86.51621923,266,1/1/1999
+r445,Monroe,Bloomington,-,,2nd Street,,,,East of Ballentine,2-WAY,,,,,39.16106042,-86.5184271,3167,1/1/1999
+r4464,Monroe,Bloomington,-,,Ballantine,,,,South of 2nd St.,2-WAY,,,,,39.16062048,-86.51912836,388,1/1/1999
+r4465,Monroe,Bloomington,-,,Ballantine,,,,North of 2nd St.,2-WAY,,,,,39.1616347,-86.51912969,453,1/1/1999
+r4540,Monroe,Bloomington,-,,Smith Avenue,,,,W. of Dunn St.,2-WAY,,,,,39.16400399,-86.515264,695,1/1/1999
+r4622,Monroe,Bloomington,-,,Jordan Avenue,,,,South of 7th St.,2-WAY,,,,,39.16835761,-86.51613921,6833,1/1/1999
+s4022,Monroe,Bloomington,-,,Stands Drive,,,,South of E. Rogers Rd.,2-WAY,,,,,39.13561449,-86.50409113,1692,1/1/1999
+s4528,Monroe,Bloomington,-,,Jefferson Street,,,,South of E. 5th St.,2-WAY,,,,,39.16620333,-86.50715121,1342,1/1/1999
+s4529,Monroe,Bloomington,-,,Jefferson Street,,,,North of E. 5th St.,2-WAY,,,,,39.16750995,-86.50716386,1307,1/1/1999
+s4567,Monroe,Bloomington,-,,5th Street,,,,East of South Jefferson St.,2-WAY,,,,,39.16681038,-86.50661133,457,1/1/1999
+s4568,Monroe,Bloomington,-,,5th Street,,,,West of S. Jefferson St.,2-WAY,,,,,39.1668115,-86.50773186,585,1/1/1999
+s461,Monroe,Bloomington,-,,7th Street,,,,East of Jordan,2-WAY,,,,,39.16880519,-86.51502365,1813,1/1/1999
+t4014,Monroe,Bloomington,-,,Winding Brooke Circle,,,,North of E. Rogers Rd.,2-WAY,,,,,39.13618839,-86.50407591,539,1/1/1999
+t4319,Monroe,Bloomington,-,,Rechter Road,,,,E. of S. Winfield Rd.,2-WAY,,,,,39.1542742,-86.50107516,313,1/1/1999
+t4326,Monroe,Bloomington,-,,Woodbine Avenue,,,,East of Woodbine Ct.,2-WAY,,,,,39.15617102,-86.50138101,301,1/1/1999
+t4327,Monroe,Bloomington,-,,Woodcrest Drive,,,,North of E. Woodbine Ave.,2-WAY,,,,,39.15621649,-86.50032591,716,1/1/1999
+o4618,Monroe,Bloomington,-,,Adams Street,,,,Bet. Cottage Grove and 10th St.,2-WAY,,,,,39.17175209,-86.54977451,3697,1/1/1998
+o4654,Monroe,Bloomington,-,,7th Street,,,,Bet. Ritter and Adams,2-WAY,,,,,39.16868055,-86.55025196,143,1/1/1998
+p4018,Monroe,Bloomington,-,,Country Club Drive,,,,W. of Walnut St.,2-WAY,,,,,39.13712305,-86.53780444,14648,1/1/1998
+p4354,Monroe,Bloomington,-,,Allen Street,,,,Bet. Patterson Dr. and Fairview,2-WAY,,,,,39.15563717,-86.54218309,5727,1/1/1998
+p4426,Monroe,Bloomington,-,,1st Street,,,,Bet. Morton St. and College Ave.,2-WAY,,,,,39.15939556,-86.53560208,4595,1/1/1998
+p4479,Monroe,Bloomington,-,,1st Street,,,,Bet. Walker and Fairview,2-WAY,,,,,39.15944542,-86.54222268,3820,1/1/1998
+p4755,Monroe,Bloomington,-,,Fairview Street,,,,Bet. 13th St. and 15th St.,2-WAY,,,,,39.17583756,-86.54103888,90,1/1/1998
+p5121,Monroe,Bloomington,-,,Winding Way,,,,Bet. Stoneycrest and Windcrest,2-WAY,,,,,39.19729953,-86.5447253,399,1/1/1998
+q412,Monroe,Bloomington,-,,Walnut Steet,,,,Bet. North Dr. and South Dr.,2-WAY,,,,,39.14298314,-86.53152532,21054,1/1/1998
+q4334,Monroe,Bloomington,-,,Driscoll Street,,,,Bet. Lincoln St. and Grant St.,2-WAY,,,,,39.15246399,-86.53081192,58,1/1/1998
+q4526,Monroe,Bloomington,-,,Dunn Street,,,,Bet. 4th St. and Kirkwood Ave.,2-WAY,,,,,39.16604947,-86.52824056,6030,1/1/1998
+q4589,Monroe,Bloomington,-,,4th Street,,,,Bet. Dunn St. and Grant St.,2-WAY,,,,,39.16555615,-86.5290269,2888,1/1/1998
+q4590,Monroe,Bloomington,-,,4th Street,,,,Bet. Dunn St. and Indiana Ave.,2-WAY,,,,,39.16555401,-86.52757356,1482,1/1/1998
+q4743,Monroe,Bloomington,-,,Fess Avenue,,,,Bet. 14th St. and 17th St.,2-WAY,,,,,39.17755742,-86.52597518,230,1/1/1998
+q4744,Monroe,Bloomington,-,,Fess Avenue,,,,Bet. 13th St. and 14th St.,2-WAY,,,,,39.17565926,-86.52587396,214,1/1/1998
+q488,Monroe,Bloomington,-,,17th Street,,,,Bet. Washington St. and Lincoln St.,2-WAY,,,,,39.1789718,-86.53160005,11708,1/1/1998
+r4238,Monroe,Bloomington,-,,Highland Avenue,,,,Between Miller and Thornton,2-WAY,,,,,39.14755157,-86.51747137,2621,1/1/1998
+r4253,Monroe,Bloomington,-,,Huntington Drive,,,,Bet. Hillside and Thornton,2-WAY,,,,,39.14991513,-86.5208313,854,1/1/1998
+r4549,Monroe,Bloomington,-,,Jordan Avenue,,,,North of Jones Ave.,2-WAY,,,,,39.16664539,-86.51639004,12708,1/1/1998
+r4560,Monroe,Bloomington,-,,Atwater Avenue,,,,Bet. Faculty and Hawthorne,2-WAY,EB/WB,,,,39.16309736,-86.52062107,13956,1/1/1998
+r4571,Monroe,Bloomington,-,,Woodlawn Avenue,,,,Bet. 3rd St. and Atwater Ave.,2-WAY,,,,,39.1636961,-86.52263038,1797,1/1/1998
+s4312,Monroe,Bloomington,-,,Southdowns Drive,,,,From E. Circle Dr. to S. Covenanter Dr.,2-WAY,,,,,39.15551191,-86.51121856,374,1/1/1998
+s4317,Monroe,Bloomington,-,,High Street,,,,Bet. Southdowns and Woodstock Pl.,2-WAY,,,,,39.15606939,-86.50846895,7779,1/1/1998
+s437,Monroe,Bloomington,-,,Circle Drive,,,,Bet. Southdowns and Ruby Ln.,2-WAY,,,,,39.15502648,-86.51238539,122,1/1/1998
+s438,Monroe,Bloomington,-,,Circle Drive,,,,Bet. East Side Dr. and Southdowns,2-WAY,,,,,39.15568712,-86.51249682,589,1/1/1998
+u4418,Monroe,Bloomington,-,,Brighton Avenue,,,,Bet. Meadowbrook Dr. and Ravencrest,2-WAY,,,,,39.15762777,-86.48655648,198,1/1/1998
+u4629,Monroe,Bloomington,-,,Grandview Drive,,,,South of 10th St. (S.R. 45),2-WAY,,,,,39.17172277,-86.48739705,3462,1/1/1998
+v423,Monroe,Bloomington,-,,Smith Road,,,,Bet. Brighton and Moores Pike,2-WAY,,,,,39.15608487,-86.48062423,4536,1/1/1998
+m4520,Monroe,Bloomington,-,,Whitehall Pike,,,,E. of S.R. 37,2-WAY,,,,,39.16456157,-86.57185585,22369,1/1/1997
+o4616,Monroe,Bloomington,-,,10th Street,,,,East of Monroe St.,2-WAY,,,,,39.17187525,-86.54585808,64,1/1/1997
+p4325,Monroe,Bloomington,-,,Allen Street,,,,Bet. Rogers St. and Fairview,2-WAY,,,,,39.15561667,-86.53988514,4823,1/1/1997
+p4645,Monroe,Bloomington,-,,8th Street,,,,At Waldron St.,2-WAY,,,,,39.16957145,-86.54401509,365,1/1/1997
+q4246,Monroe,Bloomington,-,,Walnut Street,,,,Bet. Wilson and Hillside,2-WAY,,,,,39.15100972,-86.53373983,25254,1/1/1997
+q4557,Monroe,Bloomington,-,,Walnut Street,,,,Bet. 6th St. and 7th St.,2-WAY,,,,,39.16804985,-86.53359763,16259,1/1/1997
+q4572,Monroe,Bloomington,-,,6th Street,,,,West of Dunn St.,2-WAY,,,,,39.16753308,-86.52902622,1907,1/1/1997
+rcl248,Monroe,Bloomington,-,,Winslow Farms Drive,,,,Bet. Moss Creek Dr. and Hickory Stick Dr.,2-WAY,,,,,39.13812413,-86.51842095,768,1/1/1997
+rcl446,Monroe,Bloomington,-,,Wylie Farm Road,,,,Bet. Laurelwood Circle and Whitetail Run,2-WAY,,,,,39.14119448,-86.52287094,1320,1/1/1997
+rcl469,Monroe,Bloomington,-,,Walnut Street,,,,Bet. Heather and Burks,2-WAY,,,,,39.12478159,-86.52670607,5556,1/1/1997
+rcl60,Monroe,Bloomington,-,,Bent Tree Drive,,,,Bet. Hickory Stick and Wylie Farm Rd.,2-WAY,,,,,39.14010711,-86.52152616,782,1/1/1997
+s4316,Monroe,Bloomington,-,,Ruby Lane,,,,Bet. Covenanter Dr. and Nancy St.,2-WAY,,,,,39.15464904,-86.51024198,606,1/1/1997
+s4435,Monroe,Bloomington,-,,Maxwell Lane,,,,Between Maxwell Terrace and Rose,2-WAY,,,,,39.15778821,-86.51137202,3159,1/1/1997
+s4457,Monroe,Bloomington,-,,2nd Street,,,,Bet. Anita and Rose,2-WAY,,,,,39.16099489,-86.51063628,4829,1/1/1997
+s448,Monroe,Bloomington,-,,Eastside Drive,,,,South of 1st St.,2-WAY,,,,,39.15851306,-86.51266254,128,1/1/1997
+s449,Monroe,Bloomington,-,,Eastside Drive,,,,North of 1st St.,2-WAY,,,,,39.15969284,-86.51267424,131,1/1/1997
+s4555,Monroe,Bloomington,-,,3rd Street,,,,From S. Union St. to S. High St.,2-WAY,,,,,39.16426527,-86.50878338,17779,1/1/1997
+k505,Monroe,Bloomington,-,,Woodyard Road,,,,From N. Loesch Rd. to N. Smith Pike,2-WAY,,,,,39.19260121,-86.58687703,1558,1/1/1996
+o554,Monroe,Bloomington,-,,Kinser Pike,,,,From N. S.R. 37 to W. Bell Rd.,2-WAY,,,,,39.22201309,-86.55019606,129,1/1/1996
+q4545,Monroe,Bloomington,-,,Grant Street,,,,From E. 6th St. to E. 7th St.,2-WAY,,,,,39.16803184,-86.52979151,2797,1/1/1996
+r4466,Monroe,Bloomington,-,,Highland Avenue,,,,From E. 2nd St. to E. Hunter Ave.,2-WAY,,,,,39.16162319,-86.51772679,123,1/1/1996
+rcl1371,Monroe,Bloomington,-,,Kirby Road,,,,From W. Gifford Rd. to S. Fieldstone Blvd.,2-WAY,,,,,39.15464088,-86.61038538,3002,1/1/1996
+rcl984,Monroe,Bloomington,-,,Curry Pike,,,,From W. Heritage Way to W. Curry Ct.,2-WAY,,,,,39.15371127,-86.58265296,14789,1/1/1996
+s4339,Monroe,Bloomington,-,,Covenanter Drive,,,,From S. High St. to S. Brooks Dr.,2-WAY,,,,,39.1536132,-86.50746672,2076,1/1/1996
+v477,Monroe,Bloomington,-,,Russell Road,,,,From E. S.R. 45 to E. Devonshire Ct.,2-WAY,,,,,39.17879539,-86.48159204,1490,1/1/1996
+k406,Monroe,Bloomington,-,,State Road 45,,,,From W. Airport Rd. to S. Leonard Springs Rd.,2-WAY,,,,,39.13979821,-86.58879727,14593,1/1/1993
+q4457,Monroe,Bloomington,-,,Lincoln Street,,,,From E. 1st St. to E. 2nd St.,2-WAY,,,,,39.16088548,-86.53126811,2325,1/1/1992
+r4432,Monroe,Bloomington,-,,Maxwell Lane,,,,From S. Manor Rd. to S. Hawthorne Dr.,2-WAY,,,,,39.15781201,-86.52093583,1872,1/1/1992
+r4559,Monroe,Bloomington,-,,Atwater Avenue,,,,From S. Woodlawn Ave. to S. Faculty Ave.,2-WAY,,,,,39.16313392,-86.52184456,13219,1/1/1992
+m4010,Monroe,Bloomington,-,,TAPP,REX GROSSMAN,DEBORAH,BETWEEN,REX GROSSMAN AND DEBORAH,2-WAY,EB/WB,,,,,,,
+n4012,Monroe,Bloomington,-,,DEBORAH,TAPP,SCHMALTZ,BETWEEN,TAPP AND SCHMALTZ,2-WAY,NB/SB,,,,,,,
+o4922,Monroe,Bloomington,-,,MONROE,,,,,2-WAY,NB/SB,,,,39.186572,-86.546699,,
+q4350,Monroe,Bloomington,-,,WALNUT,ALLEN,DIXIE,BETWEEN,ALLEN AND DIXIE,2-WAY,NB/SB,,,,,,,
+q4624,Monroe,Bloomington,-,,LINCOLN ST,10TH,9th,BETWEEN,10TH AND 9th,1-WAY,,,,,,,,
+q4713,Monroe,Bloomington,-,,WASHINGTON,11TH ST,12TH ST,BETWEEN,11TH ST AND 12TH ST,1-WAY,SB,,,,,,,
+r4323,Monroe,Bloomington,-,,HIGHLAND,TARZIAN,SOUTHDOWNS,BETWEEN,TARZIAN AND SOUTHDOWNS,2-WAY,NB/SB,,,,,,,
+rcl1578,Monroe,Bloomington,-,,CRESCENT,,,SOUTH OF,17TH,2-WAY,NB/SB,,,,,,,
+rcl223,Monroe,Bloomington,-,,DEBORAH,COTA,TAPP,BETWEEN,COTA AND TAPP,2-WAY,NB/SB,,,,,,,
